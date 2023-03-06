@@ -1,0 +1,277 @@
+input[type="checkbox"] {
+    opacity: 1;
+}
+
+@font-face {
+    font-family: 'A-OTF Shin Go Pro EL';
+    font-style: normal;
+    font-weight: normal;
+    src: local('A-OTF Shin Go Pro EL'), url('AOTFShinGoProExLight.woff') format('woff');
+    }
+
+body {
+    background: black;
+    color: white;
+    font-family: 'Roboto', sans-serif; 
+    /* font-family:'A-OTF Shin Go Pro EL'; */
+    /* font-weight:normal; */
+    /* font-size:42px; */
+    display: flex;
+    flex-flow: column;
+    
+}
+
+.events { 
+    width: 35%;
+    height: var(--window-body);
+    outline: 0px solid white;
+    justify-content: center;
+    background: var(--menu-bg);
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+}
+
+.menu {
+    margin-top: 1rem;
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    height: 100vh;
+    gap: 1px;
+    
+}
+
+.prim {
+    outline: 0px dashed red;
+    background: hsl(0, 0%, 12.5%);
+}
+
+.menu-row-first {
+    display: flex;
+    justify-content: right;
+    gap: 1rem;
+    outline: 1px dashed cyan;
+    position: sticky;
+    top: 0;
+    padding: .5rem;
+    padding-bottom: 0;
+}
+
+.tutorial {
+    padding: 1rem;
+    padding-left: 0;
+    
+}
+
+.gap {
+    padding: .5rem;
+}
+
+.hide-tuto:hover {
+    transform: scale(1.1);
+    transition: var(--transition);
+}
+
+
+.menu-row {
+    display: flex;
+    gap: 0;
+    outline: 0px dashed fuchsia;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    padding: .5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.link {
+    width: 75%;
+    /* border-radius: 10px; */
+    /* outline: 0px solid hsl(0, 0%, 25%); */
+    outline: 0px dashed fuchsia;
+}
+
+.menu-row:hover {
+    outline: 1px solid hsl(0, 0%, 50%);
+    background: hsl(0, 0%, 12.5%);
+}
+
+.link-initial {
+    width: 75%;
+    outline: 0px dashed cyan;
+    display: flex;
+    flex-flow: column;
+    justify-content: right;
+    align-items: center;
+    padding: .5rem;
+    border-radius: 5px;
+    
+}
+
+.absolute {
+    position: absolute;
+}
+
+.initial-input {
+    outline: 0px dashed yellow;
+    margin-left: 0;
+    width: 22.5%;
+}
+
+.initial-input-text {
+    font-size: 1.5vh; 
+    display: flex; 
+    padding: .25rem;
+}
+
+.menu-batch {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    outline: 0px dashed yellow;
+
+    gap: .5rem;
+}
+
+.menu-numbers {
+    display: flex;
+    justify-content: end;
+    flex-flow: column;
+    outline: 0px dashed cyan;
+    gap: .25rem;
+    margin: 0 auto;
+    width: 25%;
+    padding-bottom: 0;
+}
+
+.menu-numbers-tutorial {
+    display: flex;
+    justify-content: end;
+    flex-flow: column;
+    outline: 0px dashed cyan;
+    gap: .25rem;
+    margin: 0 auto;
+    width: 100%;
+    padding-bottom: 0;
+}
+
+.menu-element {
+    outline: 0px dashed yellow;
+    height: 2.8vh;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.menu-element-tutorial {
+    outline: 0px dashed yellow;
+    height: 2.8vh;
+    display: flex;
+    width: 75%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.menu-element img{
+    width: 2.5vh;
+    height: 2.5vh;
+    object-fit: contain;
+    outline: 0px dashed fuchsia;
+}
+
+
+
+.numbers {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    outline: 0px solid cyan;
+    font-family: 'roboto';
+    
+}
+
+.numbers-tutorial {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    outline: 0px solid cyan;
+    font-family: 'roboto';
+    
+}
+
+
+.filtered {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+.menu-svg {
+    outline: 0px solid red;
+    width: 50%;
+    display: flex;
+    justify-content: right;
+}
+
+.menu-svg-tutorial {
+    outline: 0px solid red;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-svg img {
+    outline: 0px solid cyan;
+    margin-right: 1rem;
+}
+
+.menu-reward {
+    outline: 0px solid gold;
+    font-size: 2.25vh;
+}
+
+.menu-reward2 {
+    color: rgba(0, 255, 0, 0.75);
+    font-size: 2vh;
+}
+
+.batch-title {
+
+    outline: 0px dashed cyan;
+    color: white;
+    
+}
+
+
+.batch-img-container {
+    border-radius: 10px;
+}
+.batch-img-container img {
+    border-radius: 10px;
+}
+
+.eventclick:hover {
+    cursor: pointer;
+}
+
+
+.skins>ul#container li {
+    display: none;
+    transition: opacity .5s;
+    position: absolute;
+    padding: 20px;
+
+}
+/* TODO manually update this number */
+  .skins>ul#container li:nth-of-type(1) {
+    display: flex
+    
+}  
+
+.skins>ul#container li:target {
+    display: flex;
+    /*Mostramos el <li> del enlace que pulsemos*/
+}

@@ -1,0 +1,251 @@
+.header input[type="checkbox"]{
+    display: none; 
+}
+
+.header input[type="file"]{
+    display: none; 
+}
+
+.numbers-tutorial input[type="checkbox"]{
+    display: none; 
+}
+
+.header-button {
+    
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: 0px solid white;
+    width: 7%;
+    height: 3vh;
+}
+
+.header-button-opt {
+   outline: 0px dashed cyan;
+   border-bottom: 1px solid #212121;
+} 
+
+.opt-item {
+    outline: 0px solid purple;
+    height: 5vh;
+    z-index: 3;
+}
+
+.opt-item:hover {
+    transform: scale(1.1);
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.header-button img,
+.header-button-opt img{
+    outline: 0px solid fuchsia;
+    height: 2vh
+}
+
+
+.header-button:hover {
+    transform: scale(1.1);
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+#gallery-container {
+    width: 65%;
+    display: none;
+    flex-flow: column;
+    outline: 0px dashed fuchsia;
+    /* border-left: 1px solid hsl(0, 0%, 50%); */
+    height: var(--window-body);
+    overflow-y: scroll;
+    background-color: var(--menu-bg);
+    padding: 20px;
+    gap: 5px;
+    
+}
+
+.initial-input2 {
+    outline: 0px dashed fuchsia;
+    margin-left: 0;
+    width: calc(var(--card-width) / 1.25 * 2 + 10px);
+}
+
+#gallery-container input[type="checkbox"]{
+    display: none; 
+}
+
+.header-button input[type="checkbox"]:checked + label {
+    /* filter: grayscale(100%); */
+    outline: 0px solid white;
+}
+
+.blacklist {
+    width: calc(var(--card-width) / 1.15);
+    outline: 0px dashed cyan;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.ban-text {
+    font-size: 2vh;
+    font-family: 'abel';
+}
+
+.ban-container {
+    outline: 0px dashed yellow;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: left;
+    perspective: 1000px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.125);
+    padding: 1rem;
+}
+
+.ban-box {
+    outline: 1px solid var(--card-outline);
+    border-radius: 5px;
+    background: var(--card-bg);
+}
+
+.ban-box:hover {
+    
+    transform: scale(1.1);
+    transition: var(--transition);
+    outline: 1px solid var(--card-outline);
+}
+
+.gallery-view {
+    outline: 0px dashed fuchsia;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 1rem;
+    width: 22.5%;
+    height: 90%;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    font-family: 'abel';
+    font-size: 2.5vh;
+    background: hsla(0, 0%, 15%, 0.75);
+    margin: 1rem;
+    border-radius: 10px;
+    z-index: 3;
+}
+
+.gallery-element {
+    outline: 0px dashed cyan;
+}
+
+
+.gallery-row {
+    outline: 0px dashed yellow;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+
+.first-row {
+    justify-content: space-between;
+}
+
+#gallery_view-icon {
+    width: 10vh;
+}
+
+#gallery_view-portrait {
+    width: 7vh;
+}
+
+.currency-div {
+    outline: 0px solid red;
+    width: 10vh;
+    display: flex;
+
+    align-items: center;
+}
+
+.currency-div img{
+    outline: 0px dashed fuchsia;
+    height: 4vh;
+
+}
+
+.name {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 3.25vh;
+}
+
+.gallery-video {
+    width: 100%;
+    height: 18vw;
+    outline: 2px solid var(--card-outline);
+    border-radius: 20px;
+    /* overflow: hidden; */
+    
+    
+}
+
+video {
+    scale: 1.5;
+    margin-top: -20%;
+    background: hsl(0, 0%, 10%);
+    
+}
+
+.video-buttons {
+    outline: 0px dashed cyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    z-index: 5;
+}
+
+.video-button {
+    outline: 0px solid var(--card-outline);
+    
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-button img {
+    filter: invert();
+    width: 25px;
+    height: 25px;
+
+}
+
+canvas {
+    background-color: transparent;
+    border-radius: 20px;
+    
+}
+
+#chibi {
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+}
+
+#chibi-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-name {
+    line-height: 1.2;
+}
