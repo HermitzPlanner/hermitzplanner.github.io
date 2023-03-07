@@ -55,10 +55,6 @@ fetch("json/skins.json")
         //${user.art}
         skin = `${user.code}`
         char = `${user.codechar}`
-        console.log('code')
-        console.log(user.code)
-        console.log('code char')
-        console.log(user.codechar)
 
         var scale = 1;
 
@@ -129,7 +125,6 @@ fetch("json/skins.json")
 
         let chibiwidth = document.getElementById("chibi").offsetWidth;
         let chibiheight = document.getElementById("chibi").offsetHeight;
-        console.log(chibiheight)
         app.renderer.resize(chibiheight, app.renderer.height);
         app.renderer.resize(chibiwidth, app.renderer.width);
 
@@ -206,9 +201,7 @@ function folderUpdate() {
 }
 
 function animationUpdate() {
-  console.log(' LOOOOOOOOOL')
   animationSelector.innerHTML = '<option selected disabled value="Animation">Animation</option>'
-  //
 }
 
 function charaSelect() {
@@ -244,8 +237,6 @@ function pixi() {
     const speed = document.getElementById('speed')
     speed.addEventListener('change', function(){
       timeScale = speed.value
-      console.log('time scale')
-      console.log(timeScale)
     })
     skinSpine.alpha = 1;
     skinSpine.scale.set(.5)
@@ -295,10 +286,10 @@ function pixi() {
 
 
   animationSelector.addEventListener('change', function () {
-    console.log('animation value')
-    console.log(animationSelector.value)
+    //console.log('animation value')
+    //console.log(animationSelector.value)
     skinSpine.state.setAnimation(0, animationSelector.value, true)
-    console.log(animationSelector.value)
+    //console.log(animationSelector.value)
     if (animationSelector.value == 'Sit') {
       skinSpine.y = app.screen.height / 1.25
     } else {

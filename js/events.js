@@ -254,7 +254,7 @@ async function events() {
                 doThing();
             ">
             <label for="rerunreward-batch${eventJson.eventN}" id="rerunreward-batch${eventJson.eventN}-label" class="select-all-button all" style="font-size: 1.8vh; cursor: pointer;">
-            <div>Enable Rewards</div>
+            <div>Enable Reward</div>
             </label>`
             
             fragment.appendChild(rerunReward);
