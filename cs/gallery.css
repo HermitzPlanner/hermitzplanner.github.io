@@ -130,6 +130,7 @@
     display: flex;
     flex-flow: column;
     justify-content: space-between;
+    align-items: center;
     font-family: 'abel';
     font-size: 2.5vh;
     background: hsla(0, 0%, 15%, 0.75);
@@ -142,12 +143,25 @@
     outline: 0px dashed cyan;
 }
 
+.gallery-info {
+    width: 50%;
+}
+
+.gallery-info2 {
+    width: 10vh;
+    display: flex;
+    align-items: center;
+    gap: 10%;
+    font-size: 2vh;
+
+}
+
 
 .gallery-row {
-    outline: 0px dashed yellow;
     display: flex;
     align-items: center;
     gap: .5rem;
+    width: 75%;
 }
 
 .first-row {
@@ -163,7 +177,6 @@
 }
 
 .currency-div {
-    outline: 0px solid red;
     width: 10vh;
     display: flex;
 
@@ -179,7 +192,7 @@
 .name {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
-    font-size: 3.25vh;
+    font-size: 3vh;
 }
 
 .gallery-video {

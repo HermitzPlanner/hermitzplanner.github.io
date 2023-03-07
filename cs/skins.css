@@ -263,7 +263,7 @@ select-all input[type="checkbox"]{
 .card-price{
     outline: 0px solid white;
     position: absolute;
-    top: 80%;
+    top: 60%;
     left: 0%;
     width: var(--card-width);
     height: 4vh;
@@ -431,12 +431,14 @@ select-all{
     height: 4vh;
     background: var(--card-bg);
     width: var(--card-width);
+    height: 4.5vh;
     border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: .5rem;
     outline: 2px solid var(--card-outline);
+    font-size: 2vh;
 }
 
 .select-all-button:hover {

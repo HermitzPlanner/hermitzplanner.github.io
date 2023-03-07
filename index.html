@@ -111,7 +111,7 @@
 
         <section class="full-image">
             <div id="full-image-container">
-                <img src="svg/quit.svg" class="quit-btn" style="filter: invert();" onclick="displayArt();" alt="">
+                <img src="svg/x-solid.svg" class="quit-btn" style="filter: invert();" onclick="displayArt();" alt="">
                 <img id="full-image" src="" alt="">
                 <div class="gallery-view" id="gallery-view">
 
@@ -125,55 +125,37 @@
                     </div>
 
                     <div class="gallery-row first-row">
-                        <span style="width: 45%; outline: 0 solid white;" class="gallery-element">Obtain</span>
-                        <!-- <span style="position: relative; left: -10%;">-</span>    -->
-                        <div class="currency-div">
-                            <span class="gallery-element" style="font-size: 2vh;" id='gallery_view-obtain'></span>
+                        <span class="gallery-info">Obtain</span>
+                        <div class="gallery-info2">
+                            <span id='gallery_view-obtain'></span>
                         </div>
                     </div>
 
                     <div class="gallery-row first-row">
-                        <span style="width: 45%; outline: 0px solid white;" class="gallery-element">Price</span>
-                        <!-- <span style="position: relative; left: -10%;">-</span>      -->
-                        <div class="currency-div" style="outline: 0px solid white;">
-                            <img src="" class="gallery-element" id='gallery_view-currency'>
-                            <span
-                                style="width: 50%; display: flex; justify-content: center; outline: 0px solid white; padding: 0;"
-                                class="" id='gallery_view-price'></span>
+                        <span class="gallery-info">Price</span>
+                        <div class="gallery-info2">
+                            <span id='gallery_view-price'></span>
+                            <img src="" style="height: 2.5vh;" id='gallery_view-currency'>
                         </div>
                     </div>
 
                     <div class="gallery-row" style="display: flex; justify-content: space-between;">
-                        <span style="width: 45%; outline: 0 solid white;">CN Release</span>
-                        <!-- <span style="position: relative; left: -10%;">-</span> -->
-                        <span style="width: 10vh; outline: 0px solid white; font-size: 2vh;" class="gallery-element"
-                            id='gallery_view-release'></span>
+                        <span class="gallery-info">CN Release</span>
+                        <span class="gallery-info2" id='gallery_view-release'></span>
                     </div>
                     <div class="gallery-row" style="display: flex; justify-content: space-between;">
-                        <span style="width: 45%; outline: 0 solid white;">NA Release</span>
-                        <!-- <span style="position: relative; left: -10%;">-</span> -->
-                        <span style="width: 10vh; outline: 0px solid white; font-size: 2vh;" class="gallery-element"
-                            id='gallery_view-release-global'></span>
+                        <span class="gallery-info">NA Release</span>
+                        <span class="gallery-info2" id='gallery_view-release-global'></span>
                     </div>
 
                     <div class="gallery-row" style="display: flex; justify-content: space-between;">
-                        <div style="display: flex; width: 45%; outline: 0 solid white;">
-                            <span>Artist</span>
-                        </div>
-                        <!-- <span style="position: relative; left: -10%;">-</span> -->
-                        <div style="outline: 0px solid white; font-size: 2vh; width: 10vh;">
-                            <span class="gallery-element" id='gallery_view-artist'></span>
-                        </div>
+                        <span class="gallery-info">Artist</span>
+                            <span class="gallery-info2" id='gallery_view-artist'></span>
                     </div>
 
                     <div class="gallery-row" style="display: flex; justify-content: space-between;">
-                        <div style="display: flex; width: 45%; outline: 0 solid white;">
-                            <span style="display: flex; justify-self: center">Brand</span>
-                        </div>
-                        <!-- <span style="position: relative; left: -10%;">-</span> -->
-                        <div style="outline: 0px solid white; font-size: 2vh; width: 10vh;">
-                            <span class="gallery-element" id='gallery_view-brand'></span>
-                        </div>
+                        <span class="gallery-info">Brand</span>
+                            <span class="gallery-info2" id='gallery_view-brand'></span>
 
                     </div>
                     <div id="chibi-container" class="gallery-video">
@@ -186,23 +168,21 @@
                         <button class="video-button" onclick="playPause();"><img src="svg/play-solid.svg" alt=""></button>
                         <button class="video-button" onclick="stop();"><img src="svg/stop-solid.svg" alt=""></button>
                     </div> -->
-                    <div style="display: flex; gap: .5rem;">
-                        <select style="width: calc(100% / 3);" name="perspective" id="perspective">
+                    <div style="display: flex; justify-content: space-around; outline: 0px solid gold; width: 100%; gap: 5%;">
+                        <select style="width: 40%;" name="perspective" id="perspective">
                             <option selected value="front">Front</option>
                             <option id="backpers" value="back">Back</option>
                             <option value="build">Build</option>
                         </select>
 
-                        <select style="width: calc(100% / 3);" name="animation" id="animation">
+                        <select style="width: 40%;" name="animation" id="animation">
                         </select>
 
-                        <select tyle="width: calc(100% / 3);" name="speed" id="speed">
-                            <option selected disabled value="">Speed</option>
-                            <option value="0.1">0.1</option>
-                            <option value="0.25">0.25</option>
-                            <option value="0.5">0.5</option>
-                            <option value="1">1</option>
-                            <option value="2">2</option>
+                        <select style="width: 20%;" name="speed" id="speed">
+                            <option value="0.1">x0.1</option>
+                            <option value="0.5">x0.5</option>
+                            <option selected value="1">x1</option>
+                            <option  value="2">x2</option>
 
                         </select>
                     </div>

@@ -1,9 +1,6 @@
 document.getElementById('menu-initialprime').addEventListener('input', function () {
     let initialPrime = document.getElementById('menu-initialprime').value;
-    //console.log(initialPrime)
     localStorage.setItem("initialPrimeStorage", initialPrime)
-    //console.log('initialPrimeStorage')
-    //console.log(localStorage.getItem("initialPrimeStorage"))
 });
 
 function hideTutorial() {
@@ -54,11 +51,18 @@ function skinGallery() {
     }
 }
 
+
 function displayArt() {
     const h1 = document.getElementById('full-image-container');
     h1.style.display = 'none';
     document.getElementById('full-image').src = '';
 }
+
+document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape') {
+      displayArt();
+    }
+  });
 
 function mobileCheck() {
     const arrowLoad = document.querySelector('.slider-container')
@@ -284,8 +288,6 @@ async function events() {
         const summation = []
         skinData.slice().reverse().forEach(function (skinJson) {
             if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
-                //console.log(`operator: ${skinJson.id}`)
-                // select all prices from the ifs and push it to summation string
                 summation.push(parseFloat(skinJson.price))
                 impostor.push(skinJson.skinname)
                 let card;
@@ -406,14 +408,11 @@ function loadFile() {
         var lines = reader.result.split('\n');
         var variable1 = lines[0].trim();
         var variable2 = lines[1].trim();
-        // Assign the contents of the file to a variable
-        //content = reader.result;
-        //console.log('content');
-        //console.log(content);
+
 
         contentarray = JSON.parse(variable1);
-        console.log('contentarray');
-        console.log(contentarray);
+        //console.log('contentarray');
+        //console.log(contentarray);
         for (var i = contentarray.length - 1; i >= 0; i--) {
             document.getElementById(`${contentarray[i]}`).click();
         }
@@ -431,8 +430,8 @@ function loadFile() {
 
 async function skinStorage() {
     selectedSkinStorage = JSON.parse(localStorage.getItem("storageSkins"))
-    console.log('selectedSkinStorage')
-    console.log(selectedSkinStorage)
+    //console.log('selectedSkinStorage')
+    //console.log(selectedSkinStorage)
     for (var i = selectedSkinStorage.length - 1; i >= 0; i--) {
         document.getElementById(`${selectedSkinStorage[i]}`).click();
     }
@@ -445,7 +444,7 @@ async function initialLoad() {
         document.getElementById('menu-initialprime').value = 0
     }
     //localStorage.clear()
-    console.log(localStorage)
+    //console.log(localStorage)
     if (localStorage.getItem("tutorialCheckStorage") == 'true') {
 
         hideTutorial();

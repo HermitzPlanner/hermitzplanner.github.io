@@ -41,6 +41,7 @@ fetch("json/skins.json")
       inputt.addEventListener('change', tururu)
       function tururu() {
 
+        speed.value = 1;
         skin = ''
         var img = document.getElementById('full-image');
         img.style.transform = 'scale(1)';
@@ -66,10 +67,11 @@ fetch("json/skins.json")
             // zoom in
             scale += 0.1;
           } else {
-            // zoom out
-            scale -= 0.1;
+            // zoom out if scale is greater than the minimum value
+            if (scale > 0.5) {
+              scale -= 0.1;
+            }
           }
-
           img.style.transform = 'scale(' + scale + ')';
         });
 
@@ -116,7 +118,7 @@ fetch("json/skins.json")
         } else {
           document.getElementById('gallery_view-price').innerHTML = user.price
           document.getElementById('gallery_view-currency').src = user.currency
-          document.querySelector('.currency-div').style.padding = '0';
+          //document.querySelector('.currency-div').style.padding = '0';
 
         }
 
@@ -160,6 +162,8 @@ let animation;
 const pixelEquivalent = window.innerWidth / 100;
 const vwValueInPixels = pixelEquivalent * 18; // convert 1vw to pixels
 const chibicont = document.getElementById('chibi-container')
+let speed = document.getElementById('speed')
+
 
 const app = new PIXI.Application({
 
@@ -234,7 +238,6 @@ function pixi() {
     skinSpine.x = app.screen.width / 2;
     skinSpine.y = app.screen.height;
     let timeScale = 1
-    const speed = document.getElementById('speed')
     speed.addEventListener('change', function(){
       timeScale = speed.value
     })

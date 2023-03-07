@@ -118,7 +118,7 @@ class cardComponent extends HTMLElement{
 
             cardprice.style.opacity = '1';
             cardprice.style.filter = 'blur(0)';
-            cardprice.style.top = 'calc(100% - 12vh)';
+            
             
             if (${this.price} < 15 || ${this.price} > 24) {
                 cardPriceImg.style.width = '0%'
@@ -158,7 +158,7 @@ class cardComponent extends HTMLElement{
 
             cardprice.style.opacity = '0';
             cardprice.style.filter = 'blur(3px)';
-            cardprice.style.top = '80%';
+            
 
             skininfo.style.left = '0';
             skininfo.style.transition = 'var(--transition)';
@@ -189,6 +189,7 @@ class cardComponent extends HTMLElement{
 
             const thisSkinSelectLabel = document.getElementsByClassName('label_${this.userid}')
             const thisSkinSelect = document.getElementsByClassName('${this.userid}')
+            const zoomButton = document.getElementsByClassName('display-art__${this.userid}')
 
             
             if (cbox_${this.userid}_batch${this.nbatch}.checked == true) {
@@ -205,6 +206,12 @@ class cardComponent extends HTMLElement{
                 for(var i=0, n=thisSkinSelect.length;i<n;i++) {
                     thisSkinSelect[i].style.pointerEvents = 'none';
                 }
+
+                for(var i=0, n=zoomButton.length;i<n;i++) {
+                    zoomButton[i].style.opacity = '0';
+                }
+
+                document.getElementById('display-art__${this.userid}_batch${this.nbatch}').style.opacity = '1';
 
                 const nextCardNoCheck = document.getElementById('card_${this.userid}_batch${this.nbatch}')
                 nextCardNoCheck.style.pointerEvents = '';
@@ -247,6 +254,10 @@ class cardComponent extends HTMLElement{
 
                 for(var i=0, n=thisSkinSelect.length;i<n;i++) {
                     thisSkinSelect[i].style.pointerEvents = '';
+                }
+
+                for(var i=0, n=zoomButton.length;i<n;i++) {
+                    zoomButton[i].style.opacity = '1';
                 }
 
                 document.getElementById('skin-cost${this.nbatch}').innerHTML = parseFloat(divValue) - parseFloat(${this.price})
@@ -294,34 +305,8 @@ class cardComponent extends HTMLElement{
                     
                 </div>
 
-                <div class="display-art" id="display-art__${this.userid}_batch${this.nbatch}" onclick="
+                <div class="display-art display-art__${this.userid}" id="display-art__${this.userid}_batch${this.nbatch}" onclick="
                 
-                    const h1 = document.getElementById('full-image-container');
-                    h1.style.display = 'flex';
-                    document.getElementById('full-image').src= '${this.fullart}';
-
-
-                    document.getElementById('gallery_view-english').innerHTML = '${this.fullenglish}'
-                    document.getElementById('gallery_view-icon').src = '${this.icon}'
-                    document.getElementById('gallery_view-brand').innerHTML = '${this.brand}'
-                    document.getElementById('gallery_view-release').innerHTML = '${this.release}'
-                    document.getElementById('gallery_view-release-global').innerHTML = '${this.releaseglobal}'
-                    document.getElementById('gallery_view-skinnameenglish').innerHTML = '${this.skinnameenglish}'
-                    
-                    if (${this.price} < 15 || ${this.price} > 24) {
-                        document.getElementById('gallery_view-price').innerHTML = '${this.tokens}'
-                        document.getElementById('gallery_view-currency').src = '${this.currency}'
-                        document.querySelector('.currency-div img').style.padding = '.25rem';
-                    } else {
-                        document.getElementById('gallery_view-price').innerHTML = '${this.price}'
-                        document.getElementById('gallery_view-currency').src = '${this.currency}'
-                        document.querySelector('.currency-div').style.padding = '0';
-
-                    }
-                    
-                    document.getElementById('gallery_view-obtain').innerHTML = '${this.obtain}'
-                    document.getElementById('gallery_view-artist').innerHTML = '${this.artist}'
-
                     document.getElementById('ban_${this.userid}').click();
                     ">
                     

@@ -294,12 +294,10 @@ main {display: flex;}
 select {
   color: white;
   background: hsl(0, 0%, 25%);
-  border-radius: 5px;
 }
 
 .quit-btn {
-  width: 10vh;
-  height: 100%;
+  width: 7.5vh;
   position: absolute;
   top: 0;
   left: 100%;
