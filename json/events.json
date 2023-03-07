@@ -15,7 +15,7 @@
     "eventN": "2",
     "cnName": "绿野幻梦",
     "event": "Dorothy's Vision",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "27",
     "status": "upcoming",
@@ -27,7 +27,7 @@
     "eventN": "3",
     "cnName": "日暮寻路",
     "event": "An Obscure Wanderer",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "18",
     "status": "upcoming",
@@ -39,7 +39,7 @@
     "eventN": "4",
     "cnName": "好久不见",
     "event": "It's Been A While",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "17",
     "status": "upcoming",
@@ -63,7 +63,7 @@
     "eventN": "6",
     "cnName": "水月与深蓝之树",
     "event": "IS#3 Mizuki & Caerula Arbor",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "0",
     "status": "upcoming",
@@ -73,9 +73,21 @@
   },
   {
     "eventN": "7",
+    "cnName": "淬火尘霾",
+    "event": "Chapter 11: Return To Mist",
+    "type": "",
+    "rewardRerun": "0",
+    "reward": "36",
+    "status": "upcoming",
+    "eventImage": "https://ak.hycdn.cn/announce/images/20220930/0b5f366113d08d7960f7981d78b6e56a.jpg",
+    "link": "https://prts.wiki/w/淬火尘霾",
+    "skins": "[\"手到牌来\", \"镜中来访\", \"幻影轻悄\", \"宣传策略\", \"殿堂上的游禽\",]"
+  },
+  {
+    "eventN": "8",
     "cnName": "叙拉古人",
     "event": "Il Siracusano",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "41",
     "status": "upcoming",
@@ -84,10 +96,10 @@
     "skins": "[\"遥乡之径, 今昔须臾之梦, 拥抱新生, 复现荣光, 荒野之后, 如歌, 传承, 杰作, 暗矢, 意志, 少尉, 覆雪,意志,少尉,庭院寻梦尖兵,广场扫荡客,弃土花开,宝藏行家,远望,探寻者 SKm01,夏卉 FA333,探寻者 SK03,驭浪 WR04,悠然假日 HD08,灿阳朝露 SD05,灿阳朝露 SD01,夏卉 FA008,除魅,寻耀,回味冰霜雪,书味,掠蜜能手,坚城,质素访客,典雅噩兆,无题密令,归巢,第七夜苏醒魔君,战医,整装待发,狩标浪人,岁红霞,富贵荣华,春竜,片场一角,厚礼,约克的寒风,开斯特之霜,枯柏,燃灰,挽歌,盛宴,魔术师,漆匠,石墨,铁块,悠然假日 HD01,静谧午夜 DN02,温差 RT.RX01,日晒 SS.SP,夏卉 FA361,夏卉 FA011,野地秘行,四边形,孤攀客,寒冬信使,暗流,新航线\"]"
   },
   {
-    "eventN": "8",
+    "eventN": "9",
     "cnName": "赝波行动",
     "event": "CC#11 Operation Fake Waves",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "0",
     "status": "upcoming",
@@ -96,7 +108,7 @@
     "skins": "[\"下午茶时光, 八音蛋匠人\"]"
   },
   {
-    "eventN": "9",
+    "eventN": "10",
     "cnName": "风雪过境·复刻",
     "event": "Break The Ice",
     "type": "Rerun",
@@ -108,10 +120,10 @@
     "skins": "[\"灵巧侍者, 霍恩洛厄的寒沙, 希望巡游, 纸板仙子, 糖果仙子, 雪夜回音, 覆雪\"]"
   },
   {
-    "eventN": "10",
+    "eventN": "11",
     "cnName": "照我以火",
     "event": "What The Firelight Casts",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "29",
     "status": "upcoming",
@@ -120,7 +132,7 @@
     "skins": "[\"喜夜侍者, 未讲述的故事, 演出后的王子, 软绒, 随性, 模特之夜\"]"
   },
   {
-    "eventN": "11",
+    "eventN": "12",
     "cnName": "将进酒·复刻",
     "event": "Invitation To Wine",
     "type": "Rerun",
@@ -132,10 +144,10 @@
     "skins": "[\"廊下游,乐逍遥,百面郎中,一介车夫\"]"
   },
   {
-    "eventN": "12",
+    "eventN": "13",
     "cnName": "引航者试炼 #02",
     "event": "Trials For Navigator #02",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "0",
     "status": "upcoming",
@@ -144,10 +156,10 @@
     "skins": "[\"枝头馥\"]"
   },
   {
-    "eventN": "13",
+    "eventN": "14",
     "cnName": "登临意",
     "event": "Where Vernal Winds Will Never Blow",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "29",
     "status": "upcoming",
@@ -156,10 +168,10 @@
     "skins": "[\"濯缨,灯如昼,照冰轮,染尘烟,冷山月,且试箸,糖果仙子,雪夜回音,覆雪,铁律,意志,少尉,梦魇之梦,庭院寻梦尖兵,广场扫荡客,美妙时光,弃土花开,宝藏行家,远望,探寻者 SKm01,夏卉 FA333,探寻者 SK03,驭浪 WR04,悠然假日 HD08,灿阳朝露 SD05,灿阳朝露 SD01,夏卉 FA008,除魅,寻耀,回味冰霜雪,书味,掠蜜能手,坚城,质素访客,典雅噩兆,无题密令,归巢,第七夜苏醒魔君,战医,整装待发,狩标浪人,岁红霞,富贵荣华,春竜,片场一角,厚礼,约克的寒风,开斯特之霜,枯柏,燃灰,挽歌,盛宴,魔术师,漆匠,石墨,铁块,悠然假日 HD01,静谧午夜 DN02,温差 RT.RX01,日晒 SS.SP,夏卉 FA361,夏卉 FA011,野地秘行,四边形,孤攀客,寒冬信使,暗流,新航线\"]"
   },
   {
-    "eventN": "14",
+    "eventN": "15",
     "cnName": "沙中之火",
     "event": "Fire Within The Sand",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "0",
     "status": "upcoming",
@@ -168,10 +180,10 @@
     "skins": "[\"山川的酿造\"]"
   },
   {
-    "eventN": "15",
+    "eventN": "16",
     "cnName": "故事集「春分」",
     "event": "A Death In Chunfen",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
     "reward": "18",
     "status": "upcoming",
@@ -180,7 +192,7 @@
     "skins": "[\"绘声绘影\", \"字句中的雪原\", \"秋高气爽\",  \"营地炊烟\", \"面纱之下\", \"无拘无束\", \"街道狂花\"]"
   },
   {
-    "eventN": "16",
+    "eventN": "17",
     "cnName": "「吾导先路」复刻",
     "event": "Guiding Ahead",
     "type": "Rerun",
@@ -192,12 +204,12 @@
     "skins": "[\"拾翼\", \"培翠\", \"识芳\", \"植药\"]"
   },
   {
-    "eventN": "17",
+    "eventN": "18",
     "cnName": "落叶逐火",
     "event": "Leaves Chasing Fire",
-    "type": "First",
+    "type": "",
     "rewardRerun": "0",
-    "reward": "0",
+    "reward": "28",
     "status": "upcoming",
     "eventImage": "https://ak.hycdn.cn/announce/images/20230303/0e7babe33de4edfca9f2d97a4b5ddd03.JPG",
     "link": "https://prts.wiki/w/落叶逐火",
