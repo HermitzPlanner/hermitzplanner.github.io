@@ -16,6 +16,8 @@ function menuoptions() {
 
 }
 
+//document.getElementById('lol').innerHTML = ``
+
 function menuleave() {
     menuopts.checked = false
 }
