@@ -341,6 +341,7 @@ async function events() {
                 // cardPriceText.style.color = 'white';
                 // }
             }
+
         });
         //sums all the prices
         let sum;
@@ -369,6 +370,42 @@ async function events() {
             batchHider.style.display = 'none'
             batchContentHider.style.display = 'none'
         }
+
+        const rewardInitial = document.getElementById(`menu-reward-initial-batch${eventJson.eventN}`)
+        rewardInitial.addEventListener("DOMSubtreeModified", function () {
+            if (rewardInitial.textContent === "0") {
+                rewardInitial.style.opacity = 0.6
+            } else {
+                rewardInitial.style.opacity = 1;
+            }
+        });
+
+        const reward = document.getElementById(`menu-reward-batch${eventJson.eventN}`)
+        reward.addEventListener("DOMSubtreeModified", function () {
+            if (reward.textContent === "0") {
+                reward.style.opacity = 0.6
+            } else {
+                reward.style.opacity = 1;
+            }
+        });
+
+        const skincost = document.getElementById(`menu-skincost-batch${eventJson.eventN}`)
+        skincost.addEventListener("DOMSubtreeModified", function () {
+            if (skincost.textContent === "0") {
+                skincost.style.opacity = 0.6
+            } else {
+                skincost.style.opacity = 1;
+            }
+        });
+
+        const remaining = document.getElementById(`menu-remaining-batch${eventJson.eventN}`)
+        remaining.addEventListener("DOMSubtreeModified", function () {
+            if (remaining.textContent === "0") {
+                remaining.style.opacity = 0.6
+            } else {
+                remaining.style.opacity = 1;
+            }
+        });
 
     });
 
@@ -476,6 +513,20 @@ async function main() {
     if (localStorage.getItem("storageSkins") === null) { } else {
         await skinStorage();
     }
+
+    const menuRewards = document.getElementsByClassName('menu-reward')
+    for (var i = 0; menuRewards[i]; i++) {
+        if (menuRewards[i].textContent === "0" || menuRewards[i].textContent === "+0") {
+            menuRewards[i].style.opacity = 0.6;
+        }
+    }
+
+    // const menuRewards2 = document.querySelectorAll('.menu-reward')
+    // console.log(menuRewards2[5])
+
+
+
+
 
 } main();
 

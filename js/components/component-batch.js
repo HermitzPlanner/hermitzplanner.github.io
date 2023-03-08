@@ -158,8 +158,3 @@ function doThing(){
 doThing();
 
 document.getElementById('menu-initialprime').addEventListener('input', doThing);
-
-
-function amogus(){
-    
-}

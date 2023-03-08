@@ -281,7 +281,7 @@ class cardComponent extends HTMLElement{
             doThing();">  
 
             <label class="label batch${this.nbatch} label_${this.userid}" for="cbox_${this.userid}_batch${this.nbatch}">
-
+            
                 <div class="skin-info" id="skin-info__${this.userid}_batch${this.nbatch}">
                     <div class="operator-name" id="op-name-${this.english}-batch${this.nbatch}">${this.english}</div>
                     <div class="skin-name">${this.obtain}</div>
@@ -295,9 +295,7 @@ class cardComponent extends HTMLElement{
 
                 
                 
-                <div class="operator-selected batch${this.nbatch}" id="operator-selected__${this.userid}_batch${this.nbatch}">
-                    <img src="svg/check3.svg" alt="">
-                </div>
+                
                 
                 <div class="card-price" id="card-price__${this.userid}_batch${this.nbatch}">
                     <div class="card-price-image" id="cost-image__${this.userid}_batch${this.nbatch}"><img src="${this.currency}" alt=""></div>
@@ -314,6 +312,10 @@ class cardComponent extends HTMLElement{
                     <label for="display-art__${this.userid}_batch${this.nbatch}"><img src="svg/search.svg" class="search" type=""></label>
 
                 </div>
+
+                <div class="operator-selected batch${this.nbatch}" id="operator-selected__${this.userid}_batch${this.nbatch}">
+                    <img src="svg/check3.svg" alt="">
+                    </div>
 
             </label>
 
