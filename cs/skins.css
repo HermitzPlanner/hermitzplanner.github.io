@@ -103,7 +103,7 @@ select-all input[type="checkbox"]{
 
 .card label{
     outline: 2px solid var(--card-outline);
-    border-radius: 5px;
+    border-radius: 0px 4px 4px 4px;
     background: var(--card-bg); 
     height: var(--card-height);
     width: var(--card-width);
@@ -236,27 +236,34 @@ select-all input[type="checkbox"]{
 
 
 .operator-selected {
-    outline: 1px solid red;
+    outline: 0px solid red;
     position: absolute;
-    top: calc(100% - var(--mark) + 1px);
-    left: calc(calc(var(--card-height) / 2) - var(--mark) + 1px); 
+    /* top: calc(100% - var(--mark) + 1px);
+    left: calc(calc(var(--card-height) / 2) - var(--mark) + 1px);  */
+    top: -1px;
+    left: -1px;
     width: var(--mark);
     height: var(--mark);
     background: var(--card-outline);
-    clip-path: polygon(100% 0, 25% 100%, 100% 100%);    
+    /* clip-path: polygon(100% 0, 25% 100%, 100% 100%);     */
+    clip-path: polygon(100% 0, 0 0, 0 100%);
+    
     opacity: 0;
+    padding: 2.5%;
+   
+    
     
     
 }
 
 .operator-selected img{
     outline: 0px solid red;
-    height: calc(var(--card-height)/15);
+    height: calc(var(--card-height)/17);
     /* position: absolute; */
-    margin-top: 2vh;
-    margin-left: 2vh;
+    /* margin-top: 2vh;
+    margin-left: 2vh; */
     filter: invert();
-    transform: rotate(-12deg);
+    /* transform: rotate(-12deg); */
     
 }
 
@@ -294,7 +301,7 @@ select-all input[type="checkbox"]{
     display: flex;
     justify-content: left;
     align-items: center;
-    font-size: 4vh;
+    font-size: 3.4vh;
     color: gold;
     text-shadow: 2px 2px 1px black;
 }

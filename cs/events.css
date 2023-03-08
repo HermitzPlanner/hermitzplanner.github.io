@@ -92,8 +92,9 @@ body {
 }
 
 .menu-row:hover {
-    outline: 1px solid hsl(0, 0%, 50%);
-    background: hsl(0, 0%, 12.5%);
+    cursor: pointer;
+    background-color: #303030;
+    
 }
 
 .link-initial {
@@ -138,10 +139,10 @@ body {
     display: flex;
     justify-content: end;
     flex-flow: column;
-    outline: 0px dashed cyan;
+    outline: 0px dashed gold;
     gap: .25rem;
     margin: 0 auto;
-    width: 25%;
+    width: 20%;
     padding-bottom: 0;
 }
 
@@ -187,6 +188,7 @@ body {
     width: 50%;
     display: flex;
     align-items: center;
+    justify-content: right;
     gap: .5rem;
     outline: 0px solid cyan;
     font-family: 'roboto';
@@ -229,7 +231,7 @@ body {
 }
 
 .menu-reward {
-    outline: 0px solid gold;
+    outline: 0px dashed fuchsia;
     font-size: 2.25vh;
 }
 

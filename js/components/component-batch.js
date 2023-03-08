@@ -44,8 +44,8 @@ class batchComponent extends HTMLElement{
 
     connectedCallback(){
         this.innerHTML = `
-        <div class="menu-row" id="row${this.nbatch}" onclick="selectOnlyThis(this.id)">
-            <a class="link" href="#batch${this.nbatch}" id="${this.nbatch}" onclick="
+        <div class="menu-row" id="row${this.nbatch}" onclick="window.location.href = '#batch${this.nbatch}'; selectOnlyThis(this.id)">
+            <a class="link" id="${this.nbatch}" onclick="
             const huevoLoad = document.querySelector('.slider-container')
             huevoLoad.style.opacity = '1';
             huevoLoad.style.transition = 'var(--transition)';
@@ -60,7 +60,7 @@ class batchComponent extends HTMLElement{
                 </div> 
             </a>
             
-            <a href="#batch${this.nbatch}"  id="menu-nums-${this.nbatch}" class="menu-numbers" onmouseenter="
+            <a  id="menu-nums-${this.nbatch}" class="menu-numbers" onmouseenter="
             
             const menuBatch = document.getElementById('menu-nums-${this.nbatch}')
 
@@ -77,10 +77,11 @@ class batchComponent extends HTMLElement{
                 <div class="menu-element">
                     <div class="menu-svg" onmouseenter="menuInfo();">
                         <img src="svg/puregem.png" class="" alt="">
+                        
                     </div>
 
                     <div class="numbers" style="display: flex;">
-                        
+                    
                         <div id="menu-reward-initial-batch${this.nbatch}" class="menu-reward price">0</div>
                     </div>
                 </div>

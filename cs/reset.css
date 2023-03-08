@@ -247,10 +247,8 @@ main {display: flex;}
   width: 100%;
   background: black;
   align-items: center;
-  gap: 20px;
-  
+  gap: 2vh;
   z-index: 1;
-  /* padding-left: 1rem; */
 }
 
 .hide2 {
@@ -275,7 +273,7 @@ main {display: flex;}
 .lol {
   position: absolute;
   top: 0;
-  left: 8%;
+  left: 12vh;
   width: 0%;
   height: 0%;
   outline: 0px solid yellow;
@@ -286,8 +284,9 @@ main {display: flex;}
   flex-flow: column;
   justify-content: space-between;
   gap: 3%;
-  opacity: 0;
+  opacity: 1;
   z-index: 3;
+  font-size: 0;
 }
 
 
@@ -297,7 +296,7 @@ select {
 }
 
 .quit-btn {
-  width: 7.5vh;
+  width: 5vh;
   position: absolute;
   top: 0;
   left: 100%;

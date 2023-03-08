@@ -16,9 +16,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    outline: 0px solid white;
-    width: 7%;
+    outline: 0px dashed fuchsia;
+    width: 12vh;
     height: 3vh;
+    z-index: 4;
 }
 
 .header-button-opt {
@@ -27,7 +28,7 @@
 } 
 
 .opt-item {
-    outline: 0px solid purple;
+
     height: 5vh;
     z-index: 3;
 }

@@ -23,6 +23,7 @@ function skinGallery() {
     const skinContainer = document.getElementById('container')
     const blacklistContainer = document.getElementById('gallery-container')
     const arrow = document.querySelector('.slider-container')
+    const gallerySvg = document.getElementById('gallery-svg')
     if (blacklistButton.checked == true) {
         // slider.checked = true;
         slider.checked = true;
@@ -32,6 +33,7 @@ function skinGallery() {
         skinContainer.style.transition = 'var(--transition)'
         blacklistContainer.style.display = 'flex';
         blacklistButtonLabel.style.backgroundColor = 'white';
+        gallerySvg.style.filter = ''
         blacklistButtonLabel.style.color = 'black'
         blacklistButton.style.transition = 'var(--transition)'
         menuSlider();
@@ -45,6 +47,7 @@ function skinGallery() {
         skinContainer.style.transition = 'var(--transition)'
         blacklistContainer.style.display = 'none';
         blacklistButtonLabel.style.backgroundColor = 'black';
+        gallerySvg.style.filter = 'invert()'
         blacklistButtonLabel.style.color = 'white'
         blacklistButton.style.transition = 'var(--transition)'
         menuSlider();
@@ -60,9 +63,9 @@ function displayArt() {
 
 document.addEventListener('keydown', function (event) {
     if (event.key === 'Escape') {
-      displayArt();
+        displayArt();
     }
-  });
+});
 
 function mobileCheck() {
     const arrowLoad = document.querySelector('.slider-container')
@@ -183,7 +186,7 @@ async function events() {
 
         if (eventJson.status === 'end') {
             eventJson.skins = [];
-        } 
+        }
 
         let batch;
         batch = document.createElement("li");
@@ -260,7 +263,7 @@ async function events() {
             <label for="rerunreward-batch${eventJson.eventN}" id="rerunreward-batch${eventJson.eventN}-label" class="select-all-button all" style="font-size: 1.8vh; cursor: pointer;">
             <div>Enable Reward</div>
             </label>`
-            
+
             fragment.appendChild(rerunReward);
             document.getElementById(`card-info${eventJson.eventN}`).appendChild(fragment)
         }
@@ -324,6 +327,20 @@ async function events() {
             } else {
                 document.getElementById(`rerun_batch${eventJson.eventN}`).appendChild(fragment)
             }
+            if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
+                // for always visible skin prices
+                // if (skinJson.price < 15 || skinJson.price > 24) {
+                //     const cardPriceText = document.getElementById(`card-cost__${skinJson.id}_batch${eventJson.eventN}`)
+                //     const cardPriceImg = document.getElementById(`cost-image__${skinJson.id}_batch${eventJson.eventN}`)
+                //     cardPriceImg.style.width = '0%'
+                // cardPriceText.style.width = '100%'
+                // cardPriceText.style.justifyContent = 'center';
+                // cardPriceText.innerHTML = 'Free'
+                // cardPriceText.style.fontSize = '2.25vh'
+                // cardPriceText.style.fontFamily = 'abel';
+                // cardPriceText.style.color = 'white';
+                // }
+            }
         });
         //sums all the prices
         let sum;
@@ -346,12 +363,12 @@ async function events() {
             summing="${sum}">
             </select-all>`
 
-                const batchHider = document.getElementById(`li-batch${eventJson.eventN}`)
-            const batchContentHider = document.getElementById(`batch${eventJson.eventN}`)
+        const batchHider = document.getElementById(`li-batch${eventJson.eventN}`)
+        const batchContentHider = document.getElementById(`batch${eventJson.eventN}`)
         if (eventJson.status === 'end') {
             batchHider.style.display = 'none'
             batchContentHider.style.display = 'none'
-        } 
+        }
 
     });
 

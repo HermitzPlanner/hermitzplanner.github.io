@@ -8,7 +8,7 @@ async function selectOnlyThis(id) {
      })
     document.getElementById(id).checked = true;
     const joe = document.getElementById(id)
-    joe.style.backgroundColor = '#252525'
+    joe.style.backgroundColor = '#303030'
     
   }
 
