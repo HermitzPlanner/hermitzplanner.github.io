@@ -11,10 +11,11 @@ class batchComponent extends HTMLElement{
         this.reward;
         this.eventtitle;
         this.runtype;
+        this.eventcode;
     }
 
     static get observedAttributes(){
-        return ['nbatch', 'summing', 'eventimg', 'reward', 'eventtitle', 'runtype'];
+        return ['nbatch', 'summing', 'eventimg', 'reward', 'eventtitle', 'runtype', 'eventcode'];
     }
 
     attributeChangedCallback(nameAtr, oldValue, newValue){
@@ -37,6 +38,9 @@ class batchComponent extends HTMLElement{
             case "runtype":
                 this.runtype = newValue;
             break;
+            case "eventcode":
+                this.eventcode = newValue;
+            break;
 
         }
     }
@@ -55,7 +59,7 @@ class batchComponent extends HTMLElement{
             <div class="menu-batch" id="menu-batch-${this.nbatch}">
                     <div class="batch-title">${this.eventtitle} <span style="color: #00ff00;">${this.runtype}</span></div>
                     <div class="batch-img-container">
-                        <img src="${this.eventimg}" alt="img here">
+                        <img src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${this.eventcode}.jpg" alt="${this.eventcode}">
                     </div>
                 </div> 
             </a>

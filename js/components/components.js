@@ -1,10 +1,12 @@
 let selectedSkin = []
 let selectedCard = []
 let selectedCardCheck = []
+let selectedId = []
 function arrayToLocal(){
     localStorage.setItem("storageSkins", JSON.stringify(selectedSkin))
     localStorage.setItem("storageCards", JSON.stringify(selectedCard))
     localStorage.setItem("storageCardsCheck", JSON.stringify(selectedCardCheck))
+    localStorage.setItem("storageId", JSON.stringify(selectedId))
 }
 
 class cardComponent extends HTMLElement{
@@ -197,6 +199,7 @@ class cardComponent extends HTMLElement{
                 selectedSkin.push('cbox_${this.userid}_batch${this.nbatch}')
                 selectedCard.push('card_${this.userid}_batch${this.nbatch} label')
                 selectedCardCheck.push('operator-selected__${this.userid}_batch${this.nbatch}')
+                selectedId.push('${this.userid}')
                 arrayToLocal();
                 
                 for(var i=0, n=thisSkinSelectLabel.length;i<n;i++) {
@@ -246,6 +249,10 @@ class cardComponent extends HTMLElement{
                 var indexCheck = selectedCardCheck.indexOf(itemCheck);
                 selectedSkin.splice(index, 1);
 
+                var itemId = 'cbox_${this.userid}_batch${this.nbatch}'
+                var indexId = selectedId.indexOf(item);
+                selectedId.splice(index, 1);
+
                 arrayToLocal();
 
                 for(var i=0, n=thisSkinSelectLabel.length;i<n;i++) {
@@ -289,9 +296,8 @@ class cardComponent extends HTMLElement{
 
                 
                 
-                <img src="${this.portrait}"  alt="">
-                
-
+                <img src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/portrait/${this.userid}.png"  alt="">
+            
 
                 
                 

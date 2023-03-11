@@ -52,7 +52,7 @@ fetch("json/skins.json")
         perspectiveSelector.value = 'front'
         const h1 = document.getElementById('full-image-container');
         h1.style.display = 'flex';
-        document.getElementById('full-image').src = `${user.art}`
+        document.getElementById('full-image').src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/art/${user.id}.png`
         //${user.art}
         skin = `${user.code}`
         char = `${user.codechar}`
@@ -105,7 +105,7 @@ fetch("json/skins.json")
         });
 
         document.getElementById('gallery_view-english').innerHTML = user.fullenglish
-        document.getElementById('gallery_view-icon').src = user.icon
+        document.getElementById('gallery_view-icon').src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${user.id}.png`
         document.getElementById('gallery_view-brand').innerHTML = user.brand
         document.getElementById('gallery_view-release').innerHTML = user.release
         document.getElementById('gallery_view-release-global').innerHTML = user.releaseGlobal
@@ -137,7 +137,7 @@ fetch("json/skins.json")
 
       }
       label.htmlFor = `ban_${user.id}`
-      header.src = user.icon
+      header.src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${user.id}.png`
       body.textContent = user.id
 
       //if(whitelist.indexOf(user.skinname) !== -1){

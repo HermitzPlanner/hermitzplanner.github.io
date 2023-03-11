@@ -18,10 +18,10 @@
     <script defer src="js/components/component-batch.js" type="text/javascript"></script>
     <script defer src="js/components/component-animation.js" type="text/javascript"></script>
 
-    <link rel="stylesheet" href="cs/events.css">
-    <link rel="stylesheet" href="cs/skins.css">
-    <link rel="stylesheet" href="cs/reset.css">
-    <link rel="stylesheet" href="cs/gallery.css">
+    <link rel="stylesheet" href="css/events.css">
+    <link rel="stylesheet" href="css/skins.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/gallery.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
@@ -42,8 +42,11 @@
 
 
 </head>
+<!-- <button onclick="capture();">capture</button> -->
+<!-- onload="mobileCheck();" -->
 
-<body onload="mobileCheck(); ">
+<body>
+
     <header class="header">
         <!-- <a href="index.html#batch1">Skin Planner</a> -->
         <input type="checkbox" id="header-blacklist" onchange="skinGallery();">
@@ -55,14 +58,27 @@
             </div>
         </label>
 
+        <!-- <input type="checkbox" id="header-summary" onchange="skinSummary();">
+
+        <label class="header-button" for="header-summary" id="header-summary-label" >
+            <div style="display: flex; align-items: center; gap: 5%;">
+                <img id="summary-svg" src="svg/shirt.svg" style="filter: invert();" alt="">
+                <div>Summary</div>
+            </div>
+        </label> -->
+
+        
+
         <input type="checkbox" id="header-options" onchange="menuoptions();" onmouseleave="menuleave();">
 
         <label class="header-button" id="header-options-label" for="header-options">
-            <div style="display: flex; align-items: center; gap: 5%; outline: 0px dashed gold;" id="opt-div" >
+            <div style="display: flex; align-items: center; gap: 5%; outline: 0px dashed gold;" id="opt-div">
                 <img src="svg/options.svg" style="filter: invert();" alt="">
                 <div>Options</div>
             </div>
         </label>
+
+        
 
 
         <div id="lol" class="lol">
@@ -96,9 +112,34 @@
             </label>
         </div>
 
+
+
+        
+
+        <!-- <input type="checkbox" id="header-discord">
+
+        <label class="header-button" id="header-discord-label" for="header-discord">
+            <a href="https://discord.gg/HsJZWkcZ" target="_blank" style="display: flex; align-items: center; gap: 5%; outline: 0px dashed gold;">
+                <img src="svg/discord2.svg" style="filter: invert();" alt="">
+                <div>Discord</div>
+            </a>
+        </label>
+
+        <input type="checkbox" id="header-kofi">
+
+        <label class="header-button" id="header-kofi-label" for="header-kofi">
+            <a href="https://ko-fi.com/hermitzplanner" target="_blank" style="display: flex; align-items: center; gap: 5%; outline: 0px dashed gold;">
+                <img src="svg/kofi.png" alt="">
+                <div>Donate</div>
+            </a>
+        </label> -->
+
+
+
+
     </header>
 
-    <main>
+    <main id="main">
         <div class="slider-container">
             <input type="checkbox" id="slider" onchange="menuSlider();">
             <label for="slider">
@@ -150,12 +191,12 @@
 
                     <div class="gallery-row" style="display: flex; justify-content: space-between;">
                         <span class="gallery-info">Artist</span>
-                            <span class="gallery-info2" id='gallery_view-artist'></span>
+                        <span class="gallery-info2" id='gallery_view-artist'></span>
                     </div>
 
                     <div class="gallery-row" style="display: flex; justify-content: space-between;">
                         <span class="gallery-info">Brand</span>
-                            <span class="gallery-info2" id='gallery_view-brand'></span>
+                        <span class="gallery-info2" id='gallery_view-brand'></span>
 
                     </div>
                     <div id="chibi-container" class="gallery-video">
@@ -168,7 +209,8 @@
                         <button class="video-button" onclick="playPause();"><img src="svg/play-solid.svg" alt=""></button>
                         <button class="video-button" onclick="stop();"><img src="svg/stop-solid.svg" alt=""></button>
                     </div> -->
-                    <div style="display: flex; justify-content: space-around; outline: 0px solid gold; width: 100%; gap: 5%;">
+                    <div
+                        style="display: flex; justify-content: space-around; outline: 0px solid gold; width: 100%; gap: 5%;">
                         <select style="width: 40%;" name="perspective" id="perspective">
                             <option selected value="front">Front</option>
                             <option id="backpers" value="back">Back</option>
@@ -182,7 +224,7 @@
                             <option value="0.1">x0.1</option>
                             <option value="0.5">x0.5</option>
                             <option selected value="1">x1</option>
-                            <option  value="2">x2</option>
+                            <option value="2">x2</option>
 
                         </select>
                     </div>
@@ -292,26 +334,6 @@
                 <select class="initial-input2" name="brand-select" id="search2" data-search2>
                     <option disabled value="">Select brand</option>
                     <option selected value="">All brands</option>
-                    <!-- <option value="Epoque">Epoque</option>
-                    <option value="0011 Craft">0011 Craft</option>
-                    <option value="Icefield Messenger">Icefield Messenger</option>
-                    <option value="Test Collection">Test Collection</option>
-                    <option value="0011 Tempest-series">0011 Tempest-series</option>
-                    <option value="Witch Feast">Witch Feast</option>
-                    <option value="Crossover">Crossover</option>
-                    <option value="Marthe">Marthe</option>
-                    <option value="Coral Coast">Coral Coast</option>
-                    <option value="Achievement Star">Achievement Star</option>
-                    <option value="Bloodline Of Combat">Bloodline Of Combat</option>
-                    <option value="Ambience Synesthesia">Ambience Synesthesia</option>
-                    <option value="Raythean Striker">Raythean Striker</option>
-                    <option value="Vitafield">Vitafield</option>
-                    <option value="Shining Steps">Shining Steps</option>
-                    <option value="Cambrian">Cambrian</option>
-                    <option value="Whistle Wind">Whistle Wind</option>
-                    <option value="Dreambind Castle">Dreambind Castle</option>
-                    <option value="Rhodes Kitchen">Rhodes Kitchen</option>
-                    <option value="Raythean Pioneer">Raythean Pioneer</option> -->
                 </select>
 
                 <!-- <div style="margin-left: 20px;" class="select-all">
@@ -340,9 +362,16 @@
 
     </main>
 
+    <!-- <div id="summary-div" style="margin: 1rem; padding: .75rem; outline: 1px solid hsl(0, 0%, 25%); display: none; gap: .75rem; flex-flow: column; background: var(--background);">
+        <button onclick="takeScreenshot()">Take Screenshot</button>
+    </div> -->
+
     <script src="js/pixi/pixi.min.js"></script>
     <script src="js/pixi/pixi-spine.js"></script>
     <script src="js/pixi/chibi.js"></script>
+
+    <script src="js/html2canvas.min.js"></script>
+
 </body>
 
 </html>

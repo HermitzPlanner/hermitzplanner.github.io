@@ -117,7 +117,7 @@ input {
 
   --card-height: 30vh;
   --card-width: calc((var(--card-height)) / 2);
-  --card-bg: rgb(33, 33, 33);
+  --card-bg: hsl(0, 0%, 13%);
 
   --card-outline: hsl(0, 0%, 26%);
   --card-outline-hover: hsl(0, 0%, 56%);
@@ -311,3 +311,7 @@ select {
   cursor: pointer;
 }
 
+.summary-op {
+  background: rgba(0, 0, 0, 0.75);
+    background: linear-gradient(transparent, rgb(0, 0, 0) 80%);
+}

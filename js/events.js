@@ -198,7 +198,8 @@ async function events() {
         eventtitle="${eventJson.event}"
         eventimg="${eventJson.eventImage}"
         reward="${eventJson.reward}"
-        runtype="${eventJson.type}">
+        runtype="${eventJson.type}"
+        eventcode="${eventJson.eventcode}">
         </batch-component>`;
         doThing();
         document.getElementById(`event-container`).appendChild(fragment)
@@ -568,3 +569,94 @@ function skip(value) {
     myVid.currentTime += value;
 }
 
+async function skinSummary() {
+    console.log(JSON.parse(localStorage.getItem("storageId")))
+    const storedId = JSON.parse(localStorage.getItem("storageId"))
+    const summarybtn = document.getElementById('header-summary')
+    const summarydiv = document.getElementById('summary-div')
+    
+    const main = document.getElementById('main')
+    if (summarybtn.checked == true) {
+        summarydiv.style.display = 'flex'
+        console.log('amogus')
+        main.style.display = 'none'
+        // summarydiv.innerHTML += `amogus`
+        const eventResponse = await fetch('json/events.json'); // grab json
+        const eventData = await eventResponse.json(); // wait for json and make it data
+
+        const skinResponse = await fetch('json/skins.json'); // grab json
+        const skinData = await skinResponse.json(); // wait for json and make it data
+        //calls the data json
+        // TODO fix green cards appearing here
+        eventData.forEach(function (eventJson) {
+            summarydiv.innerHTML += `
+            <div id="summary-batch-${eventJson.eventN}" style="display: flex; outline: 1px solid #303030; padding: 0rem; background: hsl(0, 0%, 7.5%); border-radius: 5px;">
+
+
+                <div style="width: 25%; display: flex; flex-flow: column; outline: 0px dashed red; padding: .5rem; border-right: 1px solid #303030; gap: .5rem; align-items: center; justify-content: center;">
+                    <div style="display: flex; justify-content: center; outline: 0px solid fuchsia; margin-top: 0rem;">
+                        ${eventJson.event}
+                    </div>
+                    <div id="summary-batch${eventJson.eventN}">
+                        <img src="${eventJson.eventImage}">
+                    </div>
+                </div>
+                
+                <div id="summary-cards${eventJson.eventN}" style="width: 75%; outline: 0px dashed cyan; display: flex; align-items: center; gap: .5rem; padding: .5rem; flex-wrap: wrap;"></div>
+                </div>`
+            const summarycard = document.getElementById(`summary-cards${eventJson.eventN}`)
+            const summarybatchHeight = document.getElementById(`summary-batch${eventJson.eventN}`)
+            skinData.forEach(function (skinJson) {
+                
+                const divHeight = summarybatchHeight.offsetHeight;
+                //console.log('div Height', divHeight)
+                if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
+                    if (storedId.indexOf(skinJson.id) !== -1) {
+                        console.log(divHeight)
+                        summarycard.innerHTML += `
+                            <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 1px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: var(--card-bg)">
+                                <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
+                                <img height="${divHeight}" src="${skinJson.icon}">
+                            </div>
+                        `;
+                    }  // <div class="summary-op" style="outline: 0px solid fuchsia; position: absolute; top: 86%; left: 0; width: ${divHeight}px;  height: calc(${divHeight}px / 6); display: flex; align-items: end; justify-content: center; font-size: 1.2vh; padding: 5px">${skinJson.skinnameenglish}</div>
+                    
+                }
+            })
+
+            if (document.getElementById(`summary-cards${eventJson.eventN}`).hasChildNodes()) {
+                console.log(`summarycard${eventJson.eventN} has at least one child.`);
+              } else {
+                console.log(`summarycard${eventJson.eventN} has no children.`);
+                const summarybatch = document.getElementById(`summary-batch-${eventJson.eventN}`)
+                summarybatch.style.display = 'none'
+              }
+            
+        })
+    } else {
+        summarydiv.style.display = 'none'
+        main.style.display = ''
+        summarydiv.innerHTML = ``
+    }
+
+
+}
+
+
+function takeScreenshot() {
+    // Get the WebGL context and set the preserveDrawingBuffer option to true
+    var canvas = document.querySelector("canvas");
+    var gl = canvas.getContext("webgl", { preserveDrawingBuffer: true });
+  
+    // Take the screenshot using HTML2Canvas
+    html2canvas(document.body, { useCORS: true, allowTaint: true, canvas: canvas }).then(function(canvas) {
+      // Convert the canvas to an image URL
+      var imgURL = canvas.toDataURL();
+  
+      // Create a new window and display the screenshot
+      var win = window.open();
+      win.document.write('<img src="' + imgURL + '"/>');
+    });
+  }
+  
+  
