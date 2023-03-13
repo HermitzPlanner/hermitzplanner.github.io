@@ -11,7 +11,10 @@
     <script defer src="js/events.js" type="text/javascript"></script>
     <script defer src="js/cbox.js" type="text/javascript"></script>
     <script defer src="js/datauser.js"></script>
-    <script defer src="js/menu-options.js"></script>
+    <script defer src="js/galleryfetch.js" type="text/javascript"></script>
+    <script defer src="js/menu-options.js" type="text/javascript"></script>
+    <script defer src="js/mode-options.js" type="text/javascript"></script>
+    
 
     <script defer src="js/components/components.js" type="text/javascript"></script>
     <script defer src="js/components/component-selectall.js" type="text/javascript"></script>
@@ -46,28 +49,38 @@
 <!-- onload="mobileCheck();" -->
 
 <body>
-
     <header class="header">
-        <!-- <a href="index.html#batch1">Skin Planner</a> -->
-        <input type="checkbox" id="header-blacklist" onchange="skinGallery();">
 
-        <label class="header-button" id="header-blacklist-label" for="header-blacklist">
+        <input type="checkbox" id="header-modes" onchange="modesoptions();" onmouseleave="modesleave();">
+
+        <label class="header-button" id="header-modes-label" for="header-modes">
             <div style="display: flex; align-items: center; gap: 5%;">
-                <img id="gallery-svg" src="svg/shirt.svg" style="filter: invert();" alt="">
-                <div>Gallery</div>
+                <img src="svg/shirt.svg" style="filter: invert();" alt="">
+                <div>Skins</div>
             </div>
         </label>
 
-        <!-- <input type="checkbox" id="header-summary" onchange="skinSummary();">
+        <div class="modes-btn" id="modes-options">
 
-        <label class="header-button" for="header-summary" id="header-summary-label" >
-            <div style="display: flex; align-items: center; gap: 5%;">
-                <img id="summary-svg" src="svg/shirt.svg" style="filter: invert();" alt="">
-                <div>Summary</div>
-            </div>
-        </label> -->
+            <!-- <a href="index.html#batch1">Skin Planner</a> -->
+            <input type="checkbox" id="header-blacklist" onchange="skinGallery(); galleryfetch();">
 
-        
+            <label class="header-button-opt" id="header-blacklist-label" for="header-blacklist">
+                <div class="opt-item" style="display: flex; align-items: center; gap: 5%;">
+                    <img id="gallery-svg" src="svg/table-cells-solid.svg" style="filter: invert();" alt="">
+                    <div>Gallery</div>
+                </div>
+            </label>
+
+            <input type="checkbox" id="header-summary" onchange="skinSummary();">
+
+            <label class="header-button-opt" for="header-summary" id="header-summary-label">
+                <div class="opt-item" style="display: flex; align-items: center; gap: 5%;">
+                    <img id="summary-svg" src="svg/list-solid.svg" style="filter: invert();" alt="">
+                    <div>Summary</div>
+                </div>
+            </label>
+        </div>
 
         <input type="checkbox" id="header-options" onchange="menuoptions();" onmouseleave="menuleave();">
 
@@ -77,9 +90,6 @@
                 <div>Options</div>
             </div>
         </label>
-
-        
-
 
         <div id="lol" class="lol">
             <input type="checkbox" id="header-reset" onchange="selectionReset();">
@@ -112,14 +122,11 @@
             </label>
         </div>
 
-
-
-        
-
-        <!-- <input type="checkbox" id="header-discord">
+        <input type="checkbox" id="header-discord">
 
         <label class="header-button" id="header-discord-label" for="header-discord">
-            <a href="https://discord.gg/HsJZWkcZ" target="_blank" style="display: flex; align-items: center; gap: 5%; outline: 0px dashed gold;">
+            <a href="https://discord.gg/HsJZWkcZ" target="_blank"
+                style="display: flex; align-items: center; gap: 5%; outline: 0px dashed gold;">
                 <img src="svg/discord2.svg" style="filter: invert();" alt="">
                 <div>Discord</div>
             </a>
@@ -128,11 +135,12 @@
         <input type="checkbox" id="header-kofi">
 
         <label class="header-button" id="header-kofi-label" for="header-kofi">
-            <a href="https://ko-fi.com/hermitzplanner" target="_blank" style="display: flex; align-items: center; gap: 5%; outline: 0px dashed gold;">
+            <a href="https://ko-fi.com/hermitzplanner" target="_blank"
+                style="display: flex; align-items: center; gap: 5%; outline: 0px dashed gold;">
                 <img src="svg/kofi.png" alt="">
                 <div>Donate</div>
             </a>
-        </label> -->
+        </label>
 
 
 
@@ -360,11 +368,57 @@
             </template>
         </section>
 
+        <section class="news" id="news"
+            style="display: flex; flex-flow: column; width: 65%; outline: 0px solid fuchsia; padding: 2rem; background: var(--background); gap: 2rem;">
+
+            <div style="outline: 0px dashed gold; display: flex; ">
+                <div style="outline: 0px dashed cyan; aspect-ratio: 1; width: 100%; display: flex;
+                justify-content: left;
+                align-items: center;"><img style="aspect-ratio: 1;" src="assets/pallas.png">
+                </div>
+                <div>
+                    <div class="card-event-name" style="display: flex; padding: 2rem;">
+                        HermitzPlanner</div>
+                    <div style="padding: 2rem;">With so many Operators to choose from and various factors to consider,
+                        it can
+                        be
+                        challenging for players to decide which ones to invest in. That's where a Skin Planner comes in
+                        - a
+                        tool
+                        that allows players to plan and preview their Operator skins and make informed decisions about
+                        which
+                        ones to acquire and use. <br> <span style="color: gold;">(the order of events is subject to
+                            change)</span></div>
+                </div>
+            </div>
+
+            <div style="display: flex; flex-flow: column; gap: 2rem; outline: 0px dashed cyan;">
+                <div style="display: block;">
+                    <span class="news-art"
+                        style="font-size: 2.25vh; background: #ffd700; color: black; width: auto; padding: .5rem;">Mar 13
+                        2023</span>
+                </div>
+                <div style="display: block;"><span class="new invis">Current event: Dorothy's Vision</span></div>
+                <div style="display: block;"><span class="new invis"> Skin Summary implemented for the skins selected.</span></div>
+                <div style="display: block;"><span class="new invis">Added a limit to how much you can zoom-out the
+                    skin's art</span></div>
+                <div style="display: block;"><span class="new invis">Added a loading animation for chibis</span></div>
+                <div style="display: block;"><span class="new invis">You can press ESC to exit the details while
+                    viewing a skin</span></div>
+
+                
+            </div>
+
+        </section>
     </main>
 
-    <!-- <div id="summary-div" style="margin: 1rem; padding: .75rem; outline: 1px solid hsl(0, 0%, 25%); display: none; gap: .75rem; flex-flow: column; background: var(--background);">
-        <button onclick="takeScreenshot()">Take Screenshot</button>
-    </div> -->
+
+    <div id="summary-div"
+        style="margin: 1rem; padding: .75rem; outline: 0px solid hsl(0, 0%, 40%); display: none; gap: .75rem; flex-flow: column; background: var(--background);">
+        <!-- <button onclick="takeScreenshot()">Take Screenshot</button> -->
+        <div class="card-event-name" style="display: flex; justify-content: center; align-items: center;">Selection
+            Summary</div>
+    </div>
 
     <script src="js/pixi/pixi.min.js"></script>
     <script src="js/pixi/pixi-spine.js"></script>

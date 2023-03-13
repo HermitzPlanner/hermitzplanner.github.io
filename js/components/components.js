@@ -296,7 +296,7 @@ class cardComponent extends HTMLElement{
 
                 
                 
-                <img src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/portrait/${this.userid}.png"  alt="">
+                <img src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/portrait/${this.userid}.png" alt="${this.userid}" loading="lazy">
             
 
                 
@@ -310,7 +310,7 @@ class cardComponent extends HTMLElement{
                 </div>
 
                 <div class="display-art display-art__${this.userid}" id="display-art__${this.userid}_batch${this.nbatch}" onclick="
-                
+                    
                     document.getElementById('ban_${this.userid}').click();
                     ">
                     

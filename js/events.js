@@ -12,18 +12,24 @@ function showTutorial() {
     const tuto = document.getElementById('tutorial')
     tuto.style.display = 'block'
     localStorage.setItem("tutorialCheckStorage", 'false')
-    console.log('tutorial')
-    console.log(localStorage.getItem("tutorialCheckStorage"))
+    //console.log('tutorial')
+    //console.log(localStorage.getItem("tutorialCheckStorage"))
+    const checkbox1 = document.querySelector('#header-blacklist');
+    if (checkbox1.checked) {
+        checkbox1.click();
+    }
+
 
 }
 
 function skinGallery() {
     const blacklistButton = document.getElementById('header-blacklist')
     const blacklistButtonLabel = document.getElementById('header-blacklist-label')
+    const gallerySvg = document.getElementById('gallery-svg')
     const skinContainer = document.getElementById('container')
     const blacklistContainer = document.getElementById('gallery-container')
     const arrow = document.querySelector('.slider-container')
-    const gallerySvg = document.getElementById('gallery-svg')
+    const news = document.getElementById('news')
     if (blacklistButton.checked == true) {
         // slider.checked = true;
         slider.checked = true;
@@ -36,7 +42,9 @@ function skinGallery() {
         gallerySvg.style.filter = ''
         blacklistButtonLabel.style.color = 'black'
         blacklistButton.style.transition = 'var(--transition)'
+        news.style.display = 'none'
         menuSlider();
+        //galleryfetch();
 
 
     } else {
@@ -50,6 +58,7 @@ function skinGallery() {
         gallerySvg.style.filter = 'invert()'
         blacklistButtonLabel.style.color = 'white'
         blacklistButton.style.transition = 'var(--transition)'
+        news.style.display = 'flex'
         menuSlider();
     }
 }
@@ -97,6 +106,7 @@ function menuSlider() {
     const arrow = document.querySelector('.slider-container')
     const skinsContainer = document.querySelector('.skins')
     const galleryContainer = document.querySelector('#gallery-container')
+    const news = document.querySelector('#news')
     if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
         if (slider.checked == true) {
             document.getElementById('sliderthree').src = 'svg/arrow-right-solid.svg';
@@ -117,6 +127,7 @@ function menuSlider() {
 
             galleryContainer.style.width = '100%';
             galleryContainer.style.transition = 'var(--transition)'
+            
 
 
 
@@ -208,7 +219,7 @@ async function events() {
         cardContainer.setAttribute('id', `batch${eventJson.eventN}`)
         cardContainer.setAttribute('class', `batch`)
         fragment.appendChild(cardContainer);
-        cardContainer.style.backgroundImage = `linear-gradient(hsla(0, 0%, 5%, 0.95), hsla(0, 0%, 1%, 0.95)), url('${eventJson.eventImage}')`;
+        cardContainer.style.backgroundImage = `linear-gradient(hsla(0, 0%, 5%, 0.95), hsla(0, 0%, 1%, 0.95)), url('https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${eventJson.eventcode}.jpg')`;
         cardContainer.style.backgroundRepeat = 'no-repeat';
         cardContainer.style.backgroundSize = 'cover';
         cardContainer.style.backgroundPosition = 'center';
@@ -570,35 +581,44 @@ function skip(value) {
 }
 
 async function skinSummary() {
-    console.log(JSON.parse(localStorage.getItem("storageId")))
+    //console.log(JSON.parse(localStorage.getItem("storageId")))
     const storedId = JSON.parse(localStorage.getItem("storageId"))
     const summarybtn = document.getElementById('header-summary')
     const summarydiv = document.getElementById('summary-div')
-    
+
+    const summaryButton = document.getElementById('header-summary')
+    const summaryButtonLabel = document.getElementById('header-summary-label')
+    const summarySvg = document.getElementById('summary-svg')
+
     const main = document.getElementById('main')
     if (summarybtn.checked == true) {
+        summaryButtonLabel.style.backgroundColor = 'white';
+        summarySvg.style.filter = ''
+        summaryButtonLabel.style.color = 'black'
+        summaryButton.style.transition = 'var(--transition)'
+
         summarydiv.style.display = 'flex'
-        console.log('amogus')
+
         main.style.display = 'none'
-        // summarydiv.innerHTML += `amogus`
-        const eventResponse = await fetch('json/events.json'); // grab json
-        const eventData = await eventResponse.json(); // wait for json and make it data
+        const eventResponse = await fetch('json/events.json');
+        const eventData = await eventResponse.json();
 
-        const skinResponse = await fetch('json/skins.json'); // grab json
-        const skinData = await skinResponse.json(); // wait for json and make it data
-        //calls the data json
-        // TODO fix green cards appearing here
+        const skinResponse = await fetch('json/skins.json'); 
+        const skinData = await skinResponse.json(); 
         eventData.forEach(function (eventJson) {
-            summarydiv.innerHTML += `
-            <div id="summary-batch-${eventJson.eventN}" style="display: flex; outline: 1px solid #303030; padding: 0rem; background: hsl(0, 0%, 7.5%); border-radius: 5px;">
+            const eventCheck = document.getElementById(`menu-skincost-batch${eventJson.eventN}`)
+            if (eventCheck.innerHTML !== '0') {
+
+                summarydiv.innerHTML += `
+            <div id="summary-batch-${eventJson.eventN}" style="display: flex; outline: 0px solid hsl(0, 0%, 30%); padding: 0rem; background: hsl(0, 0%, 9%); border-radius: 5px;">
 
 
-                <div style="width: 25%; display: flex; flex-flow: column; outline: 0px dashed red; padding: .5rem; border-right: 1px solid #303030; gap: .5rem; align-items: center; justify-content: center;">
+                <div style="width: 25%; display: flex; flex-flow: column; outline: 0px dashed red; padding: .5rem; border-right: 1px solid hsl(0, 0%, 30%); gap: .5rem; align-items: center; justify-content: center;">
                     <div style="display: flex; justify-content: center; outline: 0px solid fuchsia; margin-top: 0rem;">
                         ${eventJson.event}
                     </div>
                     <div id="summary-batch${eventJson.eventN}">
-                        <img src="${eventJson.eventImage}">
+                        <img class="summary-icons" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${eventJson.eventcode}.jpg">
                     </div>
                 </div>
                 
@@ -606,37 +626,39 @@ async function skinSummary() {
                 </div>`
             const summarycard = document.getElementById(`summary-cards${eventJson.eventN}`)
             const summarybatchHeight = document.getElementById(`summary-batch${eventJson.eventN}`)
-            skinData.forEach(function (skinJson) {
-                
-                const divHeight = summarybatchHeight.offsetHeight;
-                //console.log('div Height', divHeight)
-                if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
-                    if (storedId.indexOf(skinJson.id) !== -1) {
-                        console.log(divHeight)
-                        summarycard.innerHTML += `
-                            <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 1px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: var(--card-bg)">
-                                <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
-                                <img height="${divHeight}" src="${skinJson.icon}">
-                            </div>
-                        `;
-                    }  // <div class="summary-op" style="outline: 0px solid fuchsia; position: absolute; top: 86%; left: 0; width: ${divHeight}px;  height: calc(${divHeight}px / 6); display: flex; align-items: end; justify-content: center; font-size: 1.2vh; padding: 5px">${skinJson.skinnameenglish}</div>
-                    
-                }
-            })
+            const divHeight = summarybatchHeight.offsetHeight;
 
-            if (document.getElementById(`summary-cards${eventJson.eventN}`).hasChildNodes()) {
-                console.log(`summarycard${eventJson.eventN} has at least one child.`);
-              } else {
-                console.log(`summarycard${eventJson.eventN} has no children.`);
-                const summarybatch = document.getElementById(`summary-batch-${eventJson.eventN}`)
-                summarybatch.style.display = 'none'
-              }
-            
+            skinData
+                .filter(skinJson => storedId.includes(skinJson.id))
+                .forEach(skinJson => {
+                    if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
+                        //console.log(skinJson.id);
+                        
+                        summarycard.innerHTML += `
+                <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 0px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: hsl(0, 0%, 15%);)">
+                    <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
+                    <img height="${divHeight}" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${skinJson.id}.png">
+                </div>
+            `;
+                    }
+                });
+            }
         })
+
+
+
+
+
     } else {
         summarydiv.style.display = 'none'
         main.style.display = ''
-        summarydiv.innerHTML = ``
+        summarydiv.innerHTML = `<div class="card-event-name" style="display: flex; justify-content: center; align-items: center;">Selection Summary</div>`
+    
+        summaryButtonLabel.style.backgroundColor = 'black';
+        summarySvg.style.filter = 'invert()'
+        summaryButtonLabel.style.color = 'white'
+        summaryButton.style.transition = 'var(--transition)'
+        
     }
 
 
@@ -644,19 +666,35 @@ async function skinSummary() {
 
 
 function takeScreenshot() {
-    // Get the WebGL context and set the preserveDrawingBuffer option to true
-    var canvas = document.querySelector("canvas");
-    var gl = canvas.getContext("webgl", { preserveDrawingBuffer: true });
+  // Get all the images with the class "summary-icons"
+  var images = document.getElementsByClassName('summary-icons');
+  var loadedImages = 0;
+  var totalImages = images.length;
   
-    // Take the screenshot using HTML2Canvas
-    html2canvas(document.body, { useCORS: true, allowTaint: true, canvas: canvas }).then(function(canvas) {
-      // Convert the canvas to an image URL
-      var imgURL = canvas.toDataURL();
-  
-      // Create a new window and display the screenshot
-      var win = window.open();
-      win.document.write('<img src="' + imgURL + '"/>');
+
+  // Wait for all the images to load before taking the screenshot
+  for (var i = 0; i < totalImages; i++) {
+    console.log('images', images[i])
+    images[i].addEventListener('load', function() {
+      console.log('amogus')
     });
   }
-  
-  
+  html2canvas(document.body).then(function(canvas) {
+    // Convert the canvas to an image
+    var imgData = canvas.toDataURL('image/png');
+    // Open the image in a new tab
+    var windowContent = '<!DOCTYPE html>';
+    windowContent += '<html>'
+    windowContent += '<head><title>Screenshot</title></head>';
+    windowContent += '<body>'
+    windowContent += '<img src="' + imgData + '">';
+    windowContent += '</body>';
+    windowContent += '</html>';
+    var printWin = window.open('', '', 'width=' + screen.availWidth + ',height=' + screen.availHeight);
+    printWin.document.open();
+    printWin.document.write(windowContent);
+    printWin.document.close();
+  });
+}
+
+

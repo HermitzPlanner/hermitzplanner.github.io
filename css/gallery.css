@@ -25,6 +25,7 @@
 .header-button-opt {
    outline: 0px dashed cyan;
    border-bottom: 1px solid #212121;
+   padding-left: .5rem;
 } 
 
 .opt-item {
@@ -69,7 +70,7 @@
 .initial-input2 {
     outline: 0px dashed fuchsia;
     margin-left: 0;
-    width: calc(var(--card-width) / 1.25 * 2 + 10px);
+    width: calc(var(--card-width) / 1.15 * 2 + 10px);
 }
 
 #gallery-container input[type="checkbox"]{

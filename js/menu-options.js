@@ -1,7 +1,7 @@
 const menuopts = document.getElementById('lol')
 function menuoptions() {
     if (document.getElementById('header-options').checked == true) {
-        menuopts.style.width = '10%'
+        menuopts.style.width = '14vh'
         menuopts.style.height = '25vh'
         menuopts.style.opacity = '1'
         menuopts.style.transition = 'var(--transition)'

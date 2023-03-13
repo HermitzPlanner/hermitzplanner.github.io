@@ -10,7 +10,6 @@ input[type="checkbox"] {
     }
 
 body {
-    background: black;
     color: white;
     font-family: 'Roboto', sans-serif; 
     /* font-family:'A-OTF Shin Go Pro EL'; */
@@ -18,6 +17,7 @@ body {
     /* font-size:42px; */
     display: flex;
     flex-flow: column;
+    background: var(--background);
     
 }
 

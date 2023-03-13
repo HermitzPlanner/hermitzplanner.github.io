@@ -273,16 +273,35 @@ main {display: flex;}
 .lol {
   position: absolute;
   top: 0;
-  left: 12vh;
+  left: calc(12vh + 2vh);
   width: 0%;
   height: 0%;
   outline: 0px solid yellow;
   margin-top: 5vh;
   background: black;
-  padding: 1rem;
+  padding: .5rem;
   display: flex;
   flex-flow: column;
-  justify-content: space-between;
+  justify-content: space-around;
+  gap: 3%;
+  opacity: 0;
+  z-index: 3;
+  font-size: 0;
+}
+
+.modes-btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 0%;
+  outline: 0px solid yellow;
+  margin-top: 5vh;
+  background: black;
+  padding: .5rem;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
   gap: 3%;
   opacity: 0;
   z-index: 3;
@@ -314,4 +333,15 @@ select {
 .summary-op {
   background: rgba(0, 0, 0, 0.75);
     background: linear-gradient(transparent, rgb(0, 0, 0) 80%);
+}
+
+.news-art {
+  outline: 0px dashed fuchsia;
+  border-bottom: 1px solid hsla(0, 0%, 25%, 0.2);
+}
+
+.new {
+  background: hsl(0, 0%, 12.5%);
+  color: hsl(0, 0%, 87.5%);
+  padding: .5rem;
 }

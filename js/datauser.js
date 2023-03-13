@@ -26,6 +26,7 @@ searchInput.addEventListener("input", e => {
   })
 })
 
+//async function galleryfetch() {
 fetch("json/skins.json")
   .then(res => res.json())
   .then(data => {
@@ -38,6 +39,7 @@ fetch("json/skins.json")
       const label = card.querySelector("[data-input-label]")
 
       inputt.id = `ban_${user.id}`
+      header.id = `gallery_icon_${user.id}`
       inputt.addEventListener('change', tururu)
       function tururu() {
 
@@ -52,8 +54,9 @@ fetch("json/skins.json")
         perspectiveSelector.value = 'front'
         const h1 = document.getElementById('full-image-container');
         h1.style.display = 'flex';
-        document.getElementById('full-image').src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/art/${user.id}.png`
-        //${user.art}
+        //document.getElementById('full-image').src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/art/${user.id}.png`
+        document.getElementById('full-image').src = `${user.art}`
+
         skin = `${user.code}`
         char = `${user.codechar}`
 
@@ -137,7 +140,9 @@ fetch("json/skins.json")
 
       }
       label.htmlFor = `ban_${user.id}`
-      header.src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${user.id}.png`
+      //header.src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${user.id}.png`
+      //header.src = `${user.icon}`
+
       body.textContent = user.id
 
       //if(whitelist.indexOf(user.skinname) !== -1){
@@ -147,6 +152,7 @@ fetch("json/skins.json")
       return { name: user.id, brand: user.brand, element: card }
     })
   })
+//}
 
 let skin
 let char

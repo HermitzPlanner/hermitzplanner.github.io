@@ -48,7 +48,7 @@ class batchComponent extends HTMLElement{
 
     connectedCallback(){
         this.innerHTML = `
-        <div class="menu-row" id="row${this.nbatch}" onclick="window.location.href = '#batch${this.nbatch}'; selectOnlyThis(this.id)">
+        <div class="menu-row" id="row${this.nbatch}" onclick="window.location.href = '#batch${this.nbatch}'; selectOnlyThis(this.id);">
             <a class="link" id="${this.nbatch}" onclick="
             const huevoLoad = document.querySelector('.slider-container')
             huevoLoad.style.opacity = '1';
