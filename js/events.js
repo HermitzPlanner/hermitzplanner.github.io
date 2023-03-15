@@ -90,12 +90,12 @@ function mobileCheck() {
             sliderSkinsLoad[i].style.width = '0%';
             sliderSkinsLoad[i].style.display = 'none';
         }
-        arrowLoad.style.opacity = '0';
+        arrowLoad.style.opacity = '1';
 
     } else {
 
         arrowLoad.style.opacity = '1';
-        arrowLoad.style.left = '35%';
+        arrowLoad.style.left = '31%';
         // arrowLoad.style.top = '5%'
     }
 }
@@ -160,7 +160,7 @@ function menuSlider() {
                 sliderSkins[i].style.width = '65%';
                 sliderSkins[i].style.transition = 'var(--transition)'
             }
-            arrow.style.left = '35%';
+            arrow.style.left = '31%';
             arrow.style.transition = 'var(--transition)'
             document.getElementById('sliderthree').src = 'svg/arrow-left-solid.svg';
             galleryContainer.style.width = '65%';
@@ -212,7 +212,7 @@ async function events() {
         runtype="${eventJson.type}"
         eventcode="${eventJson.eventcode}">
         </batch-component>`;
-        doThing();
+        
         document.getElementById(`event-container`).appendChild(fragment)
         let cardContainer;
         cardContainer = document.createElement("li")
@@ -418,7 +418,7 @@ async function events() {
                 remaining.style.opacity = 1;
             }
         });
-
+        doThing();
     });
 
 }
@@ -521,7 +521,7 @@ async function initialLoad() {
 
 async function main() {
     await events();
-    await doThing();
+    
     if (localStorage.getItem("storageSkins") === null) { } else {
         await skinStorage();
     }
@@ -532,6 +532,8 @@ async function main() {
             menuRewards[i].style.opacity = 0.6;
         }
     }
+
+    await doThing();
 
     // const menuRewards2 = document.querySelectorAll('.menu-reward')
     // console.log(menuRewards2[5])

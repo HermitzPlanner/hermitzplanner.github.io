@@ -54,13 +54,16 @@ fetch("json/skins.json")
         perspectiveSelector.value = 'front'
         const h1 = document.getElementById('full-image-container');
         h1.style.display = 'flex';
-        //document.getElementById('full-image').src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/art/${user.id}.png`
+        //ocument.getElementById('full-image').src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/art/${user.id}.png`
         document.getElementById('full-image').src = `${user.art}`
 
         skin = `${user.code}`
         char = `${user.codechar}`
 
         var scale = 1;
+
+
+        img.style.transition = 'transform 0.3s ease-out'; // add transition
 
         img.addEventListener('wheel', function (e) {
           e.preventDefault();
@@ -77,7 +80,6 @@ fetch("json/skins.json")
           }
           img.style.transform = 'scale(' + scale + ')';
         });
-
 
         // Define variables to store the starting mouse position and image position
         let startX = 0;
@@ -143,7 +145,7 @@ fetch("json/skins.json")
       //header.src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${user.id}.png`
       //header.src = `${user.icon}`
 
-      body.textContent = user.id
+      body.textContent = user.english
 
       //if(whitelist.indexOf(user.skinname) !== -1){
       userCardContainer.append(card)
@@ -186,18 +188,18 @@ document.getElementById('chibi').appendChild(app.view);
 
 function loadCircle() {
   const circle = new PIXI.Graphics();
-        circle.lineStyle(5, 0xffffff);
-        circle.moveTo(25, 0);
-        circle.arc(0, 0, 25, 0, 1);
-        circle.moveTo(25, 0);
-        circle.arc(0, 0, 25, 0, -1);
-        circle.x = app.renderer.width / 2;
-        circle.y = app.renderer.height / 2;
-        app.stage.addChild(circle);
+  circle.lineStyle(5, 0xffffff);
+  circle.moveTo(25, 0);
+  circle.arc(0, 0, 25, 0, 1);
+  circle.moveTo(25, 0);
+  circle.arc(0, 0, 25, 0, -1);
+  circle.x = app.renderer.width / 2;
+  circle.y = app.renderer.height / 2;
+  app.stage.addChild(circle);
 
-        app.ticker.add(() => {
-          circle.rotation += 0.1;
-        });
+  app.ticker.add(() => {
+    circle.rotation += 0.1;
+  });
 }
 
 
@@ -243,8 +245,10 @@ function pixi() {
 
     skinSpine.x = app.screen.width / 2;
     skinSpine.y = app.screen.height;
+
+
     let timeScale = 1
-    speed.addEventListener('change', function(){
+    speed.addEventListener('change', function () {
       timeScale = speed.value
     })
     skinSpine.alpha = 1;
@@ -253,7 +257,7 @@ function pixi() {
     skinSpine.state.timeScale = 0.25;
     app.ticker.add(() => {
       skinSpine.state.timeScale = timeScale; // Update the time scale of the animation
-      
+
     });
 
     const backpers = document.getElementById('backpers')
@@ -281,7 +285,7 @@ function pixi() {
         skinSpine.state.addListener({
           complete: (trackEntry) => {
             if (trackEntry.animation.name === "Start") {
-              skinSpine.state.setAnimation(0, "Idle", false); // start playing animation_b once animation_a ends
+              skinSpine.state.setAnimation(0, "Idle", true); // start playing animation_b once animation_a ends
             }
           }
         });
@@ -308,7 +312,7 @@ function pixi() {
 }
 
 perspectiveSelector.addEventListener('change', function () {
-  
+  speed.value = 1;
   perspective = perspectiveSelector.value
   animationUpdate();
   animationList = [];

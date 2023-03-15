@@ -264,3 +264,13 @@ canvas {
 .gallery-name {
     line-height: 1.2;
 }
+
+.scroll-drag {
+    position: absolute;
+    top: 5%;
+    left: 25%;
+    width: 15%;
+    gap: 10px;
+    opacity: .75;
+
+}

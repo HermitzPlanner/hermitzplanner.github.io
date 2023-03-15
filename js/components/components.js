@@ -117,6 +117,7 @@ class cardComponent extends HTMLElement{
             const skininfo = document.querySelector('#skin-info__${this.userid}_batch${this.nbatch}');
             cardPriceText = document.querySelector('#card-cost__${this.userid}_batch${this.nbatch}')
             cardPriceImg = document.querySelector('#cost-image__${this.userid}_batch${this.nbatch}')
+            const checkSvg = document.getElementById('check-svg-batch${this.nbatch}-${this.userid}')
 
             cardprice.style.opacity = '1';
             cardprice.style.filter = 'blur(0)';
@@ -140,10 +141,12 @@ class cardComponent extends HTMLElement{
                 card.style.outlineColor = 'gold';
                 card2.style.backgroundColor = 'gold';
                 card2.style.opacity = 1;
+                checkSvg.style.filter = ''
             } else {
                 card.style.outlineColor = 'var(--card-outline-hover)';
                 card2.style.backgroundColor = 'var(--card-outline-hover)';
                 card2.style.opacity = 1;
+                checkSvg.style.filter = 'invert()'
             }
 
 
@@ -320,7 +323,7 @@ class cardComponent extends HTMLElement{
                 </div>
 
                 <div class="operator-selected batch${this.nbatch}" id="operator-selected__${this.userid}_batch${this.nbatch}">
-                    <img src="svg/check3.svg" alt="">
+                    <img id="check-svg-batch${this.nbatch}-${this.userid}" src="svg/check3.svg" alt="">
                     </div>
 
             </label>
