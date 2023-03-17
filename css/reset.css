@@ -338,10 +338,12 @@ select {
 .news-art {
   outline: 0px dashed fuchsia;
   border-bottom: 1px solid hsla(0, 0%, 25%, 0.2);
+  user-select: text;
 }
 
 .new {
   background: hsl(0, 0%, 12.5%);
   color: hsl(0, 0%, 87.5%);
   padding: .5rem;
+  user-select: text;
 }

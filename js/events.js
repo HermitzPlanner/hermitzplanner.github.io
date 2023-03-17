@@ -301,7 +301,8 @@ async function events() {
         document.getElementById(`batch${eventJson.eventN}`).appendChild(fragment)
         // Total price will be stored here
         const summation = []
-        skinData.slice().reverse().forEach(function (skinJson) {
+        // .slice().reverse()
+        skinData.forEach(function (skinJson) {
             if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
                 summation.push(parseFloat(skinJson.price))
                 impostor.push(skinJson.skinname)
