@@ -95,7 +95,7 @@ function mobileCheck() {
     } else {
 
         arrowLoad.style.opacity = '1';
-        arrowLoad.style.left = '31%';
+        arrowLoad.style.left = '35%';
         // arrowLoad.style.top = '5%'
     }
 }
@@ -160,7 +160,7 @@ function menuSlider() {
                 sliderSkins[i].style.width = '65%';
                 sliderSkins[i].style.transition = 'var(--transition)'
             }
-            arrow.style.left = '31%';
+            arrow.style.left = '35%';
             arrow.style.transition = 'var(--transition)'
             document.getElementById('sliderthree').src = 'svg/arrow-left-solid.svg';
             galleryContainer.style.width = '65%';
