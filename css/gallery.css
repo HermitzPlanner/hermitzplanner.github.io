@@ -57,6 +57,7 @@
     width: 65%;
     display: none;
     flex-flow: column;
+    align-items: center;
     outline: 0px dashed fuchsia;
     /* border-left: 1px solid hsl(0, 0%, 50%); */
     height: var(--window-body);
@@ -70,7 +71,7 @@
 .initial-input2 {
     outline: 0px dashed fuchsia;
     margin-left: 0;
-    width: calc(var(--card-width) / 1.15 * 2 + 10px);
+    width: calc(var(--card-width) / 1.15 * 2 + .5rem);
 }
 
 #gallery-container input[type="checkbox"]{
@@ -160,6 +161,7 @@
 
 
 .gallery-row {
+    outline: 0px solid gold;
     display: flex;
     align-items: center;
     gap: .5rem;

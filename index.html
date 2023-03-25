@@ -8,18 +8,19 @@
     <title>Skin Planner</title>
 
     <script defer src="js/databrands.js" type="text/javascript"></script>
-    <script defer src="js/events.js" type="text/javascript"></script>
+
     <script defer src="js/cbox.js" type="text/javascript"></script>
     <script defer src="js/datauser.js"></script>
     <script defer src="js/galleryfetch.js" type="text/javascript"></script>
     <script defer src="js/menu-options.js" type="text/javascript"></script>
     <script defer src="js/mode-options.js" type="text/javascript"></script>
-    
+
 
     <script defer src="js/components/components.js" type="text/javascript"></script>
     <script defer src="js/components/component-selectall.js" type="text/javascript"></script>
     <script defer src="js/components/component-batch.js" type="text/javascript"></script>
     <script defer src="js/components/component-animation.js" type="text/javascript"></script>
+    <script defer src="js/events.js" type="text/javascript"></script>
 
     <link rel="stylesheet" href="css/events.css">
     <link rel="stylesheet" href="css/skins.css">
@@ -46,6 +47,7 @@
 
 </head>
 <!-- <button onclick="capture();">capture</button> -->
+
 <body onload="mobileCheck();">
     <header class="header">
 
@@ -58,7 +60,16 @@
             </div>
         </label>
 
-        <div class="modes-btn" id="modes-options">
+        <div class="modes-btn" id="modes-options" style="display: none;">
+            <!-- skinSummary(); -->
+            <input type="checkbox" id="header-summary" onchange="skinPlanner();">
+
+            <label class="header-button-opt" for="header-summary" id="header-summary-label">
+                <div class="opt-item" style="display: flex; align-items: center; gap: 5%;">
+                    <img id="summary-svg" src="svg/pen-to-square-solid.svg" style="filter: invert();" alt="">
+                    <div>Planner</div>
+                </div>
+            </label>
 
             <!-- <a href="index.html#batch1">Skin Planner</a> -->
             <input type="checkbox" id="header-blacklist" onchange="skinGallery(); galleryfetch();">
@@ -70,14 +81,18 @@
                 </div>
             </label>
 
-            <input type="checkbox" id="header-summary" onchange="skinSummary();">
+            <!-- <input type="checkbox" id="header-summary" onchange="skinSummary();">
 
             <label class="header-button-opt" for="header-summary" id="header-summary-label">
                 <div class="opt-item" style="display: flex; align-items: center; gap: 5%;">
                     <img id="summary-svg" src="svg/list-solid.svg" style="filter: invert();" alt="">
                     <div>Summary</div>
                 </div>
-            </label>
+            </label> -->
+
+
+
+
         </div>
 
         <input type="checkbox" id="header-options" onchange="menuoptions();" onmouseleave="menuleave();">
@@ -111,13 +126,13 @@
                     <div>Load</div>
                 </div>
             </label>
-            <input type="checkbox" id="tutorial-btn" onchange="showTutorial();">
+            <!-- <input type="checkbox" id="tutorial-btn" onchange="showTutorial();">
             <label class="header-button-opt" id="tutorial-btn-label" for="tutorial-btn">
                 <div class="opt-item" style="display: flex; align-items: center; gap: 5%;">
                     <img src="svg/bars-solid.svg" style="filter: invert();" alt="">
                     <div>Tutorial</div>
                 </div>
-            </label>
+            </label> -->
         </div>
 
         <input type="checkbox" id="header-discord">
@@ -157,8 +172,15 @@
         </div>
 
         <section class="full-image">
-            
+
             <div id="full-image-container">
+                <div id="mobile-view-details"
+                    style="position: absolute; bottom: 0; padding: 5vh; z-index: 999; display: none;">
+                    <button onclick="mobileSkinStats();"
+                        style="background-color: hsl(0, 0%, 30%); border-radius: 10px; padding: .125rem .5rem; border: none; color: #fff; cursor: pointer;">View
+                        Skin Details</button>
+                </div>
+
                 <img src="svg/x-solid.svg" class="quit-btn" style="filter: invert();" onclick="displayArt();" alt="">
                 <img id="full-image" src="" alt="">
                 <div class="gallery-view" id="gallery-view">
@@ -169,7 +191,21 @@
                             <span style="padding: .25rem;"></span>
                             <span class="gallery-element" id='gallery_view-skinnameenglish'> </span>
                         </div>
-                        <img src="" class="gallery-element" id='gallery_view-icon'>
+                        <div>
+                            <img src="" class="gallery-element" id='gallery_view-icon'>
+                            <!-- <span class="gallery-info2">loasd</span> -->
+                        </div>
+                    </div>
+
+                    <!-- <div class="gallery-row first-row" style="justify-content: center;">
+                            <span style="background-color: hsl(0, 0%, 30%); border-radius: 10px; padding: .125rem .5rem;">view full image</span>
+                    </div> -->
+
+                    <div class="gallery-row first-row" id="mobile-view-image"
+                        style="justify-content: center; display: none;">
+                        <button onclick="mobileViewImage();"
+                            style="background-color: hsl(0, 0%, 30%); border-radius: 10px; padding: .125rem .5rem; border: none; color: #fff; cursor: pointer; z-index: 999;">View
+                            Full Image</button>
                     </div>
 
                     <div class="gallery-row first-row">
@@ -256,8 +292,8 @@
 
         <section class="events">
             <ul class="menu left " id="event-container">
-                <li class="prim">
-                    <div class="tutorial" id="tutorial">
+                <li>
+                    <div class="tutorial" id="tutorial" style="display: none;">
 
                         <div class="menu-numbers-tutorial">
 
@@ -274,7 +310,7 @@
 
                             <div class="menu-element">
                                 <div class="menu-svg-tutorial">
-                                    <img src="svg/badge.png" style="filter: invert()" class="" alt="">
+                                    <img src="svg/badge.png" class="" alt="">
                                 </div>
 
                                 <div class="numbers-tutorial" style="display: flex;">
@@ -303,7 +339,8 @@
                                 </div>
                                 <div class="numbers-tutorial" style="display: flex; flex-flow: row;">
                                     <div style="display: flex; gap: .125rem;">
-                                        <div><span class="price">Start</span> by clicking on an event from the left side</div>
+                                        <div><span class="price">Start</span> by clicking on an event from the left side
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -314,7 +351,8 @@
                                 </div>
                                 <div class="numbers-tutorial" style="display: flex; flex-flow: row;">
                                     <div style="display: flex; gap: .125rem;">
-                                        <div><span class="price">Visualize</span> the art image by clicking this icon </div>
+                                        <div><span class="price">Visualize</span> the art image by clicking this icon
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -333,7 +371,7 @@
 
 
 
-                            <span style="padding: .25rem;"></span>
+                            <!-- <span style="padding: .25rem;"></span>
                             <span style="border-bottom: 1px solid hsl(0, 0%, 25%); width: 100%;"></span>
 
 
@@ -352,34 +390,61 @@
                                         </div>
                                     </label>
                                 </div>
-                            </div>
+                            </div> -->
+                        </div>
+                    </div>
 
-
-
-
+                    <div
+                        style="display: flex; outline: 0px dashed fuchsia; background: hsl(0, 0%, 12.5%); border-bottom: 1px solid hsl(0, 0%, 25%);">
+                        <div
+                            style="display: flex; width: 77.5%; align-items: center; opacity: 0; outline: 0px dashed cyan; gap: 1rem; justify-content: space-around;">
                         </div>
 
                     </div>
 
+
+
+                </li>
+
+                <div style="display: flex; background: hsl(0, 0%, 12.5%);">
+                    <div style="width: 77.5%; font-size: 1.25vh; outline: 0px solid fuchsia; opacity: 0;">
+                    </div>
+                    <!-- <span class="gap"></span> -->
                     <div
-                        style="display: flex; justify-content: space-between; align-items: center; outline: 0px solid white; padding: .5rem;">
-                        <div style="width: 77.5%; outline: 0px solid white; display: flex; justify-content: center;">
-                            Initial Primes:</div>
-                        <input type="number" class="initial-input" id="menu-initialprime" value="0" min="0">
-                        <script>
-                            document.getElementById("menu-initialprime").addEventListener("keydown", function(event) {
-                              // Check if the key pressed is a negative sign or any non-numeric character
-                              if (event.key === "-" || (/\D/.test(event.key) && event.keyCode !== 8)) {
-                                // Prevent the input from being entered
-                                event.preventDefault();
-                              }
-                            });
-                            </script>
+                        style="font-size: 1.25vh; outline: 0px solid fuchsia; padding-left: .125rem; padding-top: .5rem;">
+                        Initial primes <span style="color: red;">*</span>
+                    </div>
+                </div>
+
+                <div style="display: flex; outline: 0px dashed fuchsia; padding: .75rem;" class="prim">
+
+
+                    <div>
+                        <input type="checkbox" id="cbox-hide-tuto" style="display: none;" onchange="displayTutorial();">
+                        <label for="cbox-hide-tuto">
+                            <div class="hide-tuto tuto-btn">
+                                ?
+                            </div>
+                        </label>
+                    </div>
+                    <div
+                        style="display: flex; width: 77.5%; align-items: center; outline: 0px dashed cyan; gap: 1rem; justify-content: space-around;">
+                        <div>
+                            <input type="checkbox" id="skin-summary" style="display: none;" onchange="skinSummary();">
+                            <label for="skin-summary" id="skin-summary-label">
+                                <div class="hide-tuto tuto-btn">
+                                    Selection Summary
+                                </div>
+                            </label>
+                        </div>
                     </div>
 
+                    <div style="width: 22.5%; outline: 0px solid gold;">
 
-                    <!-- <span class="gap"></span> -->
-                </li>
+                        <input type="number" class="initial-input" id="menu-initialprime" value="0" min="0">
+                    </div>
+
+                </div>
 
             </ul>
         </section>
@@ -390,13 +455,14 @@
 
         <section id="gallery-container" style="display: none;">
             <div class="card-event-name flex">Skin gallery</div>
-            <div style="display: flex; outline: 0px dashed cyan; padding-left: 1rem; gap: 10px">
-                <div class="initial-input2 initial-input-text">Search skin <div style="color: red;">*</div>
+            <div style="width: 100%; display: flex; outline: 0px dashed cyan; padding: 0rem 1rem; gap: 10px">
+                <div id="gal-input3" class="initial-input2 initial-input-text">Search skin <div style="color: red;">*
+                    </div>
                 </div>
-                <div class="initial-input2 initial-input-text">Brands<div style="color: red;">*</div>
+                <div id="gal-input4" class="initial-input2 initial-input-text">Brands<div style="color: red;">*</div>
                 </div>
             </div>
-            <div style="display: flex; outline: 0px dashed cyan; padding-left: 1rem; gap: 10px">
+            <div style="width: 100%; display: flex; outline: 0px dashed cyan; padding: 0rem 1rem; gap: 10px">
                 <input type="search" class="initial-input2" id="search" data-search>
                 <select class="initial-input2" name="brand-select" id="search2" data-search2>
                     <option disabled value="">Select brand</option>
@@ -427,55 +493,70 @@
             </template>
         </section>
 
-        <section class="news" id="news"
-            style="display: flex; flex-flow: column; width: 65%; height: 95vh; outline: 0px solid fuchsia; padding: 2rem; background: var(--background); gap: 2rem;">
 
-            <div style="outline: 0px dashed gold; display: flex; ">
-                <div style="outline: 0px dashed cyan; aspect-ratio: 1; width: 100%; display: flex;
-                justify-content: left;
-                align-items: center;"><img style="aspect-ratio: 1;" src="assets/pallas.png">
-                </div>
-                <div>
-                    <div class="card-event-name" style="display: flex; padding: 2rem;">
-                        HermitzPlanner</div>
-                    <div style="padding: 2rem;">With so many Operators to choose from and various factors to consider,
-                        it can
-                        be
-                        challenging for players to decide which ones to invest in. That's where a Skin Planner comes in
-                        - a
-                        tool
-                        that allows players to plan and preview their Operator skins and make informed decisions about
-                        which
-                        ones to acquire and use. <br> <span style="color: gold;">(the order of events is subject to
-                            change)</span></div>
-                </div>
-            </div>
-
-            <div style="display: flex; flex-flow: column; gap: 2rem; outline: 0px dashed cyan;">
-                <div style="display: block;">
-                    <span class="news-art"
-                        style="font-size: 2.25vh; background: #ffd700; color: black; width: auto; padding: .5rem;">Mar 13
-                        2023</span>
-                </div>
-                <div style="display: block;"><span class="new invis">Current event: Dorothy's Vision</span></div>
-                <div style="display: block;"><span class="new invis"> Skin Summary implemented for the skins selected.</span></div>
-                <div style="display: block;"><span class="new invis">Added a limit to how much you can zoom-out the
-                    skin's art</span></div>
-                <div style="display: block;"><span class="new invis">Added a loading animation for chibis</span></div>
-                <div style="display: block;"><span class="new invis">You can press ESC to exit the details while
-                    viewing a skin</span></div>
-
-                
-            </div>
-
-        </section>
     </main>
+
+    <section class="news news-container" id="news">
+        <div style="outline: 0px solid white; max-width: 90%; height: 100%;">
+            <div id="news-cont" style="outline: 0px dashed gold; display: flex; height: 50%;">
+                <div id="news-img-cont"
+                    style="outline: 0px dashed cyan; aspect-ratio: 1; width: 20%; display: flex; justify-content: left; align-items: center;">
+                    <img id="news-img" style="aspect-ratio: 1;" src="assets/pallas.png">
+                </div>
+                <div style="display: flex; flex-flow: column; justify-content: center;">
+                    <div id="news-title" class="card-event-name" style="display: flex; padding: 2rem;">
+                        HermitzPlanner</div>
+                    <div id="news-intro" style="padding: 2rem;">
+                        A tool that allows players to
+                        <span style="color: gold;">plan</span>
+                        and
+                        <span style="color: gold;">preview</span>
+                        Operator
+                        <span style="color: gold;">skins</span>
+                        and make informed decisions
+                        about
+                        which
+                        ones to acquire and use.<br><br>
+                        Many thanks to the developers of
+                        PRTS wiki, Gamepress, Pixi.JS, Pixi-spine.js.<br> And all the people who helped me on the process of making this site.
+                    </div>
+                </div>
+            </div>
+
+            <div
+                style="display: flex; flex-flow: column; gap: .5rem; outline: 0px dashed cyan; height: 50%; padding: 0rem 0rem;">
+                <div class="new invis" style="display: block; color: black; background: gold;">
+                    <div class="select">Mar 25 2023</div>
+                </div>
+                <div class="new invis" style="display: block;">
+                    <div class="select">Current event: Dorothy's Vision</div>
+                </div>
+                <div class="new invis" style="display: block;">
+                    <div class="select">You can now zoom the chibi with the mousewheel</div>
+                </div>
+                <div class="new invis" style="display: block;">
+                    <div class="select">Summary of your selections is now inside the planner</div>
+                </div>
+                <div class="new invis" style="display: block;">
+                    <div class="select">The tutorial can now be displayed clicking the "?" button inside the planner</div>
+                </div>
+                <div class="new invis" style="display: block;">
+                    <div class="select">Small fixes for Lappland and Cantabile skins (thanks Max)</div>
+                </div>
+
+
+            </div>
+        </div>
+
+    </section>
 
 
     <div id="summary-div"
         style="margin: 1rem; padding: .75rem; outline: 0px solid hsl(0, 0%, 40%); display: none; gap: .75rem; flex-flow: column; background: var(--background);">
         <!-- <button onclick="takeScreenshot()" >Take Screenshot</button> -->
         <!-- lol -->
+        <div><img src="svg/x-solid.svg" class="quit-btn2" style="filter: invert(); top: 5vh;" onclick="quitSummary();"
+                alt=""></div>
         <div class="card-event-name" style="display: flex; justify-content: center; align-items: center;">Selection
             Summary</div>
     </div>

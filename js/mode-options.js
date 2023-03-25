@@ -5,6 +5,7 @@ function modesoptions() {
     if (document.getElementById('header-modes').checked == true) {
         modesopts.style.width = '16vh'
         modesopts.style.height = '15vh'
+        modesopts.style.display = 'flex'
         modesopts.style.opacity = '1'
         modesopts.style.transition = 'var(--transition)'
         modesopts.style.fontSize = '2vh'
@@ -12,6 +13,7 @@ function modesoptions() {
     } else {
         modesopts.style.width = '0%'
         modesopts.style.height = '0%'
+        modesopts.style.display = 'none'
         modesopts.style.opacity = '0'
         modesopts.style.transition = 'var(--transition)'
         modesopts.style.fontSize = '0vh'
@@ -36,6 +38,7 @@ modesopts.addEventListener('mouseleave', function () {
 
 const checkbox1 = document.querySelector('#header-blacklist');
 const checkbox2 = document.querySelector('#header-summary');
+const headerModes = document.getElementById('header-modes')
 
 checkbox1.addEventListener('click', () => {
   if (checkbox1.checked) {
@@ -43,6 +46,8 @@ checkbox1.addEventListener('click', () => {
         checkbox2.click();
     }
   }
+
+
 });
 
 checkbox2.addEventListener('click', () => {

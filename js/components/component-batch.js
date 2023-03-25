@@ -45,7 +45,8 @@ class batchComponent extends HTMLElement{
         }
     }
 
-
+    // onmouseenter="menuInfo();"
+    // https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${this.eventcode}.jpg"
     connectedCallback(){
         this.innerHTML = `
         <div class="menu-row" id="row${this.nbatch}" onclick="window.location.href = '#batch${this.nbatch}'; selectOnlyThis(this.id);">
@@ -79,7 +80,7 @@ class batchComponent extends HTMLElement{
             ">
 
                 <div class="menu-element">
-                    <div class="menu-svg" onmouseenter="menuInfo();">
+                    <div class="menu-svg">
                         <img src="svg/puregem.png" class="" alt="">
                         
                     </div>
@@ -91,8 +92,8 @@ class batchComponent extends HTMLElement{
                 </div>
 
                 <div class="menu-element">
-                    <div class="menu-svg" onmouseenter="menuInfo();">
-                        <img src="svg/badge.png" style="filter: invert()" class="" alt="">
+                    <div class="menu-svg">
+                        <img src="svg/badge.png" alt="">
                     </div>
 
                     <div class="numbers" style="display: flex;">

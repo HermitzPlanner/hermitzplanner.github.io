@@ -223,6 +223,23 @@ function charaSelect() {
   pixi()
 }
 
+var chibiscale = 1;
+
+chibi.addEventListener('wheel', function (e) {
+  e.preventDefault();
+  var delta = e.deltaY || e.detail || e.wheelDelta;
+
+  if (delta < 0) {
+    // zoom in
+    chibiscale += 0.1;
+  } else {
+    // zoom out if chibiscale is greater than the minimum value
+    if (chibiscale > 0.2) {
+      chibiscale -= 0.1;
+    }
+  }
+  console.log(chibiscale)
+});
 
 function pixi() {
 
@@ -243,8 +260,13 @@ function pixi() {
       animationSelector.innerHTML += `<option value="${skinSpineAnimations[i].name}">${skinSpineAnimations[i].name}</option>`;
     }
 
+    console.log('width', app.screen.width)
+    console.log('height', app.screen.height)
     skinSpine.x = app.screen.width / 2;
     skinSpine.y = app.screen.height;
+
+    chibiNewPosX = app.screen.width / 2;
+    chibiNewPosY = app.screen.height;
 
 
     let timeScale = 1
@@ -252,12 +274,17 @@ function pixi() {
       timeScale = speed.value
     })
     skinSpine.alpha = 1;
-    skinSpine.scale.set(.5)
+    skinSpine.scale.set(1)
     app.stage.addChild(skinSpine);
     skinSpine.state.timeScale = 0.25;
+    chibiscale = 0.5;
+
     app.ticker.add(() => {
       skinSpine.state.timeScale = timeScale; // Update the time scale of the animation
+      skinSpine.scale.set(chibiscale);
 
+      //skinSpine.x = chibiNewPosX
+      //skinSpine.y = chibiNewPosY
     });
 
     const backpers = document.getElementById('backpers')

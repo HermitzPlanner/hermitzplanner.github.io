@@ -18,8 +18,16 @@ function showTutorial() {
     if (checkbox1.checked) {
         checkbox1.click();
     }
+}
 
-
+function displayTutorial() {
+    const tutoBtn = document.getElementById('cbox-hide-tuto')
+    const tuto = document.getElementById('tutorial')
+    if (tutoBtn.checked == true) {
+        tuto.style.display = 'block'
+    } else {
+        tuto.style.display = 'none'
+    }
 }
 
 function skinGallery() {
@@ -30,6 +38,7 @@ function skinGallery() {
     const blacklistContainer = document.getElementById('gallery-container')
     const arrow = document.querySelector('.slider-container')
     const news = document.getElementById('news')
+    const main = document.getElementById('main')
     if (blacklistButton.checked == true) {
         // slider.checked = true;
         slider.checked = true;
@@ -43,6 +52,7 @@ function skinGallery() {
         blacklistButtonLabel.style.color = 'black'
         blacklistButton.style.transition = 'var(--transition)'
         news.style.display = 'none'
+        main.style.display = 'flex'
         menuSlider();
         //galleryfetch();
 
@@ -59,7 +69,47 @@ function skinGallery() {
         blacklistButtonLabel.style.color = 'white'
         blacklistButton.style.transition = 'var(--transition)'
         news.style.display = 'flex'
+        main.style.display = 'none'
+        //menuSlider();
+    }
+}
+
+function skinPlanner() {
+    const storedId = JSON.parse(localStorage.getItem("storageId"))
+    const summarybtn = document.getElementById('header-summary')
+    const summarydiv = document.getElementById('summary-div')
+
+    const summaryButton = document.getElementById('header-summary')
+    const summaryButtonLabel = document.getElementById('header-summary-label')
+    const summarySvg = document.getElementById('summary-svg')
+
+    const news = document.getElementById('news')
+
+    const main = document.getElementById('main')
+    if (summarybtn.checked == true) {
+        summaryButtonLabel.style.backgroundColor = 'white';
+        summarySvg.style.filter = ''
+        summaryButtonLabel.style.color = 'black'
+        summaryButton.style.transition = 'var(--transition)'
+
+        news.style.display = 'none'
+        main.style.display = 'flex'
         menuSlider();
+
+
+
+    } else {
+
+        summaryButtonLabel.style.backgroundColor = 'black';
+        summarySvg.style.filter = 'invert()'
+        summaryButtonLabel.style.color = 'white'
+        summaryButton.style.transition = 'var(--transition)'
+
+        news.style.display = 'flex'
+        main.style.display = 'none'
+
+
+
     }
 }
 
@@ -76,13 +126,55 @@ document.addEventListener('keydown', function (event) {
     }
 });
 
+
+function mobileSkinStats() {
+    const gallery = document.querySelector('.gallery-view')
+    const mobileSkinDetails = document.getElementById('mobile-view-details')
+    gallery.style.display = 'flex'
+    gallery.style.width = '100%'
+    gallery.style.height = '100%'
+    gallery.style.margin = '0'
+    gallery.style.backgroundColor = '#262626'
+    gallery.style.borderRadius = '0'
+    console.log('amogus')
+    mobileSkinDetails.style.display = 'none'
+
+}
+
+function mobileViewImage() {
+    const skinDetails = document.querySelector('.gallery-view')
+    const mobileSkinDetails = document.getElementById('mobile-view-details')
+    skinDetails.style.display = 'none'
+    mobileSkinDetails.style.display = ''
+}
+
 function mobileCheck() {
     const arrowLoad = document.querySelector('.slider-container')
     const sliderEventsLoad = document.querySelector('.events')
     const sliderSkinsLoad = document.getElementsByClassName('batch')
     const skinsContainerLoad = document.querySelector('.skins')
-    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
+    const gallery = document.querySelector('.gallery-view')
+    const chibicont = document.querySelector('.gallery-video')
+    const quit = document.querySelector('.quit-btn')
+    const quit2 = document.querySelector('.quit-btn2')
+    const mobileView = document.getElementById('mobile-view-image')
+    const scrollDrag = document.querySelector('.scroll-drag')
+    const galleryPadding = document.getElementById('gallery-container')
+    const blackList = document.getElementById('blacklist-container')
+    const galInput1 = document.getElementById('search')
+    const galInput2 = document.getElementById('search2')
+    const galInput3 = document.getElementById('gal-input3')
+    const galInput4 = document.getElementById('gal-input4')
+    const header = document.querySelector('.header')
+    const headerElement = document.querySelectorAll('.header-button')
+    ///Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)
+    if (window.innerWidth < 700) {
         //alert('mobile')
+        header.style.justifyContent = 'center'
+        header.style.gap = '5%'
+        for (i = 0; i < headerElement.length; i++) {
+            headerElement[i].style.width = 'auto'
+        }
         arrowLoad.style.left = '85%';
         sliderEventsLoad.style.width = '100%';
         skinsContainerLoad.style.display = 'none'
@@ -91,6 +183,34 @@ function mobileCheck() {
             sliderSkinsLoad[i].style.display = 'none';
         }
         arrowLoad.style.opacity = '1';
+
+
+        gallery.style.display = 'none'
+        chibicont.style.height = '35%'
+        quit.style.width = '2.5vh'
+        quit2.style.width = '2.5vh'
+
+        galInput1.style.width = '50%'
+        galInput2.style.width = '50%'
+        galInput3.style.width = '50%'
+        galInput4.style.width = '50%'
+
+        galleryPadding.style.padding = '1rem 0rem'
+        blackList.style.padding = '1rem 0rem'
+        blackList.style.justifyContent = 'center'
+        gallery.style.display = 'flex'
+        gallery.style.width = '100%'
+        gallery.style.height = '100%'
+        gallery.style.margin = '0'
+        gallery.style.backgroundColor = '#171717'
+        gallery.style.borderRadius = '0'
+        mobileView.style.display = ''
+        scrollDrag.style.left = '5%'
+        scrollDrag.style.top = '5%'
+        scrollDrag.innerHTML = ''
+
+
+
 
     } else {
 
@@ -107,9 +227,9 @@ function menuSlider() {
     const skinsContainer = document.querySelector('.skins')
     const galleryContainer = document.querySelector('#gallery-container')
     const news = document.querySelector('#news')
-    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
+    if (window.innerWidth < 700) {
         if (slider.checked == true) {
-            document.getElementById('sliderthree').src = 'svg/arrow-right-solid.svg';
+            document.getElementById('sliderthree').src = 'svg/arrow-left-solid.svg';
             arrow.style.left = '0%';
             arrow.style.transition = 'var(--transition)'
 
@@ -127,13 +247,13 @@ function menuSlider() {
 
             galleryContainer.style.width = '100%';
             galleryContainer.style.transition = 'var(--transition)'
-            
+
 
 
 
         } else {
-            document.getElementById('sliderthree').src = 'svg/arrow-left-solid.svg';
-            arrow.style.left = '85%';
+            document.getElementById('sliderthree').src = 'svg/arrow-right-solid.svg';
+            arrow.style.left = '0%';
             arrow.style.transition = 'var(--transition)'
 
             sliderEvents.style.width = '100%';
@@ -160,10 +280,10 @@ function menuSlider() {
                 sliderSkins[i].style.width = '65%';
                 sliderSkins[i].style.transition = 'var(--transition)'
             }
-            arrow.style.left = '35%';
+            arrow.style.left = '35.5%';
             arrow.style.transition = 'var(--transition)'
             document.getElementById('sliderthree').src = 'svg/arrow-left-solid.svg';
-            galleryContainer.style.width = '65%';
+            galleryContainer.style.width = '0%';
             galleryContainer.style.transition = 'var(--transition)';
 
         } else {
@@ -178,6 +298,7 @@ function menuSlider() {
             document.getElementById('sliderthree').src = 'svg/arrow-right-solid.svg';
             galleryContainer.style.width = '100%';
             galleryContainer.style.transition = 'var(--transition)';
+            news.style.width = '100%'
         }
     }
 }
@@ -212,14 +333,14 @@ async function events() {
         runtype="${eventJson.type}"
         eventcode="${eventJson.eventcode}">
         </batch-component>`;
-        
+
         document.getElementById(`event-container`).appendChild(fragment)
         let cardContainer;
         cardContainer = document.createElement("li")
         cardContainer.setAttribute('id', `batch${eventJson.eventN}`)
         cardContainer.setAttribute('class', `batch`)
         fragment.appendChild(cardContainer);
-        cardContainer.style.backgroundImage = `linear-gradient(hsla(0, 0%, 5%, 0.95), hsla(0, 0%, 1%, 0.95)), url('https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${eventJson.eventcode}.jpg')`;
+        cardContainer.style.backgroundImage = `linear-gradient(hsla(0, 0%, 5%, 0.85), hsla(0, 0%, 1%, 0.85)), url('https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${eventJson.eventcode}.jpg')`;
         cardContainer.style.backgroundRepeat = 'no-repeat';
         cardContainer.style.backgroundSize = 'cover';
         cardContainer.style.backgroundPosition = 'center';
@@ -256,28 +377,62 @@ async function events() {
         document.getElementById(`card-info${eventJson.eventN}`).appendChild(fragment)
 
         // RERUN OPTION
-        if (`${eventJson.type}` == 'Rerun') {
-            let rerunReward;
-            rerunReward = document.createElement("div")
-            rerunReward.innerHTML = `
+        if (eventJson.reward == 0 && eventJson.rewardRerun == 0) {
+            // console.log(eventJson.event)
+        } else {
+
+
+            if (`${eventJson.type}` == 'Rerun') {
+                let rerunReward;
+                rerunReward = document.createElement("div")
+                rerunReward.innerHTML = `
             <input type="checkbox" id="rerunreward-batch${eventJson.eventN}" style="display: none" onchange="
                 const reward = document.getElementById('menu-reward-batch${eventJson.eventN}')
                 const rewardLabel = document.getElementById('rerunreward-batch${eventJson.eventN}-label')
+                const enable = document.getElementById('enable-${eventJson.eventN}')
                 if (document.getElementById('rerunreward-batch${eventJson.eventN}').checked == true) {
                     reward.innerHTML = '+${eventJson.rewardRerun}'
                     rewardLabel.style.background = 'var(--bg-highlight)';
+                    enable.innerHTML = 'Disable rewards'
                 } else {
                     reward.innerHTML = '+0'
                     rewardLabel.style.background = 'var(--card-bg)';
+                    enable.innerHTML = 'Enable rewards'
                 }
                 doThing();
             ">
             <label for="rerunreward-batch${eventJson.eventN}" id="rerunreward-batch${eventJson.eventN}-label" class="select-all-button all" style="font-size: 1.8vh; cursor: pointer;">
-            <div>Enable Reward</div>
+            <div id="enable-${eventJson.eventN}">Enable Reward</div>
             </label>`
 
-            fragment.appendChild(rerunReward);
-            document.getElementById(`card-info${eventJson.eventN}`).appendChild(fragment)
+                fragment.appendChild(rerunReward);
+                document.getElementById(`card-info${eventJson.eventN}`).appendChild(fragment)
+            } else {
+                let rerunReward;
+                rerunReward = document.createElement("div")
+                rerunReward.innerHTML = `
+            <input type="checkbox" id="rerunreward-batch${eventJson.eventN}" style="display: none" onchange="
+                const reward = document.getElementById('menu-reward-batch${eventJson.eventN}')
+                const rewardLabel = document.getElementById('rerunreward-batch${eventJson.eventN}-label')
+                const enable = document.getElementById('enable-${eventJson.eventN}')
+                if (document.getElementById('rerunreward-batch${eventJson.eventN}').checked == true) {
+                    reward.innerHTML = '+0'
+                    rewardLabel.style.background = 'var(--bg-highlight)';
+                    enable.innerHTML = 'Enable rewards'
+                } else {
+                    reward.innerHTML = '+${eventJson.reward}'
+                    rewardLabel.style.background = 'var(--card-bg)';
+                    enable.innerHTML = 'Disable rewards'
+                }
+                doThing();
+            ">
+            <label for="rerunreward-batch${eventJson.eventN}" id="rerunreward-batch${eventJson.eventN}-label" class="select-all-button all" style="font-size: 1.8vh; cursor: pointer;">
+            <div id="enable-${eventJson.eventN}">Disable Reward</div>
+            </label>`
+
+                fragment.appendChild(rerunReward);
+                document.getElementById(`card-info${eventJson.eventN}`).appendChild(fragment)
+            }
         }
         //localStorage.setItem("rerunRewardLocal", rerunRewardStorage)
 
@@ -387,7 +542,7 @@ async function events() {
         const rewardInitial = document.getElementById(`menu-reward-initial-batch${eventJson.eventN}`)
         rewardInitial.addEventListener("DOMSubtreeModified", function () {
             if (rewardInitial.textContent === "0") {
-                rewardInitial.style.opacity = 0.6
+                // rewardInitial.style.opacity = 0.6
             } else {
                 rewardInitial.style.opacity = 1;
             }
@@ -396,7 +551,7 @@ async function events() {
         const reward = document.getElementById(`menu-reward-batch${eventJson.eventN}`)
         reward.addEventListener("DOMSubtreeModified", function () {
             if (reward.textContent === "0") {
-                reward.style.opacity = 0.6
+                // reward.style.opacity = 0.6
             } else {
                 reward.style.opacity = 1;
             }
@@ -405,7 +560,7 @@ async function events() {
         const skincost = document.getElementById(`menu-skincost-batch${eventJson.eventN}`)
         skincost.addEventListener("DOMSubtreeModified", function () {
             if (skincost.textContent === "0") {
-                skincost.style.opacity = 0.6
+                // skincost.style.opacity = 0.6
             } else {
                 skincost.style.opacity = 1;
             }
@@ -414,7 +569,7 @@ async function events() {
         const remaining = document.getElementById(`menu-remaining-batch${eventJson.eventN}`)
         remaining.addEventListener("DOMSubtreeModified", function () {
             if (remaining.textContent === "0") {
-                remaining.style.opacity = 0.6
+                // remaining.style.opacity = 0.6
             } else {
                 remaining.style.opacity = 1;
             }
@@ -521,8 +676,32 @@ async function initialLoad() {
 } initialLoad()
 
 async function main() {
+    if (window.innerWidth < 700) {
+        const newsImg = document.getElementById('news-img')
+        const newsImgCont = document.getElementById('news-img-cont')
+        const newsTitle = document.getElementById('news-title')
+        const newsIntro = document.getElementById('news-intro')
+        const newsCont = document.getElementById('news-cont')
+        newsCont.style.height = '35%'
+        newsImg.src = 'https://prts.wiki/images/e/ee/半身像_帕拉斯_skin2.png'
+        newsImg.style.aspectRatio = '1/2'
+        newsImgCont.style.width = '25%'
+        newsTitle.style.fontSize = '3.5vh'
+        newsIntro.innerHTML = `
+        A tool that allows players to
+                        <span style="color: gold;">plan</span>
+                        and
+                        <span style="color: gold;">preview</span>
+                        Operator
+                        <span style="color: gold;">skins</span>
+                        and make informed decisions
+                        about
+                        which
+                        ones to acquire and use.
+        `
+    }
     await events();
-    
+
     if (localStorage.getItem("storageSkins") === null) { } else {
         await skinStorage();
     }
@@ -530,12 +709,12 @@ async function main() {
     const menuRewards = document.getElementsByClassName('menu-reward')
     for (var i = 0; menuRewards[i]; i++) {
         if (menuRewards[i].textContent === "0" || menuRewards[i].textContent === "+0") {
-            menuRewards[i].style.opacity = 0.6;
+            // menuRewards[i].style.opacity = 0.6;
         }
     }
 
     await doThing();
-
+    // document.getElementById('header-summary').click();
     // const menuRewards2 = document.querySelectorAll('.menu-reward')
     // console.log(menuRewards2[5])
 
@@ -586,118 +765,169 @@ function skip(value) {
 async function skinSummary() {
     //console.log(JSON.parse(localStorage.getItem("storageId")))
     const storedId = JSON.parse(localStorage.getItem("storageId"))
-    const summarybtn = document.getElementById('header-summary')
+    const summarybtn = document.getElementById('skin-summary')
     const summarydiv = document.getElementById('summary-div')
 
-    const summaryButton = document.getElementById('header-summary')
-    const summaryButtonLabel = document.getElementById('header-summary-label')
+    const summaryButton = document.getElementById('skin-summary')
+    const summaryButtonLabel = document.getElementById('skin-summary-label')
     const summarySvg = document.getElementById('summary-svg')
 
     const main = document.getElementById('main')
-    if (summarybtn.checked == true) {
-        summaryButtonLabel.style.backgroundColor = 'white';
-        summarySvg.style.filter = ''
-        summaryButtonLabel.style.color = 'black'
-        summaryButton.style.transition = 'var(--transition)'
+    // if (summarybtn.checked == true) {
+    // summaryButtonLabel.style.backgroundColor = 'white';
+    // summarySvg.style.filter = ''
+    // summaryButtonLabel.style.color = 'black'
+    summaryButton.style.transition = 'var(--transition)'
 
-        summarydiv.style.display = 'flex'
+    summarydiv.style.display = 'flex'
 
-        main.style.display = 'none'
-        const eventResponse = await fetch('json/events.json');
-        const eventData = await eventResponse.json();
+    main.style.display = 'none'
+    const eventResponse = await fetch('json/events.json');
+    const eventData = await eventResponse.json();
 
-        const skinResponse = await fetch('json/skins.json'); 
-        const skinData = await skinResponse.json(); 
-        eventData.forEach(function (eventJson) {
-            const eventCheck = document.getElementById(`menu-skincost-batch${eventJson.eventN}`)
+    const skinResponse = await fetch('json/skins.json');
+    const skinData = await skinResponse.json();
+    eventData.forEach(function (eventJson) {
+        const eventCheck = document.getElementById(`menu-skincost-batch${eventJson.eventN}`)
+        if (window.innerWidth < 700) {
+            document.getElementById('summary-div').style.margin = '0'
             if (eventCheck.innerHTML !== '0') {
 
                 summarydiv.innerHTML += `
-            <div id="summary-batch-${eventJson.eventN}" style="display: flex; outline: 0px solid hsl(0, 0%, 30%); padding: 0rem; background: hsl(0, 0%, 9%); border-radius: 5px;">
-
-
-                <div style="width: 25%; display: flex; flex-flow: column; outline: 0px dashed red; padding: .5rem; border-right: 1px solid hsl(0, 0%, 30%); gap: .5rem; align-items: center; justify-content: center;">
-                    <div style="display: flex; justify-content: center; outline: 0px solid fuchsia; margin-top: 0rem;">
-                        ${eventJson.event}
-                    </div>
-                    <div id="summary-batch${eventJson.eventN}">
-                        <img class="summary-icons" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${eventJson.eventcode}.jpg">
-                    </div>
-                </div>
-                
-                <div id="summary-cards${eventJson.eventN}" style="width: 75%; outline: 0px dashed cyan; display: flex; align-items: center; gap: .5rem; padding: .5rem; flex-wrap: wrap;"></div>
-                </div>`
-            const summarycard = document.getElementById(`summary-cards${eventJson.eventN}`)
-            const summarybatchHeight = document.getElementById(`summary-batch${eventJson.eventN}`)
-            const divHeight = summarybatchHeight.offsetHeight;
-
-            skinData
-                .filter(skinJson => storedId.includes(skinJson.id))
-                .forEach(skinJson => {
-                    if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
-                        //console.log(skinJson.id);
-                        
-                        summarycard.innerHTML += `
-                <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 0px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: hsl(0, 0%, 15%);)">
-                    <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
-                    <img height="${divHeight}" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${skinJson.id}.png">
-                </div>
-            `;
-                    }
-                });
-            }
-        })
-
-
-
-
-
-    } else {
-        summarydiv.style.display = 'none'
-        main.style.display = ''
-        summarydiv.innerHTML = `<div class="card-event-name" style="display: flex; justify-content: center; align-items: center;">Selection Summary</div>`
+                <div id="summary-batch-${eventJson.eventN}" style="display: flex; flex-flow: column;  outline: 0px solid hsl(0, 0%, 30%); padding: 1rem; background: hsl(0, 0%, 9%); border-radius: 5px;">
     
-        summaryButtonLabel.style.backgroundColor = 'black';
-        summarySvg.style.filter = 'invert()'
-        summaryButtonLabel.style.color = 'white'
-        summaryButton.style.transition = 'var(--transition)'
-        
-    }
+    
+                    <div style="width: 100%; display: flex; flex-flow: column; outline: 0px dashed red; padding: 1rem;  gap: .5rem; align-items: center; justify-content: center;">
+                        <div style="display: flex; justify-content: center; outline: 0px solid fuchsia; margin-top: 0rem;">
+                            ${eventJson.event}
+                        </div>
+                        <div id="summary-batch${eventJson.eventN}">
+                            <img class="summary-icons" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${eventJson.eventcode}.jpg">
+                        </div>
+                    </div>
+                    
+                    <div id="summary-cards${eventJson.eventN}" style="width: 100%; outline: 0px dashed cyan; display: flex; align-items: center; justify-content: center; gap: 3px; flex-wrap: wrap;"></div>
+                    </div>`
+                const summarycard = document.getElementById(`summary-cards${eventJson.eventN}`)
+                const summarybatchHeight = document.getElementById(`summary-batch${eventJson.eventN}`)
+                const divHeight = summarybatchHeight.offsetHeight;
 
+                skinData
+                    .filter(skinJson => storedId.includes(skinJson.id))
+                    .forEach(skinJson => {
+                        if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
+                            //console.log(skinJson.id);
+
+                            summarycard.innerHTML += `
+                    <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 0px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: hsl(0, 0%, 15%);)">
+                        <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
+                        <img height="${divHeight}" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${skinJson.id}.png">
+                    </div>
+                `;
+                        }
+                    });
+            }
+        } else {
+            if (eventCheck.innerHTML !== '0') {
+
+                summarydiv.innerHTML += `
+                <div id="summary-batch-${eventJson.eventN}" style="display: flex;  outline: 0px solid hsl(0, 0%, 30%); padding: 0rem; background: hsl(0, 0%, 9%); border-radius: 5px;">
+    
+    
+                    <div style="width: 25%; display: flex; flex-flow: column; outline: 0px dashed red; padding: .5rem; border-right: 1px solid hsl(0, 0%, 30%); gap: .5rem; align-items: center; justify-content: center;">
+                        <div style="display: flex; justify-content: center; outline: 0px solid fuchsia; margin-top: 0rem;">
+                            ${eventJson.event}
+                        </div>
+                        <div id="summary-batch${eventJson.eventN}">
+                            <img class="summary-icons" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${eventJson.eventcode}.jpg">
+                        </div>
+                    </div>
+                    
+                    <div id="summary-cards${eventJson.eventN}" style="width: 75%; outline: 0px dashed cyan; display: flex; align-items: center; gap: .5rem; padding: .5rem; flex-wrap: wrap;"></div>
+                    </div>`
+                const summarycard = document.getElementById(`summary-cards${eventJson.eventN}`)
+                const summarybatchHeight = document.getElementById(`summary-batch${eventJson.eventN}`)
+                const divHeight = summarybatchHeight.offsetHeight;
+
+                skinData
+                    .filter(skinJson => storedId.includes(skinJson.id))
+                    .forEach(skinJson => {
+                        if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
+                            //console.log(skinJson.id);
+
+                            summarycard.innerHTML += `
+                    <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 0px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: hsl(0, 0%, 15%);)">
+                        <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
+                        <img height="${divHeight}" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${skinJson.id}.png">
+                    </div>
+                `;
+                        }
+                    });
+            }
+        }
+
+    })
+
+
+
+
+
+    //}
+    // else {
+    // console.log('lol')
+    // summarydiv.style.display = 'none'
+    // main.style.display = ''
+    // summarydiv.innerHTML = `<div class="card-event-name" style="display: flex; justify-content: center; align-items: center;">Selection Summary</div>`
+
+    // summaryButtonLabel.style.backgroundColor = 'black';
+    // summarySvg.style.filter = 'invert()'
+    // summaryButtonLabel.style.color = 'white'
+    // summaryButton.style.transition = 'var(--transition)'
+
+    // }
+}
+
+function quitSummary() {
+    const main = document.getElementById('main')
+    const summarydiv = document.getElementById('summary-div')
+    summarydiv.style.display = 'none'
+    main.style.display = 'flex'
+    summarydiv.innerHTML = `
+    <div><img src="svg/x-solid.svg" class="quit-btn3" style="filter: invert(); top: 5vh;" onclick="quitSummary();" alt=""></div>
+    <div class="card-event-name" style="display: flex; justify-content: center; align-items: center;">Selection Summary</div>`
 
 }
 
-
 function takeScreenshot() {
-  // Get all the images with the class "summary-icons"
-  var images = document.getElementsByClassName('summary-icons');
-  var loadedImages = 0;
-  var totalImages = images.length;
-  
+    // Get all the images with the class "summary-icons"
+    var images = document.getElementsByClassName('summary-icons');
+    var loadedImages = 0;
+    var totalImages = images.length;
 
-  // Wait for all the images to load before taking the screenshot
-  for (var i = 0; i < totalImages; i++) {
-    console.log('images', images[i])
-    images[i].addEventListener('load', function() {
-      console.log('amogus')
+
+    // Wait for all the images to load before taking the screenshot
+    for (var i = 0; i < totalImages; i++) {
+        console.log('images', images[i])
+        images[i].addEventListener('load', function () {
+            console.log('amogus')
+        });
+    }
+    html2canvas(document.body).then(function (canvas) {
+        // Convert the canvas to an image
+        var imgData = canvas.toDataURL('image/png');
+        // Open the image in a new tab
+        var windowContent = '<!DOCTYPE html>';
+        windowContent += '<html>'
+        windowContent += '<head><title>Screenshot</title></head>';
+        windowContent += '<body>'
+        windowContent += '<img src="' + imgData + '">';
+        windowContent += '</body>';
+        windowContent += '</html>';
+        var printWin = window.open('', '', 'width=' + screen.availWidth + ',height=' + screen.availHeight);
+        printWin.document.open();
+        printWin.document.write(windowContent);
+        printWin.document.close();
     });
-  }
-  html2canvas(document.body).then(function(canvas) {
-    // Convert the canvas to an image
-    var imgData = canvas.toDataURL('image/png');
-    // Open the image in a new tab
-    var windowContent = '<!DOCTYPE html>';
-    windowContent += '<html>'
-    windowContent += '<head><title>Screenshot</title></head>';
-    windowContent += '<body>'
-    windowContent += '<img src="' + imgData + '">';
-    windowContent += '</body>';
-    windowContent += '</html>';
-    var printWin = window.open('', '', 'width=' + screen.availWidth + ',height=' + screen.availHeight);
-    printWin.document.open();
-    printWin.document.write(windowContent);
-    printWin.document.close();
-  });
 }
 
 

@@ -161,8 +161,8 @@ input {
 
 #full-image-container {
   outline: 1px dashed fuchsia;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   position: fixed;
   top: 0;
   left: 0;
@@ -190,12 +190,13 @@ input {
   outline: 0px dashed fuchsia;
   position: absolute;
   top: 92.5%;
-  left: 35%;
+  left: 37.5%;
   z-index: 1;
   display: flex;
   align-items: center;
   justify-content: center;
   margin-left: .25rem;
+  display: flex;
 }
 
 .slider-container input[type="checkbox"]{
@@ -239,7 +240,7 @@ input {
 }
 
 
-main {display: flex;}
+#main {display: none;}
 
 .header {
   display: flex;
@@ -314,13 +315,26 @@ select {
   background: hsl(0, 0%, 25%);
 }
 
-.quit-btn {
+.quit-btn,
+.quit-btn2 {
   width: 5vh;
   position: absolute;
   top: 0;
   left: 100%;
   transform: translateX(-100%);
-  z-index: 3;
+  z-index: 99;
+  outline: 0px solid fuchsia;
+  margin-left: -1rem;
+  margin-top: 1rem;
+}
+
+.quit-btn3 {
+  width: 2.5vh;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  transform: translateX(-100%);
+  z-index: 99;
   outline: 0px solid fuchsia;
   margin-left: -1rem;
   margin-top: 1rem;
@@ -335,9 +349,9 @@ select {
     background: linear-gradient(transparent, rgb(0, 0, 0) 80%);
 }
 
-#news {
+/* #news {
   height: 100vh;
-}
+} */
 
 .news-art {
   outline: 0px dashed fuchsia;
@@ -346,8 +360,25 @@ select {
 }
 
 .new {
-  background: hsl(0, 0%, 12.5%);
+  background: hsl(0, 0%, 8%);
   color: hsl(0, 0%, 87.5%);
-  padding: .5rem;
+  padding: .5rem 1rem;
+  user-select: text; 
+}
+
+.select {
   user-select: text;
+}
+.news-container {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  flex-flow: column; 
+  width: 100%; 
+  height: 95vh; 
+  outline: 0px solid fuchsia; 
+  /* padding: 2rem; background: var(--background);  */
+  /* gap: 2rem; */
+  overflow-y: scroll;
+  overflow-x: hidden;
 }

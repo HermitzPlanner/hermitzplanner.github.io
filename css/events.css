@@ -22,36 +22,41 @@ body {
 }
 
 .events { 
-    width: 35%;
+    width: 0%;
     height: var(--window-body);
     outline: 0px solid white;
     justify-content: center;
     background: var(--menu-bg);
+
     overflow-y: scroll;
     overflow-x: hidden;
 
 }
 
 .menu {
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
     display: flex;
     flex-flow: column;
     width: 100%;
-    height: 100vh;
-    gap: 1px;
+    /* height: 100vh; */
+    /* gap: 1px; */
     
 }
 
 .prim {
+    position: sticky;
+    top: 0;
+    left: 0;
     outline: 0px dashed red;
     background: hsl(0, 0%, 12.5%);
 }
+
 
 .menu-row-first {
     display: flex;
     justify-content: right;
     gap: 1rem;
-    outline: 1px dashed cyan;
+    outline: 0px dashed cyan;
     position: sticky;
     top: 0;
     padding: .5rem;
@@ -71,6 +76,10 @@ body {
 .hide-tuto:hover {
     transform: scale(1.1);
     transition: var(--transition);
+}
+
+.tuto-btn {
+    background: hsl(0, 0%, 30%); padding: .25rem .75rem; border-radius: 10px; cursor: pointer;
 }
 
 
@@ -116,7 +125,8 @@ body {
 .initial-input {
     outline: 0px dashed yellow;
     margin-left: 0;
-    width: 22.5%;
+    width: 100%;
+    z-index: 99;
 }
 
 .initial-input-text {
@@ -132,7 +142,7 @@ body {
     align-items: center;
     outline: 0px dashed yellow;
 
-    gap: .5rem;
+    gap: 16px;
 }
 
 .menu-numbers {
@@ -244,6 +254,7 @@ body {
 
     outline: 0px dashed cyan;
     color: white;
+    line-height: .75;
     
 }
 
@@ -268,7 +279,7 @@ body {
 
 }
 /* TODO manually update this number */
-  .skins>ul#container li:nth-of-type(1) {
+  .skins>ul#container li:nth-of-type(2) {
     display: flex
     
 }  
@@ -276,4 +287,8 @@ body {
 .skins>ul#container li:target {
     display: flex;
     /*Mostramos el <li> del enlace que pulsemos*/
+}
+
+.medal {
+    filter: invert();
 }
