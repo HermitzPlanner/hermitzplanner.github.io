@@ -391,6 +391,7 @@ select-all input[type="checkbox"]{
     display: flex;
     justify-content: center;
     align-items: center;
+    color: hsl(0, 25%, 50%)000;
 }
 
 .remo {

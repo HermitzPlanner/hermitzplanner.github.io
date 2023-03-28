@@ -633,8 +633,8 @@ function loadFile() {
 
 
         contentarray = JSON.parse(variable1);
-        //console.log('contentarray');
-        //console.log(contentarray);
+        console.log('contentarray');
+        console.log(contentarray);
         for (var i = contentarray.length - 1; i >= 0; i--) {
             document.getElementById(`${contentarray[i]}`).click();
         }
