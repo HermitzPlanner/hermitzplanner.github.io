@@ -440,9 +440,17 @@
                     </div>
 
                     <div style="width: 22.5%; outline: 0px solid gold;">
-
                         <input type="number" class="initial-input" id="menu-initialprime" value="0" min="0">
                     </div>
+                    <script>
+                        document.getElementById("menu-initialprime").addEventListener("keydown", function (event) {
+                            // Check if the key pressed is a negative sign or any non-numeric character
+                            if (event.key === "-" || (/\D/.test(event.key) && event.keyCode !== 8)) {
+                                // Prevent the input from being entered
+                                event.preventDefault();
+                            }
+                        });
+                    </script>
 
                 </div>
 
