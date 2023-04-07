@@ -318,6 +318,7 @@ async function events() {
 
         if (eventJson.status === 'end') {
             eventJson.skins = [];
+            eventJson.reward = 0;
         }
 
         let batch;
@@ -765,6 +766,7 @@ function skip(value) {
 async function skinSummary() {
     //console.log(JSON.parse(localStorage.getItem("storageId")))
     const storedId = JSON.parse(localStorage.getItem("storageId"))
+    //console.log(storedId)
     const summarybtn = document.getElementById('skin-summary')
     const summarydiv = document.getElementById('summary-div')
 
