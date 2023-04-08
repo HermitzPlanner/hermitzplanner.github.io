@@ -292,7 +292,8 @@ function pixi() {
       skin == 'char_101_sora_summer_1' ||
       skin == 'char_291_aglina_summer_5' ||
       skin == 'char_291_aglina_boc_1' ||
-      skin == 'char_1012_skadi2_boc_4') {
+      skin == 'char_1012_skadi2_boc_4' ||
+      skin == 'char_4045_heidi_epoque_24') {
       backpers.style.display = 'none'
     } else {
       backpers.style.display = 'flex'
