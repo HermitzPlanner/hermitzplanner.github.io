@@ -850,19 +850,22 @@ async function skinSummary() {
                 const summarycard = document.getElementById(`summary-cards${eventJson.eventN}`)
                 const summarybatchHeight = document.getElementById(`summary-batch${eventJson.eventN}`)
                 const divHeight = summarybatchHeight.offsetHeight;
+                let skinner;
 
                 skinData
                     .filter(skinJson => storedId.includes(skinJson.id))
                     .forEach(skinJson => {
                         if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
                             //console.log(skinJson.id);
-
-                            summarycard.innerHTML += `
-                    <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 0px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: hsl(0, 0%, 15%);)">
-                        <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
-                        <img height="${divHeight}" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${skinJson.id}.png">
-                    </div>
-                `;
+                            if (skinJson.english !== skinner) {
+                                //skinner = skinJson.english
+                                summarycard.innerHTML += `
+                                <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 0px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: hsl(0, 0%, 15%);)">
+                                <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
+                                <img height="${divHeight}" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${skinJson.id}.png">
+                                </div>`;
+                            }
+                            
                         }
                     });
             }
