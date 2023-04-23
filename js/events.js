@@ -316,6 +316,9 @@ async function events() {
     //calls the data json
     eventData.forEach(function (eventJson) {
 
+        if (eventJson.eventN == '') {
+            return;
+        }
         if (eventJson.status === 'end') {
             eventJson.skins = [];
             eventJson.reward = 0;
