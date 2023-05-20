@@ -279,7 +279,7 @@ body {
 
 }
 /* TODO manually update this number */
-  .skins>ul#container li:nth-of-type(6) {
+  .skins>ul#container li:nth-of-type(10) {
     display: flex;
     
 }  
