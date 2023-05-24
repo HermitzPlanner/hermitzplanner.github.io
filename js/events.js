@@ -639,9 +639,19 @@ function loadFile() {
         contentarray = JSON.parse(variable1);
         console.log('contentarray');
         console.log(contentarray);
+        // for (var i = contentarray.length - 1; i >= 0; i--) {
+        //     document.getElementById(`${contentarray[i]}`).click();
+        // }
         for (var i = contentarray.length - 1; i >= 0; i--) {
-            document.getElementById(`${contentarray[i]}`).click();
-        }
+            var element = document.getElementById(contentarray[i]);
+            if (element) {
+              element.click();
+            } else {
+              // Handle the case when the element does not exist
+              console.log(`Element with ID ${contentarray[i]} does not exist.`);
+            }
+          }
+          
         document.getElementById('menu-initialprime').value = variable2;
         doThing();
         let initialPrime = document.getElementById('menu-initialprime').value;
