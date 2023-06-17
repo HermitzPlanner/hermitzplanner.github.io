@@ -60,7 +60,7 @@ class batchComponent extends HTMLElement{
             <div class="menu-batch" id="menu-batch-${this.nbatch}">
                     <div class="batch-title">${this.eventtitle} <span style="color: #00ff00;">${this.runtype}</span></div>
                     <div class="batch-img-container">
-                        <img src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/${this.eventcode}.jpg" alt="${this.eventcode}">
+                        <img src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/resized/resized_${this.eventcode}.jpg" alt="${this.eventcode}">
                     </div>
                 </div> 
             </a>
