@@ -270,6 +270,22 @@
                             <option value="2">x2</option>
 
                         </select>
+
+                        <button class="download-button" onclick="downloadChibi();"><img width="20px" style="filter: invert();" src="svg/save.svg" alt=""></button>
+                        <script>
+                            function downloadChibi() {
+                            let name = document.querySelector("#gallery_view-english").innerHTML
+                            app.renderer.render(app.stage);
+
+                            const image = new Image();
+                            image.src = app.view.toDataURL();
+
+                            const link = document.createElement('a');
+                            link.href = image.src;
+                            link.download = `chibi-${name}`;
+                            link.click(); 
+                        }
+                        </script>
                     </div>
 
 
@@ -542,7 +558,12 @@
                 <div class="new invis" style="display: block;">
                     <div class="select">Added Hortus de Escapismo skins.</div>
                 </div>                
-                
+                <div class="new invis" style="display: block;">
+                    <div class="select">Added missing chibis (except irene / lumen / roberta concert skins)</div>
+                </div>  
+                <div class="new invis" style="display: block;">
+                    <div class="select">Added download button for chibis (as .png)</div>
+                </div>  
 
 
             </div>
