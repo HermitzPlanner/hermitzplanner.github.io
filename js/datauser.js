@@ -251,6 +251,50 @@ function pixi() {
   function onAssetsLoaded(skinAsset) {
     app.stage.removeChildren()
     skinSpine = new PIXI.spine.Spine(skinAsset.spineData);
+    
+    skinSpine.interactive = true;
+skinSpine.buttonMode = true;
+
+// Store the initial position of the SkinSpine object
+let startPosition = { x: 0, y: 0 };
+
+// Event listener for mouse down event
+skinSpine.on('mousedown', onDragStart);
+
+// Event listener for mouse up event
+skinSpine.on('mouseup', onDragEnd);
+
+// Event listener for mouse move event
+skinSpine.on('mousemove', onDragMove);
+
+function onDragStart(event) {
+  startPosition = event.data.global.clone();
+  skinSpine.alpha = 0.6; // Optionally, change the transparency of the SkinSpine object to indicate dragging
+  skinSpine.dragging = true;
+}
+
+function onDragEnd() {
+  skinSpine.alpha = 1; // Optionally, reset the transparency of the SkinSpine object
+  skinSpine.dragging = false;
+}
+
+function onDragMove(event) {
+  if (skinSpine.dragging) {
+    const newPosition = event.data.global.clone();
+
+    // Calculate the distance moved by the mouse
+    const dx = newPosition.x - startPosition.x;
+    const dy = newPosition.y - startPosition.y;
+
+    // Update the SkinSpine object's position based on the mouse movement
+    skinSpine.x += dx;
+    skinSpine.y += dy;
+
+    // Update the start position for the next movement calculation
+    startPosition = newPosition;
+  }
+}
+
 
 
     const skinSpineAnimations = skinSpine.spineData.animations
