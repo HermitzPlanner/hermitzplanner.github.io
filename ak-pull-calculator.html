@@ -72,6 +72,13 @@
 			margin-top: 10px; */
 		}
 
+		.orundum {
+			color: #0f0;
+		}
+		.pulls {
+			color: gold;
+		}
+
 		@media (prefers-color-scheme: light) {
 			body {
 				background-color: #f5f5f5;
@@ -149,10 +156,13 @@
 		<input type="checkbox" id="monthly-card" onclick="calculateEarnings()">
 		<br>
 		<button type="button" onclick="calculateEarnings()">Calculate</button>
-
+		<span class="orundum"></span>
+		<span class="pulls"></span>
 		<p id="result-daily"></p>
 		<p id="result-weekly"></p>
+		<p id="annihilation"></p>
 		<p id="result"></p>
+		<p id="grand-total"></p>
 	</div>
 
 	<script>
@@ -184,9 +194,12 @@
 			const orundum = document.getElementById("orundum");
 			const startDateInput = document.getElementById("start-date");
 			const endDateInput = document.getElementById("end-date");
+			const resultAnnihilation = document.getElementById("annihilation")
+			const annihilationValue = 1800
 			const resultElement = document.getElementById("result");
 			const resultDaily = document.getElementById("result-daily");
 			const resultWeekly = document.getElementById("result-weekly");
+			const grandTotal  = document.getElementById("grand-total");
 
 			const startDate = new Date(startDateInput.value);
 			const endDate = new Date(endDateInput.value);
@@ -202,11 +215,15 @@
 			// Calculate the earnings
 			const dailyEarnings = diffDays >= 0 ? diffDays * orundumValue : 0;
 			const weeklyEarnings = diffWeeks >= 0 ? diffWeeks * 500 : 0;
-			const totalEarnings = dailyEarnings + weeklyEarnings + parseInt(orundum.value);
+			const annihilationEarnings = diffWeeks >= 0 ? diffWeeks * 1800 : 0;
+			const totalEarnings = dailyEarnings + weeklyEarnings + annihilationEarnings;
+			const grandTotalOrundum = totalEarnings + parseInt(orundum.value);
 
-			resultDaily.textContent = `Daily Login Orundum: ${dailyEarnings} (${Math.floor(dailyEarnings / 600)} pulls)`;
-			resultWeekly.textContent = `Weekly Login Orundum: ${weeklyEarnings} (${Math.floor(weeklyEarnings / 600)} pulls)`;
-			resultElement.textContent = `End date Orundum: ${totalEarnings} (${Math.floor(totalEarnings / 600)} pulls)`;
+			resultDaily.innerHTML = `Daily Login Orundum: <span class="orundum">${dailyEarnings}</span> (<span class="pulls">${Math.floor(dailyEarnings / 600)}</span> pulls)`;
+			resultWeekly.innerHTML = `Weekly Login Orundum: <span class="orundum">${weeklyEarnings}</span> (<span class="pulls">${Math.floor(weeklyEarnings / 600)}</span> pulls)`;
+			resultAnnihilation.innerHTML = `Annihilation Weekly Orundum: <span class="orundum">${annihilationEarnings}</span> (<span class="pulls">${Math.floor(annihilationEarnings / 600)}</span> pulls)`;
+			resultElement.innerHTML = `End date Orundum: <span class="orundum">${totalEarnings}</span> (<span class="pulls">${Math.floor(totalEarnings / 600)}</span> pulls)`;
+			grandTotal.innerHTML = `<b>Total + Current Orundum: <span class="orundum">${grandTotalOrundum}</span> (<span class="pulls">${Math.floor(grandTotalOrundum / 600)}</span> pulls)<b>`;
 		}
 
 	</script>
