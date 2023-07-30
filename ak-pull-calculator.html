@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<title>Pull Calculator</title>
 	<style>
@@ -11,13 +12,15 @@
 			padding: 0;
 		}
 
-		h1, h2 {
+		h1,
+		h2 {
 			color: #fff;
 			text-align: center;
 			margin-top: 20px;
 		}
 
-		form {
+		form,
+		.earnings {
 			max-width: 500px;
 			margin: 20px auto;
 			padding: 20px;
@@ -28,7 +31,7 @@
 
 		label {
 			display: inline-block;
-			width: 80px;
+			width: 100px;
 			font-weight: bold;
 			margin-bottom: 10px;
 			color: #fff;
@@ -62,10 +65,11 @@
 		}
 
 		#results {
-			text-align: center;
+			outline: 0px solid red;
+			/* text-align: center;
 			font-size: 20px;
 			font-weight: bold;
-			margin-top: 10px;
+			margin-top: 10px; */
 		}
 
 		@media (prefers-color-scheme: light) {
@@ -74,7 +78,8 @@
 				color: #000;
 			}
 
-			h1, h2 {
+			h1,
+			h2 {
 				color: #000;
 			}
 
@@ -95,11 +100,13 @@
 		}
 	</style>
 </head>
+
 <body>
-	<h1>Pull Calculator</h1>
+	still under development 
+	<h1>Current Resources</h1>
 	<form>
 		<label for="orundum">Orundum:</label>
-		<input type="number" id="orundum" name="orundum" min="0"><br>
+		<input type="number" id="orundum" name="orundum" min="0" value="0"><br>
 
 		<label for="primes">Primes:</label>
 		<input type="number" id="primes" name="primes" min="0"><br>
@@ -108,10 +115,11 @@
 		<input type="number" id="tickets" name="tickets" min="0"><br>
 
 		<button type="button" onclick="calculate()">Calculate</button>
+		<h2></h2>
+		<p id="results"></p>
 	</form>
 
-	<h2>Results</h2>
-	<div id="results"></div>
+
 
 	<script>
 		function calculate() {
@@ -127,5 +135,81 @@
 			document.getElementById("results").innerHTML = `You can do ${pullCount} pulls.`;
 		}
 	</script>
+
+	<h1>Orundum Calculator</h1>
+
+	<div class="earnings">
+		<label for="start-date">Start Date:</label>
+		<input type="date" id="start-date" name="start-date">
+
+		<label for="end-date">End Date:</label>
+		<input type="date" id="end-date" name="end-date">
+		<br>
+		<label for="monthly-card">Monthly Card</label>
+		<input type="checkbox" id="monthly-card" onclick="calculateEarnings()">
+		<br>
+		<button type="button" onclick="calculateEarnings()">Calculate</button>
+
+		<p id="result-daily"></p>
+		<p id="result-weekly"></p>
+		<p id="result"></p>
+	</div>
+
+	<script>
+		// Set the default value of the "Start Date" input to the current date
+		const today = new Date();
+		const startDateInput = document.getElementById("start-date");
+		startDateInput.valueAsDate = today;
+
+		// Function to set the end date to one day after the current date by default
+		const tomorrow = new Date();
+		tomorrow.setDate(tomorrow.getDate() + 1);
+		const endDateInput = document.getElementById("end-date");
+		const formattedDate = tomorrow.toISOString().slice(0, 10); // Format the date as "YYYY-MM-DD"
+		endDateInput.value = formattedDate;
+
+		let orundumValue = 100
+
+
+
+		function calculateEarnings() {
+			const monthlyCardCbox = document.getElementById('monthly-card')
+			if (monthlyCardCbox.checked) {
+				console.log("ture")
+				orundumValue = 120
+			} else {
+				orundumValue = 100
+			}
+
+			const orundum = document.getElementById("orundum");
+			const startDateInput = document.getElementById("start-date");
+			const endDateInput = document.getElementById("end-date");
+			const resultElement = document.getElementById("result");
+			const resultDaily = document.getElementById("result-daily");
+			const resultWeekly = document.getElementById("result-weekly");
+
+			const startDate = new Date(startDateInput.value);
+			const endDate = new Date(endDateInput.value);
+
+			// Calculate the number of days between the start and end dates
+			const oneDay = 24 * 60 * 60 * 1000;
+			const diffDays = Math.round(Math.abs((startDate - endDate) / oneDay)); // Include both start and end dates
+
+			// Calculate the number of weeks between the start and end dates
+			const oneWeek = 7;
+			const diffWeeks = Math.floor(diffDays / oneWeek);
+
+			// Calculate the earnings
+			const dailyEarnings = diffDays >= 0 ? diffDays * orundumValue : 0;
+			const weeklyEarnings = diffWeeks >= 0 ? diffWeeks * 500 : 0;
+			const totalEarnings = dailyEarnings + weeklyEarnings + parseInt(orundum.value);
+
+			resultDaily.textContent = `Daily Login Orundum: ${dailyEarnings} (${Math.floor(dailyEarnings / 600)} pulls)`;
+			resultWeekly.textContent = `Weekly Login Orundum: ${weeklyEarnings} (${Math.floor(weeklyEarnings / 600)} pulls)`;
+			resultElement.textContent = `End date Orundum: ${totalEarnings} (${Math.floor(totalEarnings / 600)} pulls)`;
+		}
+
+	</script>
 </body>
+
 </html>
