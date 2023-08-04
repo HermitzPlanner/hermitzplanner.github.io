@@ -251,7 +251,12 @@ function pixi() {
   function onAssetsLoaded(skinAsset) {
     app.stage.removeChildren()
     skinSpine = new PIXI.spine.Spine(skinAsset.spineData);
-    
+    console.log(skinSpine)
+    // const bones = skinSpine.children
+    // bones.forEach(element => {
+    //   element.alpha = 0
+    //   console.log(element.alpha)
+    // });
     skinSpine.interactive = true;
 skinSpine.buttonMode = true;
 

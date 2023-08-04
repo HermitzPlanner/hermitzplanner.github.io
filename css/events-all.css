@@ -279,9 +279,10 @@ body {
 
 }
 /* TODO manually update this number */
-  /* .skins>ul#container li:nth-of-type(13) {
+  .skins>ul#container li:nth-of-type(1) {
     display: flex;
-}   */
+    
+}  
 
 .skins>ul#container li:target {
     display: flex;
