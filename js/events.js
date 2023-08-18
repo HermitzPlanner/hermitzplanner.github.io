@@ -306,6 +306,7 @@ function menuSlider() {
 const impostor = []
 
 async function events() {
+    let eventCounter = 1
     let fragment = new DocumentFragment();
     // Fetching data
     const eventResponse = await fetch('json/events.json'); // grab json
@@ -314,11 +315,29 @@ async function events() {
     const skinResponse = await fetch('json/skins.json'); // grab json
     const skinData = await skinResponse.json(); // wait for json and make it data
     //calls the data json
+    let firstEventCounter = 1
     eventData.forEach(function (eventJson) {
 
         if (eventJson.eventN == '') {
             return;
         }
+        let eventRerunCheck = ""
+        if (events.type !== "") {
+            eventRerunCheck = " Rerun"
+        }
+
+        if (eventJson.status !== "end") {
+            if (firstEventCounter > 1) {  } else {
+                const firstEvent = document.getElementById('first-event')
+                firstEvent.innerHTML = `“${eventJson.event}${eventRerunCheck}”`
+                firstEventCounter++
+            }
+
+        }
+
+        console.log(eventJson.event)
+        const lastEvent = document.getElementById('last-event')
+        lastEvent.innerHTML = `“${eventJson.event}${eventRerunCheck}”`
         if (eventJson.status === 'end') {
             eventJson.skins = [];
             eventJson.reward = 0;
@@ -579,6 +598,7 @@ async function events() {
             }
         });
         doThing();
+        eventCounter++
     });
 
 }
@@ -645,13 +665,13 @@ function loadFile() {
         for (var i = contentarray.length - 1; i >= 0; i--) {
             var element = document.getElementById(contentarray[i]);
             if (element) {
-              element.click();
+                element.click();
             } else {
-              // Handle the case when the element does not exist
-              console.log(`Element with ID ${contentarray[i]} does not exist.`);
+                // Handle the case when the element does not exist
+                console.log(`Element with ID ${contentarray[i]} does not exist.`);
             }
-          }
-          
+        }
+
         document.getElementById('menu-initialprime').value = variable2;
         doThing();
         let initialPrime = document.getElementById('menu-initialprime').value;
@@ -864,24 +884,24 @@ async function skinSummary() {
                 const summarycard = document.getElementById(`summary-cards${eventJson.eventN}`)
                 const summarybatchHeight = document.getElementById(`summary-batch${eventJson.eventN}`)
                 const divHeight = summarybatchHeight.offsetHeight;
-                
+
 
                 skinData
                     .filter(skinJson => storedId.includes(skinJson.id))
                     .forEach(skinJson => {
                         if (eventJson.skins.indexOf(skinJson.skinname) !== -1) {
                             //console.log(skinJson.id);
-                            
-                                if (skinner.indexOf(skinJson.skinname) !== -1) {
-                                    return;
-                                } 
-                                    skinner.push(skinJson.skinname)
-                                    console.log('skinner', skinner)
-                                summarycard.innerHTML += `
+
+                            if (skinner.indexOf(skinJson.skinname) !== -1) {
+                                return;
+                            }
+                            skinner.push(skinJson.skinname)
+                            console.log('skinner', skinner)
+                            summarycard.innerHTML += `
                                 <div style="display: flex; flex-flow: column; position: relative; gap: .5rem; outline: 0px solid var(--card-outline); border-radius: 5px; overflow: hidden; background: hsl(0, 0%, 15%);)">
                                 <div style="display: flex; justify-content: center; font-family: 'abel'; ">${skinJson.english}</div>
                                 <img height="${divHeight}" src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/${skinJson.id}.png">
-                                </div>`;                         
+                                </div>`;
                         }
                     });
             }
