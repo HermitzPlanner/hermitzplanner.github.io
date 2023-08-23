@@ -271,20 +271,21 @@
 
                         </select>
 
-                        <button class="download-button" onclick="downloadChibi();"><img width="20px" style="filter: invert();" src="svg/save.svg" alt=""></button>
+                        <button class="download-button" onclick="downloadChibi();"><img width="20px"
+                                style="filter: invert();" src="svg/save.svg" alt=""></button>
                         <script>
                             function downloadChibi() {
-                            let name = document.querySelector("#gallery_view-english").innerHTML
-                            app.renderer.render(app.stage);
+                                let name = document.querySelector("#gallery_view-english").innerHTML
+                                app.renderer.render(app.stage);
 
-                            const image = new Image();
-                            image.src = app.view.toDataURL();
+                                const image = new Image();
+                                image.src = app.view.toDataURL();
 
-                            const link = document.createElement('a');
-                            link.href = image.src;
-                            link.download = `chibi-${name}`;
-                            link.click(); 
-                        }
+                                const link = document.createElement('a');
+                                link.href = image.src;
+                                link.download = `chibi-${name}`;
+                                link.click();
+                            }
                         </script>
                     </div>
 
@@ -542,7 +543,8 @@
                         which
                         ones to acquire and use.<br><br>
                         Many thanks to the developers of
-                        PRTS wiki, Gamepress, Pixi.JS, Pixi-spine.js.<br> And all the people who helped me on the process of making this site.
+                        PRTS wiki, Gamepress, Pixi.JS, Pixi-spine.js.<br> And all the people who helped me on the
+                        process of making this site.
                     </div>
                 </div>
             </div>
@@ -557,7 +559,7 @@
                 </div>
                 <div class="new invis" style="display: block;">
                     <div class="select">New skins from <span id="last-event"></span> added</div>
-                </div>                
+                </div>
 
 
             </div>

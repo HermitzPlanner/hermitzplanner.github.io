@@ -19,8 +19,10 @@ brandFilter.addEventListener("change", b => {
 
 // name filter
 searchInput.addEventListener("input", e => {
+  console.log(users)
   const value = e.target.value.toLowerCase()
   users.forEach(user => {
+    console.log(user)
     const isVisible = user.name.toLowerCase().includes(value) && user.brand.includes(brandSelect)
     user.element.classList.toggle("hide2", !isVisible)
   })
