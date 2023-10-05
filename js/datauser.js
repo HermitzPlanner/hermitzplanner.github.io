@@ -56,8 +56,8 @@ fetch("json/skins.json")
         perspectiveSelector.value = 'front'
         const h1 = document.getElementById('full-image-container');
         h1.style.display = 'flex';
-        //ocument.getElementById('full-image').src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/art/${user.id}.png`
-        document.getElementById('full-image').src = `${user.art}`
+        document.getElementById('full-image').src = `https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/art/${user.id}.png`
+        //document.getElementById('full-image').src = `${user.art}`
 
         skin = `${user.code}`
         char = `${user.codechar}`
