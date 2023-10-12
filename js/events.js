@@ -323,7 +323,7 @@ async function events() {
         }
         let eventRerunCheck = ""
         if (events.type !== "") {
-            eventRerunCheck = " Rerun"
+            eventRerunCheck = ""
         }
 
         if (eventJson.status !== "end") {
