@@ -49,7 +49,7 @@
 <!-- <button onclick="capture();">capture</button> -->
 
 <body onload="mobileCheck();">
-    <header class="header">
+    <header class="header" style="display: none;">
 
         <input type="checkbox" id="header-modes" onchange="modesoptions();" onmouseleave="modesleave();">
 
@@ -548,8 +548,26 @@
                     </div>
                 </div>
             </div>
+            <style>
+                .land-page {
+                    font-size: 4vh;
+                    font-weight: 300;
+                    padding: 10px 15px;
+                    background: gold;
+                    color: var(--background);
+                    border-radius: 10px;
+                    width: fit-content;
+                    margin: 0 auto;
+                    box-shadow: 2px 2px 20px #ffd70069;
+                }
+            </style>
+            <div class="land-page">
+                <a href="https://hermitzplanner.github.io/skins/#">Start planning your skins!</a>
+            </div>
 
-            <div
+
+
+            <!-- <div
                 style="display: flex; flex-flow: column; gap: .5rem; outline: 0px dashed cyan; height: 50%; padding: 0rem 0rem;">
                 <div class="new invis" style="display: block; color: black; background: gold;">
                     <div class="select">Oct 05 2023</div>
@@ -565,7 +583,7 @@
                 </div>
 
 
-            </div>
+            </div> -->
         </div>
 
     </section>
