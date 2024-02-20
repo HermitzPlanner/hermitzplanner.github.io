@@ -1,0 +1,2846 @@
+[
+  {
+    "number": "1",
+    "operator": "Lancet-2",
+    "appellation": "Lancet-2",
+    "plannerId": "lancet0",
+    "colorList": ",,#f2ed2c,,",
+    "rarity": "TIER_1",
+    "nation": "rhodes"
+  },
+  {
+    "number": "2",
+    "operator": "Castle-3",
+    "appellation": "Castle-3",
+    "plannerId": "castle0",
+    "colorList": ",,#f2ed2c,,",
+    "rarity": "TIER_1",
+    "nation": "rhodes"
+  },
+  {
+    "number": "3",
+    "operator": "夜刀",
+    "appellation": "Yato",
+    "plannerId": "yato0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_2",
+    "nation": "rhodes"
+  },
+  {
+    "number": "4",
+    "operator": "黑角",
+    "appellation": "Noir Corne",
+    "plannerId": "noircorne0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_2",
+    "nation": "rhodes"
+  },
+  {
+    "number": "5",
+    "operator": "巡林者",
+    "appellation": "Rangers",
+    "plannerId": "rangers0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_2",
+    "nation": "rhodes"
+  },
+  {
+    "number": "6",
+    "operator": "杜林",
+    "appellation": "Durin",
+    "plannerId": "durin0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_2",
+    "nation": "rhodes"
+  },
+  {
+    "number": "7",
+    "operator": "12F",
+    "appellation": "12F",
+    "plannerId": "12f0",
+    "colorList": ",,#cdde00,,",
+    "rarity": "TIER_2",
+    "nation": "rhodes"
+  },
+  {
+    "number": "8",
+    "operator": "芬",
+    "appellation": "Fang",
+    "plannerId": "fang0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "9",
+    "operator": "香草",
+    "appellation": "Vanilla",
+    "plannerId": "vanilla0",
+    "colorList": ",,#ecc996,,",
+    "rarity": "TIER_3",
+    "nation": "columbia"
+  },
+  {
+    "number": "10",
+    "operator": "翎羽",
+    "appellation": "Plume",
+    "plannerId": "plume0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_3",
+    "nation": "laterano"
+  },
+  {
+    "number": "11",
+    "operator": "玫兰莎",
+    "appellation": "Melantha",
+    "plannerId": "melantha0",
+    "colorList": ",,#81456b,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "12",
+    "operator": "卡缇",
+    "appellation": "Cardigan",
+    "plannerId": "cardigan0",
+    "colorList": ",,#989ac7,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "13",
+    "operator": "米格鲁",
+    "appellation": "Beagle",
+    "plannerId": "beagle0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "14",
+    "operator": "克洛丝",
+    "appellation": "Kroos",
+    "plannerId": "kroos0",
+    "colorList": ",,#efa573,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "15",
+    "operator": "安德切尔",
+    "appellation": "Adnachiel",
+    "plannerId": "adnachiel0",
+    "colorList": ",,#989ac7,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "16",
+    "operator": "炎熔",
+    "appellation": "Lava",
+    "plannerId": "lava0",
+    "colorList": ",,#ac81bd,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "17",
+    "operator": "芙蓉",
+    "appellation": "Hibiscus",
+    "plannerId": "hibiscus0",
+    "colorList": ",,#ac81bd,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "18",
+    "operator": "安赛尔",
+    "appellation": "Ansel",
+    "plannerId": "ansel0",
+    "colorList": ",,#9ee6dc,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "19",
+    "operator": "史都华德",
+    "appellation": "Steward",
+    "plannerId": "steward0",
+    "colorList": ",,#989ac7,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "20",
+    "operator": "梓兰",
+    "appellation": "Orchid",
+    "plannerId": "orchid0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "21",
+    "operator": "夜烟",
+    "appellation": "Haze",
+    "plannerId": "haze0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "victoria"
+  },
+  {
+    "number": "22",
+    "operator": "远山",
+    "appellation": "Gitano",
+    "plannerId": "gitano0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "sami"
+  },
+  {
+    "number": "23",
+    "operator": "杰西卡",
+    "appellation": "Jessica",
+    "plannerId": "jessica0",
+    "colorList": ",,#8bb5ff,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "24",
+    "operator": "流星",
+    "appellation": "Meteor",
+    "plannerId": "meteor0",
+    "colorList": ",,#80b889,,",
+    "rarity": "TIER_4",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "25",
+    "operator": "白雪",
+    "appellation": "ShiraYuki",
+    "plannerId": "shirayuki0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_4",
+    "nation": "higashi"
+  },
+  {
+    "number": "26",
+    "operator": "讯使",
+    "appellation": "Courier",
+    "plannerId": "courier0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "kjerag"
+  },
+  {
+    "number": "27",
+    "operator": "清道夫",
+    "appellation": "Scavenger",
+    "plannerId": "scavenger0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "28",
+    "operator": "红豆",
+    "appellation": "Vigna",
+    "plannerId": "vigna0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "29",
+    "operator": "杜宾",
+    "appellation": "Dobermann",
+    "plannerId": "dobermann0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "30",
+    "operator": "缠丸",
+    "appellation": "Matoimaru",
+    "plannerId": "matoimaru0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "higashi"
+  },
+  {
+    "number": "31",
+    "operator": "霜叶",
+    "appellation": "Frostleaf",
+    "plannerId": "frostleaf0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "32",
+    "operator": "艾丝黛尔",
+    "appellation": "Estelle",
+    "plannerId": "estelle0",
+    "colorList": ",,#d0c200,,",
+    "rarity": "TIER_4",
+    "nation": "sargon"
+  },
+  {
+    "number": "33",
+    "operator": "慕斯",
+    "appellation": "Mousse",
+    "plannerId": "mousse0",
+    "colorList": ",,#ffdc2b,,",
+    "rarity": "TIER_4",
+    "nation": "victoria"
+  },
+  {
+    "number": "34",
+    "operator": "砾",
+    "appellation": "Gravel",
+    "plannerId": "gravel0",
+    "colorList": ",,#e8b09f,,",
+    "rarity": "TIER_4",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "35",
+    "operator": "暗索",
+    "appellation": "Rope",
+    "plannerId": "rope0",
+    "colorList": ",,#9580b2,,",
+    "rarity": "TIER_4",
+    "nation": "lungmen"
+  },
+  {
+    "number": "36",
+    "operator": "末药",
+    "appellation": "Myrrh",
+    "plannerId": "myrrh0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "37",
+    "operator": "嘉维尔",
+    "appellation": "Gavial",
+    "plannerId": "gavial0",
+    "colorList": ",,#8bd45a,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "38",
+    "operator": "调香师",
+    "appellation": "Perfumer",
+    "plannerId": "perfumer0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "39",
+    "operator": "角峰",
+    "appellation": "Matterhorn",
+    "plannerId": "matterhorn0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_4",
+    "nation": "kjerag"
+  },
+  {
+    "number": "40",
+    "operator": "蛇屠箱",
+    "appellation": "Cuora",
+    "plannerId": "cuora0",
+    "colorList": ",,#f59244,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "41",
+    "operator": "古米",
+    "appellation": "Гум",
+    "plannerId": "gummy0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "ursus"
+  },
+  {
+    "number": "42",
+    "operator": "深海色",
+    "appellation": "Deepcolor",
+    "plannerId": "deepcolor0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "egir"
+  },
+  {
+    "number": "43",
+    "operator": "地灵",
+    "appellation": "Earthspirit",
+    "plannerId": "earthspirit0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "leithanien"
+  },
+  {
+    "number": "44",
+    "operator": "阿消",
+    "appellation": "Shaw",
+    "plannerId": "shaw0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "lungmen"
+  },
+  {
+    "number": "45",
+    "operator": "白面鸮",
+    "appellation": "Ptilopsis",
+    "plannerId": "ptilopsis0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "46",
+    "operator": "凛冬",
+    "appellation": "Зима",
+    "plannerId": "zima0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "ursus"
+  },
+  {
+    "number": "47",
+    "operator": "德克萨斯",
+    "appellation": "Texas",
+    "plannerId": "texas0",
+    "colorList": ",#1b1b1b,#e60012,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "48",
+    "operator": "芙兰卡",
+    "appellation": "Franka",
+    "plannerId": "franka0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "49",
+    "operator": "因陀罗",
+    "appellation": "Indra",
+    "plannerId": "indra0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "50",
+    "operator": "拉普兰德",
+    "appellation": "Lappland",
+    "plannerId": "lappland0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_5",
+    "nation": "siracusa"
+  },
+  {
+    "number": "51",
+    "operator": "幽灵鲨",
+    "appellation": "Specter",
+    "plannerId": "specter0",
+    "colorList": ",,#31378e,,",
+    "rarity": "TIER_5",
+    "nation": "egir"
+  },
+  {
+    "number": "52",
+    "operator": "蓝毒",
+    "appellation": "Blue Poison",
+    "plannerId": "bluepoison0",
+    "colorList": ",,d487a8,,",
+    "rarity": "TIER_5",
+    "nation": "iberia"
+  },
+  {
+    "number": "53",
+    "operator": "白金",
+    "appellation": "Platinum",
+    "plannerId": "platinum0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_5",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "54",
+    "operator": "陨星",
+    "appellation": "Meteorite",
+    "plannerId": "meteorite0",
+    "colorList": ",,#eddc3b,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "55",
+    "operator": "阿米娅",
+    "appellation": "Amiya",
+    "plannerId": "amiya0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "56",
+    "operator": "天火",
+    "appellation": "Skyfire",
+    "plannerId": "skyfire0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "57",
+    "operator": "梅尔",
+    "appellation": "Mayer",
+    "plannerId": "mayer0",
+    "colorList": ",,#fe7a34,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "58",
+    "operator": "赫默",
+    "appellation": "Silence",
+    "plannerId": "silence0",
+    "colorList": ",,#892e3e,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "59",
+    "operator": "华法琳",
+    "appellation": "Warfarin",
+    "plannerId": "warfarin0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "60",
+    "operator": "临光",
+    "appellation": "Nearl",
+    "plannerId": "nearl0",
+    "colorList": ",,#ffdc2b,,",
+    "rarity": "TIER_5",
+    "nation": "null"
+  },
+  {
+    "number": "61",
+    "operator": "红",
+    "appellation": "Projekt Red",
+    "plannerId": "projektred0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "62",
+    "operator": "雷蛇",
+    "appellation": "Liskarm",
+    "plannerId": "liskarm0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "63",
+    "operator": "可颂",
+    "appellation": "Croissant",
+    "plannerId": "croissant0",
+    "colorList": ",,#ffdc2b,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "64",
+    "operator": "火神",
+    "appellation": "Vulcan",
+    "plannerId": "vulcan0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "minos"
+  },
+  {
+    "number": "65",
+    "operator": "普罗旺斯",
+    "appellation": "Provence",
+    "plannerId": "provence0",
+    "colorList": ",,#7d6eaf,,",
+    "rarity": "TIER_5",
+    "nation": "siracusa"
+  },
+  {
+    "number": "66",
+    "operator": "守林人",
+    "appellation": "Firewatch",
+    "plannerId": "firewatch0",
+    "colorList": ",,#969570,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "67",
+    "operator": "崖心",
+    "appellation": "Cliffheart",
+    "plannerId": "cliffheart0",
+    "colorList": ",,#e8e0d6,,",
+    "rarity": "TIER_5",
+    "nation": "kjerag"
+  },
+  {
+    "number": "68",
+    "operator": "初雪",
+    "appellation": "Pramanix",
+    "plannerId": "pramanix0",
+    "colorList": ",,#e8e0d6,,",
+    "rarity": "TIER_5",
+    "nation": "kjerag"
+  },
+  {
+    "number": "69",
+    "operator": "真理",
+    "appellation": "Истина",
+    "plannerId": "istina0",
+    "colorList": ",,#24b2b3,,",
+    "rarity": "TIER_5",
+    "nation": "ursus"
+  },
+  {
+    "number": "70",
+    "operator": "空",
+    "appellation": "Sora",
+    "plannerId": "sora0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "71",
+    "operator": "狮蝎",
+    "appellation": "Manticore",
+    "plannerId": "manticore0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  },
+  {
+    "number": "72",
+    "operator": "食铁兽",
+    "appellation": "FEater",
+    "plannerId": "feater0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "73",
+    "operator": "能天使",
+    "appellation": "Exusiai",
+    "plannerId": "exusiai0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "lungmen"
+  },
+  {
+    "number": "74",
+    "operator": "推进之王",
+    "appellation": "Siege",
+    "plannerId": "siege0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "victoria"
+  },
+  {
+    "number": "75",
+    "operator": "伊芙利特",
+    "appellation": "Ifrit",
+    "plannerId": "ifrit0",
+    "colorList": ",,#ffdc2b,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "76",
+    "operator": "艾雅法拉",
+    "appellation": "Eyjafjalla",
+    "plannerId": "eyjafjalla0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "leithanien"
+  },
+  {
+    "number": "77",
+    "operator": "安洁莉娜",
+    "appellation": "Angelina",
+    "plannerId": "angelina0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "siracusa"
+  },
+  {
+    "number": "78",
+    "operator": "闪灵",
+    "appellation": "Shining",
+    "plannerId": "shining0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_6",
+    "nation": "null"
+  },
+  {
+    "number": "79",
+    "operator": "夜莺",
+    "appellation": "Nightingale",
+    "plannerId": "nightingale0",
+    "colorList": ",,#e8e0d6,,",
+    "rarity": "TIER_6",
+    "nation": "null"
+  },
+  {
+    "number": "80",
+    "operator": "星熊",
+    "appellation": "Hoshiguma",
+    "plannerId": "hoshiguma0",
+    "colorList": ",,#58b198,,",
+    "rarity": "TIER_6",
+    "nation": "lungmen"
+  },
+  {
+    "number": "81",
+    "operator": "塞雷娅",
+    "appellation": "Saria",
+    "plannerId": "saria0",
+    "colorList": ",,#ffdc2b,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "82",
+    "operator": "银灰",
+    "appellation": "SilverAsh",
+    "plannerId": "silverash0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_6",
+    "nation": "kjerag"
+  },
+  {
+    "number": "83",
+    "operator": "暴行",
+    "appellation": "Savage",
+    "plannerId": "savage0",
+    "colorList": ",,#ababab,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "84",
+    "operator": "空爆",
+    "appellation": "Catapult",
+    "plannerId": "catapult0",
+    "colorList": ",,,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "85",
+    "operator": "月见夜",
+    "appellation": "Midnight",
+    "plannerId": "midnight0",
+    "colorList": ",,#ff94a9,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "86",
+    "operator": "猎蜂",
+    "appellation": "Beehunter",
+    "plannerId": "beehunter0",
+    "colorList": ",,#ffdc2b,,",
+    "rarity": "TIER_4",
+    "nation": "ursus"
+  },
+  {
+    "number": "87",
+    "operator": "夜魔",
+    "appellation": "Nightmare",
+    "plannerId": "nightmare0",
+    "colorList": ",,#ffdc2b,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "88",
+    "operator": "格拉尼",
+    "appellation": "Grani",
+    "plannerId": "grani0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "89",
+    "operator": "斯卡蒂",
+    "appellation": "Skadi",
+    "plannerId": "skadi0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "egir"
+  },
+  {
+    "number": "90",
+    "operator": "泡普卡",
+    "appellation": "Popukar",
+    "plannerId": "popukar0",
+    "colorList": ",,,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "91",
+    "operator": "斑点",
+    "appellation": "Spot",
+    "plannerId": "spot0",
+    "colorList": ",,#9fa2a3,,",
+    "rarity": "TIER_3",
+    "nation": "rhodes"
+  },
+  {
+    "number": "92",
+    "operator": "格雷伊",
+    "appellation": "Greyy",
+    "plannerId": "greyy0",
+    "colorList": ",,#bd8936,,",
+    "rarity": "TIER_4",
+    "nation": "bolivar"
+  },
+  {
+    "number": "93",
+    "operator": "诗怀雅",
+    "appellation": "Swire",
+    "plannerId": "swire0",
+    "colorList": ",,#f77b36,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "94",
+    "operator": "陈",
+    "appellation": "Ch'en",
+    "plannerId": "chen0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "lungmen"
+  },
+  {
+    "number": "95",
+    "operator": "苏苏洛",
+    "appellation": "Sussurro",
+    "plannerId": "sussurro0",
+    "colorList": ",,#f4b5a8,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "96",
+    "operator": "锡兰",
+    "appellation": "Ceylon",
+    "plannerId": "ceylon0",
+    "colorList": ",,#0075a9,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "97",
+    "operator": "格劳克斯",
+    "appellation": "Glaucus",
+    "plannerId": "glaucus0",
+    "colorList": ",,#001bc5,,",
+    "rarity": "TIER_5",
+    "nation": "iberia"
+  },
+  {
+    "number": "98",
+    "operator": "黑",
+    "appellation": "Schwarz",
+    "plannerId": "schwarz0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "99",
+    "operator": "桃金娘",
+    "appellation": "Myrtle",
+    "plannerId": "myrtle0",
+    "colorList": ",,#ffe400,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "100",
+    "operator": "星极",
+    "appellation": "Astesia",
+    "plannerId": "astesia0",
+    "colorList": ",,#033f8f,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "101",
+    "operator": "赫拉格",
+    "appellation": "Hellagur",
+    "plannerId": "hellagur0",
+    "colorList": ",,#a5a5a5,,",
+    "rarity": "TIER_6",
+    "nation": "ursus"
+  },
+  {
+    "number": "102",
+    "operator": "坚雷",
+    "appellation": "Dur-nar",
+    "plannerId": "durnar0",
+    "colorList": ",,#692a84,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "103",
+    "operator": "红云",
+    "appellation": "Vermeil",
+    "plannerId": "vermeil0",
+    "colorList": ",,#fd7a3f,,",
+    "rarity": "TIER_4",
+    "nation": "siracusa"
+  },
+  {
+    "number": "104",
+    "operator": "炎客",
+    "appellation": "Flamebringer",
+    "plannerId": "flamebringer0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "105",
+    "operator": "送葬人",
+    "appellation": "Executor",
+    "plannerId": "executor0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "laterano"
+  },
+  {
+    "number": "106",
+    "operator": "麦哲伦",
+    "appellation": "Magallan",
+    "plannerId": "magallan0",
+    "colorList": ",,#ffd800,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "107",
+    "operator": "伊桑",
+    "appellation": "Ethan",
+    "plannerId": "ethan0",
+    "colorList": ",,#6fddcb,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "108",
+    "operator": "微风",
+    "appellation": "Breeze",
+    "plannerId": "breeze0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "109",
+    "operator": "梅",
+    "appellation": "May",
+    "plannerId": "may0",
+    "colorList": ",,#fd7a3f,,",
+    "rarity": "TIER_4",
+    "nation": "victoria"
+  },
+  {
+    "number": "110",
+    "operator": "拜松",
+    "appellation": "Bison",
+    "plannerId": "bison0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "111",
+    "operator": "槐琥",
+    "appellation": "Waai Fu",
+    "plannerId": "waaifu0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "112",
+    "operator": "莫斯提马",
+    "appellation": "Mostima",
+    "plannerId": "mostima0",
+    "colorList": ",,#004986,,",
+    "rarity": "TIER_6",
+    "nation": "laterano"
+  },
+  {
+    "number": "113",
+    "operator": "苇草",
+    "appellation": "Reed",
+    "plannerId": "reed0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "114",
+    "operator": "布洛卡",
+    "appellation": "Broca",
+    "plannerId": "broca0",
+    "colorList": ",,#e19f00,,",
+    "rarity": "TIER_5",
+    "nation": "siracusa"
+  },
+  {
+    "number": "115",
+    "operator": "安比尔",
+    "appellation": "Ambriel",
+    "plannerId": "ambriel0",
+    "colorList": ",,#f29c9f,,",
+    "rarity": "TIER_4",
+    "nation": "laterano"
+  },
+  {
+    "number": "116",
+    "operator": "灰喉",
+    "appellation": "GreyThroat",
+    "plannerId": "greythroat0",
+    "colorList": ",,#13b5b1,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "117",
+    "operator": "煌",
+    "appellation": "Blaze",
+    "plannerId": "blaze0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "118",
+    "operator": "雪雉",
+    "appellation": "Snowsant",
+    "plannerId": "snowsant0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "119",
+    "operator": "吽",
+    "appellation": "Hung",
+    "plannerId": "hung0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "lungmen"
+  },
+  {
+    "number": "120",
+    "operator": "阿",
+    "appellation": "Aak",
+    "plannerId": "aak0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "lungmen"
+  },
+  {
+    "number": "121",
+    "operator": "年",
+    "appellation": "Nian",
+    "plannerId": "nian0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "yan"
+  },
+  {
+    "number": "122",
+    "operator": "惊蛰",
+    "appellation": "Leizi",
+    "plannerId": "leizi0",
+    "colorList": ",,#dcca64,,",
+    "rarity": "TIER_5",
+    "nation": "yan"
+  },
+  {
+    "number": "123",
+    "operator": "刻俄柏",
+    "appellation": "Ceobe",
+    "plannerId": "ceobe0",
+    "colorList": ",,#f49800,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "124",
+    "operator": "清流",
+    "appellation": "Purestream",
+    "plannerId": "purestream0",
+    "colorList": ",,#34b6ef,,",
+    "rarity": "TIER_4",
+    "nation": "yan"
+  },
+  {
+    "number": "125",
+    "operator": "宴",
+    "appellation": "Utage",
+    "plannerId": "utage0",
+    "colorList": ",,#b575f6,,",
+    "rarity": "TIER_4",
+    "nation": "higashi"
+  },
+  {
+    "number": "126",
+    "operator": "柏喙",
+    "appellation": "Bibeak",
+    "plannerId": "bibeak0",
+    "colorList": ",,#79cdc3,,",
+    "rarity": "TIER_5",
+    "nation": "sami"
+  },
+  {
+    "number": "127",
+    "operator": "慑砂",
+    "appellation": "Sesa",
+    "plannerId": "sesa0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  },
+  {
+    "number": "128",
+    "operator": "风笛",
+    "appellation": "Bagpipe",
+    "plannerId": "bagpipe0",
+    "colorList": ",,#fd7a3f,,",
+    "rarity": "TIER_6",
+    "nation": "victoria"
+  },
+  {
+    "number": "129",
+    "operator": "断罪者",
+    "appellation": "Conviction",
+    "plannerId": "conviction0",
+    "colorList": ",,#017ac3,,",
+    "rarity": "TIER_4",
+    "nation": "minos"
+  },
+  {
+    "number": "130",
+    "operator": "刻刀",
+    "appellation": "Cutter",
+    "plannerId": "cutter0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "131",
+    "operator": "铸铁",
+    "appellation": "Sideroca",
+    "plannerId": "sideroca0",
+    "colorList": ",,#81c7cf,,",
+    "rarity": "TIER_5",
+    "nation": "minos"
+  },
+  {
+    "number": "132",
+    "operator": "巫恋",
+    "appellation": "Shamare",
+    "plannerId": "shamare0",
+    "colorList": ",,#c67e97,,",
+    "rarity": "TIER_5",
+    "nation": "siracusa"
+  },
+  {
+    "number": "133",
+    "operator": "傀影",
+    "appellation": "Phantom",
+    "plannerId": "phantom0",
+    "colorList": ",,#1c1b1c,,",
+    "rarity": "TIER_6",
+    "nation": "victoria"
+  },
+  {
+    "number": "134",
+    "operator": "THRM-EX",
+    "appellation": "Thermal-EX",
+    "plannerId": "thermalex0",
+    "colorList": ",,#f2ed2c,,",
+    "rarity": "TIER_1",
+    "nation": "rhodes"
+  },
+  {
+    "number": "135",
+    "operator": "极境",
+    "appellation": "Elysium",
+    "plannerId": "elysium0",
+    "colorList": ",,#148bbb,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "136",
+    "operator": "温蒂",
+    "appellation": "Weedy",
+    "plannerId": "weedy0",
+    "colorList": ",,#f8d65a,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "137",
+    "operator": "W",
+    "appellation": "W",
+    "plannerId": "w0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "null"
+  },
+  {
+    "number": "138",
+    "operator": "石棉",
+    "appellation": "Asbestos",
+    "plannerId": "asbestos0",
+    "colorList": ",,#f7b81b,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "139",
+    "operator": "月禾",
+    "appellation": "Tsukinogi",
+    "plannerId": "tsukinogi0",
+    "colorList": ",,#314fa7,,",
+    "rarity": "TIER_5",
+    "nation": "higashi"
+  },
+  {
+    "number": "140",
+    "operator": "波登可",
+    "appellation": "Podenco",
+    "plannerId": "podenco0",
+    "colorList": ",,#126d75,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "141",
+    "operator": "苦艾",
+    "appellation": "Absinthe",
+    "plannerId": "absinthe0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "ursus"
+  },
+  {
+    "number": "142",
+    "operator": "莱恩哈特",
+    "appellation": "Leonhardt",
+    "plannerId": "leonhardt0",
+    "colorList": ",,#17ab9e,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "143",
+    "operator": "早露",
+    "appellation": "Роса",
+    "plannerId": "poca0",
+    "colorList": ",,#0d6ea8,,",
+    "rarity": "TIER_6",
+    "nation": "ursus"
+  },
+  {
+    "number": "144",
+    "operator": "卡达",
+    "appellation": "Click",
+    "plannerId": "click0",
+    "colorList": ",,#e1dc15,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "145",
+    "operator": "亚叶",
+    "appellation": "Folinic",
+    "plannerId": "folinic0",
+    "colorList": ",,#3cddf0,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "146",
+    "operator": "断崖",
+    "appellation": "Ayerscarpe",
+    "plannerId": "ayerscarpe0",
+    "colorList": ",,#ffcd3c,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "147",
+    "operator": "铃兰",
+    "appellation": "Suzuran",
+    "plannerId": "suzuran0",
+    "colorList": ",,#4b77b5,,",
+    "rarity": "TIER_6",
+    "nation": "siracusa"
+  },
+  {
+    "number": "148",
+    "operator": "稀音",
+    "appellation": "Scene",
+    "plannerId": "scene0",
+    "colorList": ",,#dceb00,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  },
+  {
+    "number": "149",
+    "operator": "蜜蜡",
+    "appellation": "Beeswax",
+    "plannerId": "beeswax0",
+    "colorList": ",,#dba31e,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  },
+  {
+    "number": "150",
+    "operator": "贾维",
+    "appellation": "Chiave",
+    "plannerId": "chiave0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "siracusa"
+  },
+  {
+    "number": "151",
+    "operator": "孑",
+    "appellation": "Jaye",
+    "plannerId": "jaye0",
+    "colorList": ",,#899097,,",
+    "rarity": "TIER_4",
+    "nation": "lungmen"
+  },
+  {
+    "number": "152",
+    "operator": "安哲拉",
+    "appellation": "Andreana",
+    "plannerId": "andreana0",
+    "colorList": ",,#5b4d9b,,",
+    "rarity": "TIER_5",
+    "nation": "egir"
+  },
+  {
+    "number": "153",
+    "operator": "棘刺",
+    "appellation": "Thorns",
+    "plannerId": "thorns0",
+    "colorList": ",,#ffa905,,",
+    "rarity": "TIER_6",
+    "nation": "iberia"
+  },
+  {
+    "number": "154",
+    "operator": "酸糖",
+    "appellation": "Aciddrop",
+    "plannerId": "aciddrop0",
+    "colorList": ",,,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "155",
+    "operator": "特米米",
+    "appellation": "Tomimi",
+    "plannerId": "tomimi0",
+    "colorList": ",,#4a7447,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  },
+  {
+    "number": "156",
+    "operator": "燧石",
+    "appellation": "Flint",
+    "plannerId": "flint0",
+    "colorList": ",,#409691,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  },
+  {
+    "number": "157",
+    "operator": "森蚺",
+    "appellation": "Eunectes",
+    "plannerId": "eunectes0",
+    "colorList": ",,#edc94a,,",
+    "rarity": "TIER_6",
+    "nation": "sargon"
+  },
+  {
+    "number": "158",
+    "operator": "芳汀",
+    "appellation": "Arene",
+    "plannerId": "arene0",
+    "colorList": ",,#c2e468,,",
+    "rarity": "TIER_4",
+    "nation": "laterano"
+  },
+  {
+    "number": "159",
+    "operator": "薄绿",
+    "appellation": "Mint",
+    "plannerId": "mint0",
+    "colorList": ",,#7cc6bd,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "160",
+    "operator": "四月",
+    "appellation": "April",
+    "plannerId": "april0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "161",
+    "operator": "史尔特尔",
+    "appellation": "Surtr",
+    "plannerId": "surtr0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "162",
+    "operator": "泡泡",
+    "appellation": "Bubble",
+    "plannerId": "bubble0",
+    "colorList": ",,#be9d8f,,",
+    "rarity": "TIER_4",
+    "nation": "sargon"
+  },
+  {
+    "number": "163",
+    "operator": "鞭刃",
+    "appellation": "Whislash",
+    "plannerId": "whislash0",
+    "colorList": ",,#8c6653,,",
+    "rarity": "TIER_5",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "164",
+    "operator": "奥斯塔",
+    "appellation": "Aosta",
+    "plannerId": "aosta0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "siracusa"
+  },
+  {
+    "number": "165",
+    "operator": "瑕光",
+    "appellation": "Blemishine",
+    "plannerId": "blemishine0",
+    "colorList": ",,#d9bea4,,",
+    "rarity": "TIER_6",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "166",
+    "operator": "杰克",
+    "appellation": "Jackie",
+    "plannerId": "jackie0",
+    "colorList": ",,#ffba00,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "167",
+    "operator": "絮雨",
+    "appellation": "Whisperain",
+    "plannerId": "whisperain0",
+    "colorList": ",,#422ffe,,",
+    "rarity": "TIER_5",
+    "nation": "iberia"
+  },
+  {
+    "number": "168",
+    "operator": "泥岩",
+    "appellation": "Mudrock",
+    "plannerId": "mudrock0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "169",
+    "operator": "迷迭香",
+    "appellation": "Rosmontis",
+    "plannerId": "rosmontis0",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "170",
+    "operator": "阿米娅(近卫)",
+    "appellation": "Amiya",
+    "plannerId": "amiyaguard",
+    "colorList": ",,#0098dc,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "171",
+    "operator": "松果",
+    "appellation": "Pinecone",
+    "plannerId": "pinecone0",
+    "colorList": ",,#ff652e,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "172",
+    "operator": "罗宾",
+    "appellation": "Robin",
+    "plannerId": "robin0",
+    "colorList": ",,#86733e,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "173",
+    "operator": "卡夫卡",
+    "appellation": "Kafka",
+    "plannerId": "kafka0",
+    "colorList": ",,#3fd2bc,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "174",
+    "operator": "山",
+    "appellation": "Mountain",
+    "plannerId": "mountain0",
+    "colorList": ",,#8f1b00,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "175",
+    "operator": "豆苗",
+    "appellation": "Beanstalk",
+    "plannerId": "beanstalk0",
+    "colorList": ",,#afc844,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "176",
+    "operator": "爱丽丝",
+    "appellation": "Iris",
+    "plannerId": "iris0",
+    "colorList": ",,#6fcae4,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "177",
+    "operator": "空弦",
+    "appellation": "Archetto",
+    "plannerId": "archetto0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "laterano"
+  },
+  {
+    "number": "178",
+    "operator": "图耶",
+    "appellation": "Tuye",
+    "plannerId": "tuye0",
+    "colorList": ",,#cea249,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  },
+  {
+    "number": "179",
+    "operator": "炎狱炎熔",
+    "appellation": "Lava the Purgatory",
+    "plannerId": "lavaalter0",
+    "colorList": ",,#99285d,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "180",
+    "operator": "乌有",
+    "appellation": "Mr.Nothing",
+    "plannerId": "mrnothing0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "yan"
+  },
+  {
+    "number": "181",
+    "operator": "嵯峨",
+    "appellation": "Saga",
+    "plannerId": "saga0",
+    "colorList": ",,#c32826,,",
+    "rarity": "TIER_6",
+    "nation": "higashi"
+  },
+  {
+    "number": "182",
+    "operator": "夕",
+    "appellation": "Dusk",
+    "plannerId": "dusk0",
+    "colorList": ",,#00bec8,,",
+    "rarity": "TIER_6",
+    "nation": "yan"
+  },
+  {
+    "number": "183",
+    "operator": "战车",
+    "appellation": "Tachanka",
+    "plannerId": "tachanka0",
+    "colorList": ",,#4864b1,,",
+    "rarity": "TIER_5",
+    "nation": "null"
+  },
+  {
+    "number": "184",
+    "operator": "闪击",
+    "appellation": "Blitz",
+    "plannerId": "blitz0",
+    "colorList": ",,#ff6a2f,,",
+    "rarity": "TIER_5",
+    "nation": "null"
+  },
+  {
+    "number": "185",
+    "operator": "霜华",
+    "appellation": "Frost",
+    "plannerId": "frost0",
+    "colorList": ",,#ce4569,,",
+    "rarity": "TIER_5",
+    "nation": "null"
+  },
+  {
+    "number": "186",
+    "operator": "灰烬",
+    "appellation": "Ash",
+    "plannerId": "ash0",
+    "colorList": ",,#ff4c3d,,",
+    "rarity": "TIER_6",
+    "nation": "null"
+  },
+  {
+    "number": "187",
+    "operator": "暴雨",
+    "appellation": "Heavyrain",
+    "plannerId": "heavyrain0",
+    "colorList": ",,#9e9d72,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "188",
+    "operator": "熔泉",
+    "appellation": "Toddifons",
+    "plannerId": "toddifons0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "189",
+    "operator": "异客",
+    "appellation": "Passenger",
+    "plannerId": "passenger0",
+    "colorList": ",,#f7bd7d,,",
+    "rarity": "TIER_6",
+    "nation": "sargon"
+  },
+  {
+    "number": "190",
+    "operator": "赤冬",
+    "appellation": "Akafuyu",
+    "plannerId": "akafuyu0",
+    "colorList": ",,,,",
+    "rarity": "TIER_5",
+    "nation": "higashi"
+  },
+  {
+    "number": "191",
+    "operator": "歌蕾蒂娅",
+    "appellation": "Gladiia",
+    "plannerId": "gladiia0",
+    "colorList": ",,,,",
+    "rarity": "TIER_6",
+    "nation": "egir"
+  },
+  {
+    "number": "192",
+    "operator": "凯尔希",
+    "appellation": "Kal'tsit",
+    "plannerId": "kaltsit0",
+    "colorList": ",,#c1f42e,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "193",
+    "operator": "浊心斯卡蒂",
+    "appellation": "Skadi the Corrupting Heart",
+    "plannerId": "skadialter0",
+    "colorList": ",,#03f9fc,,",
+    "rarity": "TIER_6",
+    "nation": "egir"
+  },
+  {
+    "number": "194",
+    "operator": "深靛",
+    "appellation": "Indigo",
+    "plannerId": "indigo0",
+    "colorList": ",,#9b61ea,,",
+    "rarity": "TIER_4",
+    "nation": "iberia"
+  },
+  {
+    "number": "195",
+    "operator": "贝娜",
+    "appellation": "Bena",
+    "plannerId": "bena0",
+    "colorList": ",,#56af99,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "196",
+    "operator": "绮良",
+    "appellation": "Kirara",
+    "plannerId": "kirara0",
+    "colorList": ",,#4dcff4,,",
+    "rarity": "TIER_5",
+    "nation": "higashi"
+  },
+  {
+    "number": "197",
+    "operator": "卡涅利安",
+    "appellation": "Carnelian",
+    "plannerId": "carnelian0",
+    "colorList": ",,#f6891a,,",
+    "rarity": "TIER_6",
+    "nation": "leithanien"
+  },
+  {
+    "number": "198",
+    "operator": "帕拉斯",
+    "appellation": "Pallas",
+    "plannerId": "pallas0",
+    "colorList": ",,#625fd0,,",
+    "rarity": "TIER_6",
+    "nation": "minos"
+  },
+  {
+    "number": "199",
+    "operator": "龙舌兰",
+    "appellation": "Tequila",
+    "plannerId": "tequila0",
+    "colorList": ",,#ffe400,,",
+    "rarity": "TIER_5",
+    "nation": "bolivar"
+  },
+  {
+    "number": "200",
+    "operator": "羽毛笔",
+    "appellation": "La Pluma",
+    "plannerId": "lapluma0",
+    "colorList": ",,#4fbe3b,,",
+    "rarity": "TIER_5",
+    "nation": "bolivar"
+  },
+  {
+    "number": "201",
+    "operator": "水月",
+    "appellation": "Mizuki",
+    "plannerId": "mizuki0",
+    "colorList": ",,#bd2c6e,,",
+    "rarity": "TIER_6",
+    "nation": "higashi"
+  },
+  {
+    "number": "202",
+    "operator": "假日威龙陈",
+    "appellation": "Ch'en the Holungday",
+    "plannerId": "chenalter0",
+    "colorList": ",,#f75e86,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "203",
+    "operator": "罗比菈塔",
+    "appellation": "Roberta",
+    "plannerId": "roberta0",
+    "colorList": ",,#c1706f,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "204",
+    "operator": "桑葚",
+    "appellation": "Mulberry",
+    "plannerId": "mulberry0",
+    "colorList": ",,#da2542,,",
+    "rarity": "TIER_5",
+    "nation": "yan"
+  },
+  {
+    "number": "205",
+    "operator": "琴柳",
+    "appellation": "Saileach",
+    "plannerId": "saileach0",
+    "colorList": ",,#71ddd4,,",
+    "rarity": "TIER_6",
+    "nation": "victoria"
+  },
+  {
+    "number": "206",
+    "operator": "灰毫",
+    "appellation": "Ashlock",
+    "plannerId": "ashlock0",
+    "colorList": ",,#3796b1,,",
+    "rarity": "TIER_5",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "207",
+    "operator": "远牙",
+    "appellation": "Fartooth",
+    "plannerId": "fartooth0",
+    "colorList": ",,#888c5e,,",
+    "rarity": "TIER_6",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "208",
+    "operator": "正义骑士号",
+    "appellation": "\"Justice Knight\"",
+    "plannerId": "justiceknight0",
+    "colorList": ",,#4bb6cc,,",
+    "rarity": "TIER_1",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "209",
+    "operator": "布丁",
+    "appellation": "Pudding",
+    "plannerId": "pudding0",
+    "colorList": ",,#ffb4be,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "210",
+    "operator": "蜜莓",
+    "appellation": "Honeyberry",
+    "plannerId": "honeyberry0",
+    "colorList": ",,#61ffe9,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "211",
+    "operator": "野鬃",
+    "appellation": "Wild Mane",
+    "plannerId": "wildmane0",
+    "colorList": ",,#4bb6cc,,",
+    "rarity": "TIER_5",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "212",
+    "operator": "蚀清",
+    "appellation": "Corroserum",
+    "plannerId": "corroserum0",
+    "colorList": ",,#fcbd4d,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "213",
+    "operator": "焰尾",
+    "appellation": "Flametail",
+    "plannerId": "flametail0",
+    "colorList": ",,#d54e38,,",
+    "rarity": "TIER_6",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "214",
+    "operator": "耀骑士临光",
+    "appellation": "Nearl the Radiant Knight",
+    "plannerId": "nearlalter0",
+    "colorList": ",,#ff9346,,",
+    "rarity": "TIER_6",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "215",
+    "operator": "耶拉",
+    "appellation": "Kjera",
+    "plannerId": "kjera0",
+    "colorList": ",,#0c41ab,,",
+    "rarity": "TIER_5",
+    "nation": "kjerag"
+  },
+  {
+    "number": "216",
+    "operator": "极光",
+    "appellation": "Aurora",
+    "plannerId": "aurora0",
+    "colorList": ",,#3fbcd0,,",
+    "rarity": "TIER_5",
+    "nation": "kjerag"
+  },
+  {
+    "number": "217",
+    "operator": "灵知",
+    "appellation": "Gnosis",
+    "plannerId": "gnosis0",
+    "colorList": ",,#599aff,,",
+    "rarity": "TIER_6",
+    "nation": "kjerag"
+  },
+  {
+    "number": "218",
+    "operator": "暮落",
+    "appellation": "Shalem",
+    "plannerId": "shalem0",
+    "colorList": ",,#3c3460,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "219",
+    "operator": "九色鹿",
+    "appellation": "Nine-Colored Deer",
+    "plannerId": "ninecoloreddeer0",
+    "colorList": ",,#7d3124,,",
+    "rarity": "TIER_5",
+    "nation": "yan"
+  },
+  {
+    "number": "220",
+    "operator": "寒芒克洛丝",
+    "appellation": "Kroos the Keen Glint",
+    "plannerId": "kroosalter0",
+    "colorList": ",#505050,#ffb240,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "221",
+    "operator": "夜半",
+    "appellation": "Blacknight",
+    "plannerId": "blacknight0",
+    "colorList": ",#201d22,#b9191a,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "222",
+    "operator": "老鲤",
+    "appellation": "Lee",
+    "plannerId": "lee0",
+    "colorList": ",#282c2c,#f8bd38,,",
+    "rarity": "TIER_6",
+    "nation": "lungmen"
+  },
+  {
+    "number": "223",
+    "operator": "令",
+    "appellation": "Ling",
+    "plannerId": "ling0",
+    "colorList": ",#272824,#64bbed,,",
+    "rarity": "TIER_6",
+    "nation": "yan"
+  },
+  {
+    "number": "224",
+    "operator": "夏栎",
+    "appellation": "Quercus",
+    "plannerId": "quercus0",
+    "colorList": ",#281f10,#baa35c,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "225",
+    "operator": "澄闪",
+    "appellation": "Goldenglow",
+    "plannerId": "goldenglow0",
+    "colorList": ",#3a2334,#ff78aa,,",
+    "rarity": "TIER_6",
+    "nation": "victoria"
+  },
+  {
+    "number": "226",
+    "operator": "见行者",
+    "appellation": "Enforcer",
+    "plannerId": "enforcer0",
+    "colorList": ",,#283241,,",
+    "rarity": "TIER_5",
+    "nation": "laterano"
+  },
+  {
+    "number": "227",
+    "operator": "风丸",
+    "appellation": "Kazemaru",
+    "plannerId": "kazemaru0",
+    "colorList": ",,#e1728a,,",
+    "rarity": "TIER_5",
+    "nation": "higashi"
+  },
+  {
+    "number": "228",
+    "operator": "菲亚梅塔",
+    "appellation": "Fiammetta",
+    "plannerId": "fiammetta0",
+    "colorList": ",,#85302d,,",
+    "rarity": "TIER_6",
+    "nation": "laterano"
+  },
+  {
+    "number": "229",
+    "operator": "褐果",
+    "appellation": "Chestnut",
+    "plannerId": "chestnut0",
+    "colorList": ",,#ffdd2a,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "230",
+    "operator": "海蒂",
+    "appellation": "Heidi",
+    "plannerId": "heidi0",
+    "colorList": ",,#af3227,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "231",
+    "operator": "洛洛",
+    "appellation": "Rockrock",
+    "plannerId": "rockrock0",
+    "colorList": ",,#c47a4d,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "232",
+    "operator": "号角",
+    "appellation": "Horn",
+    "plannerId": "horn0",
+    "colorList": ",,#be7f4e,,",
+    "rarity": "TIER_6",
+    "nation": "victoria"
+  },
+  {
+    "number": "233",
+    "operator": "掠风",
+    "appellation": "Windflit",
+    "plannerId": "windflit0",
+    "colorList": ",,#f1eb1e,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "234",
+    "operator": "流明",
+    "appellation": "Lumen",
+    "plannerId": "lumen0",
+    "colorList": ",,#115e89,,",
+    "rarity": "TIER_6",
+    "nation": "iberia"
+  },
+  {
+    "number": "235",
+    "operator": "艾丽妮",
+    "appellation": "Irene",
+    "plannerId": "irene0",
+    "colorList": ",,#a27381,,",
+    "rarity": "TIER_6",
+    "nation": "iberia"
+  },
+  {
+    "number": "236",
+    "operator": "归溟幽灵鲨",
+    "appellation": "Specter the Unchained",
+    "plannerId": "specteralter0",
+    "colorList": ",,#189cd8,,",
+    "rarity": "TIER_6",
+    "nation": "egir"
+  },
+  {
+    "number": "237",
+    "operator": "埃拉托",
+    "appellation": "Erato",
+    "plannerId": "erato0",
+    "colorList": ",,#799c64,,",
+    "rarity": "TIER_5",
+    "nation": "minos"
+  },
+  {
+    "number": "238",
+    "operator": "车尔尼",
+    "appellation": "Czerny",
+    "plannerId": "czerny0",
+    "colorList": ",,#7b7244,,",
+    "rarity": "TIER_5",
+    "nation": "leithanien"
+  },
+  {
+    "number": "239",
+    "operator": "濯尘芙蓉",
+    "appellation": "Hibiscus the Purifier",
+    "plannerId": "hibiscusalter0",
+    "colorList": ",,#ce3894,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "240",
+    "operator": "黑键",
+    "appellation": "Ebenholz",
+    "plannerId": "ebenholz0",
+    "colorList": ",,#ae141d,,",
+    "rarity": "TIER_6",
+    "nation": "leithanien"
+  },
+  {
+    "number": "241",
+    "operator": "星源",
+    "appellation": "Astgenne",
+    "plannerId": "astgenne0",
+    "colorList": ",,#dfbc46,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "242",
+    "operator": "承曦格雷伊",
+    "appellation": "Greyy the Lightningbearer",
+    "plannerId": "greyyalter0",
+    "colorList": ",,#ffc807,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "243",
+    "operator": "多萝西",
+    "appellation": "Dorothy",
+    "plannerId": "dorothy0",
+    "colorList": ",,#c39f6a,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "244",
+    "operator": "至简",
+    "appellation": "Minimalist",
+    "plannerId": "minimalist0",
+    "colorList": ",,#494f79,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  },
+  {
+    "number": "245",
+    "operator": "晓歌",
+    "appellation": "Cantabile",
+    "plannerId": "cantabile0",
+    "colorList": ",,#324960,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "246",
+    "operator": "鸿雪",
+    "appellation": "Позёмка",
+    "plannerId": "pozyomka0",
+    "colorList": ",,#bb575f,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "247",
+    "operator": "百炼嘉维尔",
+    "appellation": "Gavial the Invincible",
+    "plannerId": "gavialalter0",
+    "colorList": ",,#517c2c,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "248",
+    "operator": "但书",
+    "appellation": "Proviso",
+    "plannerId": "proviso0",
+    "colorList": ",,#6fb586,,",
+    "rarity": "TIER_5",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "249",
+    "operator": "玛恩纳",
+    "appellation": "Młynar",
+    "plannerId": "mlynar0",
+    "colorList": ",,#bb9a71,,",
+    "rarity": "TIER_6",
+    "nation": "kazimierz"
+  },
+  {
+    "number": "250",
+    "operator": "罗小黑",
+    "appellation": "Luo Xiaohei",
+    "plannerId": "luoxiaohei0",
+    "colorList": ",,#b94829,,",
+    "rarity": "TIER_4",
+    "nation": "yan"
+  },
+  {
+    "number": "251",
+    "operator": "海沫",
+    "appellation": "Highmore",
+    "plannerId": "highmore0",
+    "colorList": ",,#8f73dd,,",
+    "rarity": "TIER_5",
+    "nation": "iberia"
+  },
+  {
+    "number": "252",
+    "operator": "铅踝",
+    "appellation": "Totter",
+    "plannerId": "totter0",
+    "colorList": ",,#7ba2af,,",
+    "rarity": "TIER_4",
+    "nation": "sargon"
+  },
+  {
+    "number": "253",
+    "operator": "达格达",
+    "appellation": "Dagda",
+    "plannerId": "dagda0",
+    "colorList": ",,#bd4745,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "254",
+    "operator": "明椒",
+    "appellation": "Paprika",
+    "plannerId": "paprika0",
+    "colorList": ",,#c49492,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "255",
+    "operator": "白铁",
+    "appellation": "Stainless",
+    "plannerId": "stainless0",
+    "colorList": ",,#91352b,,",
+    "rarity": "TIER_6",
+    "nation": "victoria"
+  },
+  {
+    "number": "256",
+    "operator": "石英",
+    "appellation": "Quartz",
+    "plannerId": "quartz0",
+    "colorList": ",,#882e0a,,",
+    "rarity": "TIER_4",
+    "nation": "columbia"
+  },
+  {
+    "number": "257",
+    "operator": "雪绒",
+    "appellation": "Qanipalaat",
+    "plannerId": "qanipalaat0",
+    "colorList": ",,#960811,,",
+    "rarity": "TIER_5",
+    "nation": "sami"
+  },
+  {
+    "number": "258",
+    "operator": "子月",
+    "appellation": "Lunacub",
+    "plannerId": "lunacub0",
+    "colorList": ",,#7a4543,,",
+    "rarity": "TIER_5",
+    "nation": "siracusa"
+  },
+  {
+    "number": "259",
+    "operator": "伺夜",
+    "appellation": "Vigil",
+    "plannerId": "vigil0",
+    "colorList": ",,#3c2476,,",
+    "rarity": "TIER_6",
+    "nation": "siracusa"
+  },
+  {
+    "number": "260",
+    "operator": "斥罪",
+    "appellation": "Penance",
+    "plannerId": "penance0",
+    "colorList": ",,#ab7e4c,,",
+    "rarity": "TIER_6",
+    "nation": "siracusa"
+  },
+  {
+    "number": "261",
+    "operator": "缄默德克萨斯",
+    "appellation": "Texas the Omertosa",
+    "plannerId": "texasalter0",
+    "colorList": ",,#4747b5,,",
+    "rarity": "TIER_6",
+    "nation": "lungmen"
+  },
+  {
+    "number": "262",
+    "operator": "谜图",
+    "appellation": "Puzzle",
+    "plannerId": "puzzle0",
+    "colorList": ",,#504382,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "263",
+    "operator": "和弦",
+    "appellation": "Harmonie",
+    "plannerId": "harmonie0",
+    "colorList": ",,#79a794,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "264",
+    "operator": "焰影苇草",
+    "appellation": "Reed The Flame Shadow",
+    "plannerId": "reedalter0",
+    "colorList": ",,#b96636,,",
+    "rarity": "TIER_6",
+    "nation": "victoria"
+  },
+  {
+    "number": "265",
+    "operator": "截云",
+    "appellation": "Jieyun",
+    "plannerId": "jieyun0",
+    "colorList": ",,#488d8d,,",
+    "rarity": "TIER_5",
+    "nation": "yan"
+  },
+  {
+    "number": "266",
+    "operator": "火哨",
+    "appellation": "Firewhistle",
+    "plannerId": "firewhistle0",
+    "colorList": ",,#df450b,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "267",
+    "operator": "林",
+    "appellation": "Lin",
+    "plannerId": "lin0",
+    "colorList": ",,#834ada,,",
+    "rarity": "TIER_6",
+    "nation": "lungmen"
+  },
+  {
+    "number": "268",
+    "operator": "重岳",
+    "appellation": "Chongyue",
+    "plannerId": "chongyue0",
+    "colorList": ",,#efaa2a,,",
+    "rarity": "TIER_6",
+    "nation": "yan"
+  },
+  {
+    "number": "269",
+    "operator": "铎铃",
+    "appellation": "Wind Chimes",
+    "plannerId": "windchimes0",
+    "colorList": ",,#4274a9,,",
+    "rarity": "TIER_5",
+    "nation": "yan"
+  },
+  {
+    "number": "270",
+    "operator": "仇白",
+    "appellation": "Qiubai",
+    "plannerId": "qiubai0",
+    "colorList": ",,#d03739,,",
+    "rarity": "TIER_6",
+    "nation": "yan"
+  },
+  {
+    "number": "271",
+    "operator": "泰拉大陆调查团",
+    "appellation": "Terra Research Commission",
+    "plannerId": "terraresearchcommission0",
+    "colorList": ",,#825340,,",
+    "rarity": "TIER_1",
+    "nation": "rhodes"
+  },
+  {
+    "number": "272",
+    "operator": "火龙S黑角",
+    "appellation": "Rathalos S Noir Corne",
+    "plannerId": "noircornealter0",
+    "colorList": ",,#c8363d,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes"
+  },
+  {
+    "number": "273",
+    "operator": "麒麟R夜刀",
+    "appellation": "Kirin R Yato",
+    "plannerId": "yatoalter0",
+    "colorList": ",,#d94f31,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "274",
+    "operator": "U-Official",
+    "appellation": "U-Official",
+    "plannerId": "uofficial0",
+    "colorList": ",,#c2858c,,",
+    "rarity": "TIER_1",
+    "nation": "rhodes"
+  },
+  {
+    "number": "275",
+    "operator": "休谟斯",
+    "appellation": "Humus",
+    "plannerId": "humus0",
+    "colorList": ",,#d89d24,,",
+    "rarity": "TIER_4",
+    "nation": "rhodes"
+  },
+  {
+    "number": "276",
+    "operator": "摩根",
+    "appellation": "Morgan",
+    "plannerId": "morgan0",
+    "colorList": ",,#d9b338,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "277",
+    "operator": "洋灰",
+    "appellation": "Cement",
+    "plannerId": "cement0",
+    "colorList": ",,#f5b429,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "278",
+    "operator": "伊内丝",
+    "appellation": "Ines",
+    "plannerId": "ines0",
+    "colorList": ",,#e03641,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "279",
+    "operator": "玫拉",
+    "appellation": "Melanite",
+    "plannerId": "melanite0",
+    "colorList": ",,#303093,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "280",
+    "operator": "淬羽赫默",
+    "appellation": "Silence the Paradigmatic",
+    "plannerId": "silencealter0",
+    "colorList": ",,#3297bf,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "281",
+    "operator": "霍尔海雅",
+    "appellation": "Ho'olheyak",
+    "plannerId": "hoolheyak0",
+    "colorList": ",,#30b2b3,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "282",
+    "operator": "缪尔赛思",
+    "appellation": "Muelsyse",
+    "plannerId": "muelsyse0",
+    "colorList": ",,#bad022,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "283",
+    "operator": "Friston-3",
+    "appellation": "Friston-3",
+    "plannerId": "friston0",
+    "colorList": ",,#141414,,",
+    "rarity": "TIER_1",
+    "nation": "rhodes"
+  },
+  {
+    "number": "284",
+    "operator": "隐现",
+    "appellation": "Insider",
+    "plannerId": "insider0",
+    "colorList": ",,#4050b3,,",
+    "rarity": "TIER_5",
+    "nation": "laterano"
+  },
+  {
+    "number": "285",
+    "operator": "空构",
+    "appellation": "Spuria",
+    "plannerId": "spuria0",
+    "colorList": ",,#f8cbf7,,",
+    "rarity": "TIER_5",
+    "nation": "laterano"
+  },
+  {
+    "number": "286",
+    "operator": "圣约送葬人",
+    "appellation": "Executor the Ex Foedere",
+    "plannerId": "executoralter0",
+    "colorList": ",,#c32f3d,,",
+    "rarity": "TIER_6",
+    "nation": "laterano"
+  },
+  {
+    "number": "287",
+    "operator": "寒檀",
+    "appellation": "Santalla",
+    "plannerId": "santalla0",
+    "colorList": ",,#101f74,,",
+    "rarity": "TIER_5",
+    "nation": "sami"
+  },
+  {
+    "number": "288",
+    "operator": "提丰",
+    "appellation": "Typhon",
+    "plannerId": "typhon0",
+    "colorList": ",,#b85ab4,,",
+    "rarity": "TIER_6",
+    "nation": "sami"
+  },
+  {
+    "number": "289",
+    "operator": "凛视",
+    "appellation": "Valarqvin",
+    "plannerId": "valarqvin0",
+    "colorList": ",,#63e9fd,,",
+    "rarity": "TIER_5",
+    "nation": "sami"
+  },
+  {
+    "number": "290",
+    "operator": "苍苔",
+    "appellation": "Bryophyta",
+    "plannerId": "bryophyta0",
+    "colorList": ",,#cf2c19,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "291",
+    "operator": "青枳",
+    "appellation": "Poncirus",
+    "plannerId": "poncirus0",
+    "colorList": ",,#69133b,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "292",
+    "operator": "琳琅诗怀雅",
+    "appellation": "Swire the Elegant Wit",
+    "plannerId": "swirealter0",
+    "colorList": ",,#f0b96a,,",
+    "rarity": "TIER_6",
+    "nation": "lungmen"
+  },
+  {
+    "number": "293",
+    "operator": "纯烬艾雅法拉",
+    "appellation": "Eyjafjalla the Hvít Aska",
+    "plannerId": "eyjafjallaalter0",
+    "colorList": ",,#a81821,,",
+    "rarity": "TIER_6",
+    "nation": "leithanien"
+  },
+  {
+    "number": "294",
+    "operator": "冰酿",
+    "appellation": "Coldshot",
+    "plannerId": "coldshot0",
+    "colorList": ",,#c769a0,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "295",
+    "operator": "杏仁",
+    "appellation": "Almond",
+    "plannerId": "almond0",
+    "colorList": ",,#ff7f30,,",
+    "rarity": "TIER_5",
+    "nation": "columbia"
+  },
+  {
+    "number": "296",
+    "operator": "涤火杰西卡",
+    "appellation": "Jessica the Liberated",
+    "plannerId": "jessicaalter0",
+    "colorList": ",,#f58d05,,",
+    "rarity": "TIER_6",
+    "nation": "columbia"
+  },
+  {
+    "number": "297",
+    "operator": "维荻",
+    "appellation": "Verdant",
+    "plannerId": "verdant0",
+    "colorList": ",,#265c35,,",
+    "rarity": "TIER_4",
+    "nation": "victoria"
+  },
+  {
+    "number": "298",
+    "operator": "戴菲恩",
+    "appellation": "Delphine",
+    "plannerId": "delphine0",
+    "colorList": ",,#28d4e4,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "299",
+    "operator": "刺玫",
+    "appellation": "Vendela",
+    "plannerId": "vendela0",
+    "colorList": ",,#ae3d33,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "300",
+    "operator": "赫德雷",
+    "appellation": "Hoederer",
+    "plannerId": "hoederer0",
+    "colorList": ",,#b82c1e,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes"
+  },
+  {
+    "number": "301",
+    "operator": "跃跃",
+    "appellation": "Caper",
+    "plannerId": "caper0",
+    "colorList": ",,#af5a74,,",
+    "rarity": "TIER_4",
+    "nation": "bolivar"
+  },
+  {
+    "number": "302",
+    "operator": "折光",
+    "appellation": "Diamante",
+    "plannerId": "diamante0",
+    "colorList": ",,#d9c256,,",
+    "rarity": "TIER_5",
+    "nation": "leithanien"
+  },
+  {
+    "number": "303",
+    "operator": "深律",
+    "appellation": "Bassline",
+    "plannerId": "bassline0",
+    "colorList": ",,#ea4b42,,",
+    "rarity": "TIER_5",
+    "nation": "leithanien"
+  },
+  {
+    "number": "304",
+    "operator": "止颂",
+    "appellation": "Lessing",
+    "plannerId": "lessing0",
+    "colorList": ",,#814ea2,,",
+    "rarity": "TIER_6",
+    "nation": "leithanien"
+  },
+  {
+    "number": "305",
+    "operator": "薇薇安娜",
+    "appellation": "Viviana",
+    "plannerId": "viviana0",
+    "colorList": ",,#55051b,,",
+    "rarity": "TIER_6",
+    "nation": "leithanien"
+  },
+  {
+    "number": "306",
+    "operator": "塑心",
+    "appellation": "Virtuosa",
+    "plannerId": "virtuosa0",
+    "colorList": ",,#2c48c2,,",
+    "rarity": "TIER_6",
+    "nation": "laterano"
+  },
+  {
+    "number": "307",
+    "operator": "哈洛德",
+    "appellation": "Harold",
+    "plannerId": "harold0",
+    "colorList": ",,#434678,,",
+    "rarity": "TIER_5",
+    "nation": "victoria"
+  },
+  {
+    "number": "308",
+    "operator": "烈夏",
+    "appellation": "Лето",
+    "plannerId": "leto0",
+    "colorList": ",,#910000,,",
+    "rarity": "TIER_5",
+    "nation": "ursus"
+  },
+  {
+    "number": "309",
+    "operator": "锏",
+    "appellation": "Degenbrecher",
+    "plannerId": "degenbrecher0",
+    "colorList": ",,#e18f24,,",
+    "rarity": "TIER_6",
+    "nation": "kjerag"
+  },
+  {
+    "number": "310",
+    "operator": "温米",
+    "appellation": "Warmy",
+    "plannerId": "warmy0",
+    "colorList": ",,#f3934b,,",
+    "rarity": "TIER_5",
+    "nation": "rim"
+  },
+  {
+    "number": "311",
+    "operator": "莱伊",
+    "appellation": "Ray",
+    "plannerId": "ray0",
+    "colorList": ",,#b2474b,,",
+    "rarity": "TIER_6",
+    "nation": "rim"
+  },
+  {
+    "number": "312",
+    "operator": "万顷",
+    "appellation": "Wanqing",
+    "plannerId": "wanqing0",
+    "colorList": ",,#a67337,,",
+    "rarity": "TIER_5",
+    "nation": "yan"
+  },
+  {
+    "number": "313",
+    "operator": "小满",
+    "appellation": "Grain Buds",
+    "plannerId": "grainbuds0",
+    "colorList": ",,#b3b447,,",
+    "rarity": "TIER_5",
+    "nation": "yan"
+  },
+  {
+    "number": "314",
+    "operator": "左乐",
+    "appellation": "Zuo Le",
+    "plannerId": "zuole0",
+    "colorList": ",,#b04035,,",
+    "rarity": "TIER_6",
+    "nation": "yan"
+  },
+  {
+    "number": "315",
+    "operator": "黍",
+    "appellation": "Shu",
+    "plannerId": "shu0",
+    "colorList": ",,#0411b6,,",
+    "rarity": "TIER_6",
+    "nation": "yan"
+  },
+  {
+    "number": "316",
+    "operator": "红隼",
+    "appellation": "Kestrel",
+    "plannerId": "kestrel0",
+    "colorList": ",,#b05332,,",
+    "rarity": "TIER_5",
+    "nation": "sargon"
+  }
+]
