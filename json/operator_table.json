@@ -7,7 +7,8 @@
     "colorList": ",,#f2ed2c,,",
     "rarity": "TIER_1",
     "nation": "rhodes",
-    "charId": "char_285_medic2"
+    "charId": "char_285_medic2",
+    "drawerList": "TOKI"
   },
   {
     "number": "2",
@@ -17,7 +18,8 @@
     "colorList": ",,#f2ed2c,,",
     "rarity": "TIER_1",
     "nation": "rhodes",
-    "charId": "char_286_cast3"
+    "charId": "char_286_cast3",
+    "drawerList": "TOKI"
   },
   {
     "number": "3",
@@ -27,7 +29,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_2",
     "nation": "rhodes",
-    "charId": "char_502_nblade"
+    "charId": "char_502_nblade",
+    "drawerList": "Skade"
   },
   {
     "number": "4",
@@ -37,7 +40,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_2",
     "nation": "rhodes",
-    "charId": "char_500_noirc"
+    "charId": "char_500_noirc",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "5",
@@ -47,7 +51,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_2",
     "nation": "rhodes",
-    "charId": "char_503_rang"
+    "charId": "char_503_rang",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "6",
@@ -57,7 +62,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_2",
     "nation": "rhodes",
-    "charId": "char_501_durin"
+    "charId": "char_501_durin",
+    "drawerList": "Skade"
   },
   {
     "number": "7",
@@ -67,7 +73,8 @@
     "colorList": ",,#cdde00,,",
     "rarity": "TIER_2",
     "nation": "rhodes",
-    "charId": "char_009_12fce"
+    "charId": "char_009_12fce",
+    "drawerList": "海猫络合物"
   },
   {
     "number": "8",
@@ -77,7 +84,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_123_fang"
+    "charId": "char_123_fang",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "9",
@@ -87,7 +95,8 @@
     "colorList": ",,#ecc996,,",
     "rarity": "TIER_3",
     "nation": "columbia",
-    "charId": "char_240_wyvern"
+    "charId": "char_240_wyvern",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "10",
@@ -97,7 +106,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_3",
     "nation": "laterano",
-    "charId": "char_192_falco"
+    "charId": "char_192_falco",
+    "drawerList": "deel"
   },
   {
     "number": "11",
@@ -107,7 +117,8 @@
     "colorList": ",,#81456b,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_208_melan"
+    "charId": "char_208_melan",
+    "drawerList": "一立里子"
   },
   {
     "number": "12",
@@ -117,7 +128,8 @@
     "colorList": ",,#989ac7,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_209_ardign"
+    "charId": "char_209_ardign",
+    "drawerList": "一立里子"
   },
   {
     "number": "13",
@@ -127,7 +139,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_122_beagle"
+    "charId": "char_122_beagle",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "14",
@@ -137,7 +150,8 @@
     "colorList": ",,#efa573,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_124_kroos"
+    "charId": "char_124_kroos",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "15",
@@ -147,7 +161,8 @@
     "colorList": ",,#989ac7,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_211_adnach"
+    "charId": "char_211_adnach",
+    "drawerList": "一立里子"
   },
   {
     "number": "16",
@@ -157,7 +172,8 @@
     "colorList": ",,#ac81bd,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_121_lava"
+    "charId": "char_121_lava",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "17",
@@ -167,7 +183,8 @@
     "colorList": ",,#ac81bd,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_120_hibisc"
+    "charId": "char_120_hibisc",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "18",
@@ -177,7 +194,8 @@
     "colorList": ",,#9ee6dc,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_212_ansel"
+    "charId": "char_212_ansel",
+    "drawerList": "一立里子"
   },
   {
     "number": "19",
@@ -187,7 +205,8 @@
     "colorList": ",,#989ac7,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_210_stward"
+    "charId": "char_210_stward",
+    "drawerList": "一立里子"
   },
   {
     "number": "20",
@@ -197,7 +216,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_278_orchid"
+    "charId": "char_278_orchid",
+    "drawerList": "Skade"
   },
   {
     "number": "21",
@@ -207,7 +227,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "victoria",
-    "charId": "char_141_nights"
+    "charId": "char_141_nights",
+    "drawerList": "Skade"
   },
   {
     "number": "22",
@@ -217,7 +238,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "sami",
-    "charId": "char_109_fmout"
+    "charId": "char_109_fmout",
+    "drawerList": "谜肘"
   },
   {
     "number": "23",
@@ -227,7 +249,8 @@
     "colorList": ",,#8bb5ff,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_235_jesica"
+    "charId": "char_235_jesica",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "24",
@@ -237,7 +260,8 @@
     "colorList": ",,#80b889,,",
     "rarity": "TIER_4",
     "nation": "kazimierz",
-    "charId": "char_126_shotst"
+    "charId": "char_126_shotst",
+    "drawerList": "HUG"
   },
   {
     "number": "25",
@@ -247,7 +271,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_4",
     "nation": "higashi",
-    "charId": "char_118_yuki"
+    "charId": "char_118_yuki",
+    "drawerList": "阿鬼"
   },
   {
     "number": "26",
@@ -257,7 +282,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "kjerag",
-    "charId": "char_198_blackd"
+    "charId": "char_198_blackd",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "27",
@@ -267,7 +293,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_149_scave"
+    "charId": "char_149_scave",
+    "drawerList": "戏言咸咸"
   },
   {
     "number": "28",
@@ -277,7 +304,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_290_vigna"
+    "charId": "char_290_vigna",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "29",
@@ -287,7 +315,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_130_doberm"
+    "charId": "char_130_doberm",
+    "drawerList": "LLC"
   },
   {
     "number": "30",
@@ -297,7 +326,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "higashi",
-    "charId": "char_289_gyuki"
+    "charId": "char_289_gyuki",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "31",
@@ -307,7 +337,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_193_frostl"
+    "charId": "char_193_frostl",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "32",
@@ -317,7 +348,8 @@
     "colorList": ",,#d0c200,,",
     "rarity": "TIER_4",
     "nation": "sargon",
-    "charId": "char_127_estell"
+    "charId": "char_127_estell",
+    "drawerList": "鸭"
   },
   {
     "number": "33",
@@ -327,7 +359,8 @@
     "colorList": ",,#ffdc2b,,",
     "rarity": "TIER_4",
     "nation": "victoria",
-    "charId": "char_185_frncat"
+    "charId": "char_185_frncat",
+    "drawerList": "Iritoa"
   },
   {
     "number": "34",
@@ -337,7 +370,8 @@
     "colorList": ",,#e8b09f,,",
     "rarity": "TIER_4",
     "nation": "kazimierz",
-    "charId": "char_237_gravel"
+    "charId": "char_237_gravel",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "35",
@@ -347,7 +381,8 @@
     "colorList": ",,#9580b2,,",
     "rarity": "TIER_4",
     "nation": "lungmen",
-    "charId": "char_236_rope"
+    "charId": "char_236_rope",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "36",
@@ -357,7 +392,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_117_myrrh"
+    "charId": "char_117_myrrh",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "37",
@@ -367,7 +403,8 @@
     "colorList": ",,#8bd45a,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_187_ccheal"
+    "charId": "char_187_ccheal",
+    "drawerList": "LLC"
   },
   {
     "number": "38",
@@ -377,7 +414,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_181_flower"
+    "charId": "char_181_flower",
+    "drawerList": "Lanzi"
   },
   {
     "number": "39",
@@ -387,7 +425,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_4",
     "nation": "kjerag",
-    "charId": "char_199_yak"
+    "charId": "char_199_yak",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "40",
@@ -397,7 +436,8 @@
     "colorList": ",,#f59244,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_150_snakek"
+    "charId": "char_150_snakek",
+    "drawerList": "Skade"
   },
   {
     "number": "41",
@@ -407,7 +447,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "ursus",
-    "charId": "char_196_sunbr"
+    "charId": "char_196_sunbr",
+    "drawerList": "Skade"
   },
   {
     "number": "42",
@@ -417,7 +458,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "egir",
-    "charId": "char_110_deepcl"
+    "charId": "char_110_deepcl",
+    "drawerList": "REALMBW"
   },
   {
     "number": "43",
@@ -427,7 +469,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "leithanien",
-    "charId": "char_183_skgoat"
+    "charId": "char_183_skgoat",
+    "drawerList": "HUG"
   },
   {
     "number": "44",
@@ -437,7 +480,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "lungmen",
-    "charId": "char_277_sqrrel"
+    "charId": "char_277_sqrrel",
+    "drawerList": "阿鬼"
   },
   {
     "number": "45",
@@ -447,7 +491,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_128_plosis"
+    "charId": "char_128_plosis",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "46",
@@ -457,7 +502,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "ursus",
-    "charId": "char_115_headbr"
+    "charId": "char_115_headbr",
+    "drawerList": "Skade"
   },
   {
     "number": "47",
@@ -467,7 +513,8 @@
     "colorList": ",#1b1b1b,#e60012,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_102_texas"
+    "charId": "char_102_texas",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "48",
@@ -477,7 +524,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_106_franka"
+    "charId": "char_106_franka",
+    "drawerList": "TOKI"
   },
   {
     "number": "49",
@@ -487,7 +535,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_155_tiger"
+    "charId": "char_155_tiger",
+    "drawerList": "Infukun"
   },
   {
     "number": "50",
@@ -497,7 +546,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_5",
     "nation": "siracusa",
-    "charId": "char_140_whitew"
+    "charId": "char_140_whitew",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "51",
@@ -507,7 +557,8 @@
     "colorList": ",,#31378e,,",
     "rarity": "TIER_5",
     "nation": "egir",
-    "charId": "char_143_ghost"
+    "charId": "char_143_ghost",
+    "drawerList": "Skade"
   },
   {
     "number": "52",
@@ -517,7 +568,8 @@
     "colorList": ",,d487a8,,",
     "rarity": "TIER_5",
     "nation": "iberia",
-    "charId": "char_129_bluep"
+    "charId": "char_129_bluep",
+    "drawerList": "LLC"
   },
   {
     "number": "53",
@@ -527,7 +579,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_5",
     "nation": "kazimierz",
-    "charId": "char_204_platnm"
+    "charId": "char_204_platnm",
+    "drawerList": "Skade"
   },
   {
     "number": "54",
@@ -537,7 +590,8 @@
     "colorList": ",,#eddc3b,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_219_meteo"
+    "charId": "char_219_meteo",
+    "drawerList": "TOKI"
   },
   {
     "number": "55",
@@ -547,7 +601,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_002_amiya"
+    "charId": "char_002_amiya",
+    "drawerList": "唯@W"
   },
   {
     "number": "56",
@@ -557,7 +612,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_166_skfire"
+    "charId": "char_166_skfire",
+    "drawerList": "TOKI"
   },
   {
     "number": "57",
@@ -567,7 +623,8 @@
     "colorList": ",,#fe7a34,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_242_otter"
+    "charId": "char_242_otter",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "58",
@@ -577,7 +634,8 @@
     "colorList": ",,#892e3e,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_108_silent"
+    "charId": "char_108_silent",
+    "drawerList": "NoriZC"
   },
   {
     "number": "59",
@@ -587,7 +645,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_171_bldsk"
+    "charId": "char_171_bldsk",
+    "drawerList": "时辰"
   },
   {
     "number": "60",
@@ -597,7 +656,8 @@
     "colorList": ",,#ffdc2b,,",
     "rarity": "TIER_5",
     "nation": "null",
-    "charId": "char_148_nearl"
+    "charId": "char_148_nearl",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "61",
@@ -607,7 +667,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_144_red"
+    "charId": "char_144_red",
+    "drawerList": "Infukun"
   },
   {
     "number": "62",
@@ -617,7 +678,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_107_liskam"
+    "charId": "char_107_liskam",
+    "drawerList": "TOKI"
   },
   {
     "number": "63",
@@ -627,7 +689,8 @@
     "colorList": ",,#ffdc2b,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_201_moeshd"
+    "charId": "char_201_moeshd",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "64",
@@ -637,7 +700,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "minos",
-    "charId": "char_163_hpsts"
+    "charId": "char_163_hpsts",
+    "drawerList": "neco"
   },
   {
     "number": "65",
@@ -647,7 +711,8 @@
     "colorList": ",,#7d6eaf,,",
     "rarity": "TIER_5",
     "nation": "siracusa",
-    "charId": "char_145_prove"
+    "charId": "char_145_prove",
+    "drawerList": "渣念"
   },
   {
     "number": "66",
@@ -657,7 +722,8 @@
     "colorList": ",,#969570,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_158_milu"
+    "charId": "char_158_milu",
+    "drawerList": "aZLing4"
   },
   {
     "number": "67",
@@ -667,7 +733,8 @@
     "colorList": ",,#e8e0d6,,",
     "rarity": "TIER_5",
     "nation": "kjerag",
-    "charId": "char_173_slchan"
+    "charId": "char_173_slchan",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "68",
@@ -677,7 +744,8 @@
     "colorList": ",,#e8e0d6,,",
     "rarity": "TIER_5",
     "nation": "kjerag",
-    "charId": "char_174_slbell"
+    "charId": "char_174_slbell",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "69",
@@ -687,7 +755,8 @@
     "colorList": ",,#24b2b3,,",
     "rarity": "TIER_5",
     "nation": "ursus",
-    "charId": "char_195_glassb"
+    "charId": "char_195_glassb",
+    "drawerList": "Skade"
   },
   {
     "number": "70",
@@ -697,7 +766,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_101_sora"
+    "charId": "char_101_sora",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "71",
@@ -707,7 +777,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_215_mantic"
+    "charId": "char_215_mantic",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "72",
@@ -717,7 +788,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_241_panda"
+    "charId": "char_241_panda",
+    "drawerList": "RAN"
   },
   {
     "number": "73",
@@ -727,7 +799,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "lungmen",
-    "charId": "char_103_angel"
+    "charId": "char_103_angel",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "74",
@@ -737,7 +810,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "victoria",
-    "charId": "char_112_siege"
+    "charId": "char_112_siege",
+    "drawerList": "Infukun"
   },
   {
     "number": "75",
@@ -747,7 +821,8 @@
     "colorList": ",,#ffdc2b,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_134_ifrit"
+    "charId": "char_134_ifrit",
+    "drawerList": "NoriZC"
   },
   {
     "number": "76",
@@ -757,7 +832,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "leithanien",
-    "charId": "char_180_amgoat"
+    "charId": "char_180_amgoat",
+    "drawerList": "Anmi"
   },
   {
     "number": "77",
@@ -767,7 +843,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "siracusa",
-    "charId": "char_291_aglina"
+    "charId": "char_291_aglina",
+    "drawerList": "LM7"
   },
   {
     "number": "78",
@@ -777,7 +854,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_6",
     "nation": "null",
-    "charId": "char_147_shining"
+    "charId": "char_147_shining",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "79",
@@ -787,7 +865,8 @@
     "colorList": ",,#e8e0d6,,",
     "rarity": "TIER_6",
     "nation": "null",
-    "charId": "char_179_cgbird"
+    "charId": "char_179_cgbird",
+    "drawerList": "Skade"
   },
   {
     "number": "80",
@@ -797,7 +876,8 @@
     "colorList": ",,#58b198,,",
     "rarity": "TIER_6",
     "nation": "lungmen",
-    "charId": "char_136_hsguma"
+    "charId": "char_136_hsguma",
+    "drawerList": "Infukun"
   },
   {
     "number": "81",
@@ -807,7 +887,8 @@
     "colorList": ",,#ffdc2b,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_202_demkni"
+    "charId": "char_202_demkni",
+    "drawerList": "NoriZC"
   },
   {
     "number": "82",
@@ -817,7 +898,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_6",
     "nation": "kjerag",
-    "charId": "char_172_svrash"
+    "charId": "char_172_svrash",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "83",
@@ -827,7 +909,8 @@
     "colorList": ",,#ababab,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_230_savage"
+    "charId": "char_230_savage",
+    "drawerList": "TOKI"
   },
   {
     "number": "84",
@@ -837,7 +920,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_282_catap"
+    "charId": "char_282_catap",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "85",
@@ -847,7 +931,8 @@
     "colorList": ",,#ff94a9,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_283_midn"
+    "charId": "char_283_midn",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "86",
@@ -857,7 +942,8 @@
     "colorList": ",,#ffdc2b,,",
     "rarity": "TIER_4",
     "nation": "ursus",
-    "charId": "char_137_brownb"
+    "charId": "char_137_brownb",
+    "drawerList": "toast"
   },
   {
     "number": "87",
@@ -867,7 +953,8 @@
     "colorList": ",,#ffdc2b,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_164_nightm"
+    "charId": "char_164_nightm",
+    "drawerList": "Lpip"
   },
   {
     "number": "88",
@@ -877,7 +964,8 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_220_grani"
+    "charId": "char_220_grani",
+    "drawerList": "alchemaniac"
   },
   {
     "number": "89",
@@ -887,7 +975,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "egir",
-    "charId": "char_263_skadi"
+    "charId": "char_263_skadi",
+    "drawerList": "alchemaniac"
   },
   {
     "number": "90",
@@ -897,7 +986,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_281_popka"
+    "charId": "char_281_popka",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "91",
@@ -907,7 +997,8 @@
     "colorList": ",,#9fa2a3,,",
     "rarity": "TIER_3",
     "nation": "rhodes",
-    "charId": "char_284_spot"
+    "charId": "char_284_spot",
+    "drawerList": "阿鬼"
   },
   {
     "number": "92",
@@ -917,7 +1008,8 @@
     "colorList": ",,#bd8936,,",
     "rarity": "TIER_4",
     "nation": "bolivar",
-    "charId": "char_253_greyy"
+    "charId": "char_253_greyy",
+    "drawerList": "我妻洛酱"
   },
   {
     "number": "93",
@@ -927,7 +1019,8 @@
     "colorList": ",,#f77b36,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_308_swire"
+    "charId": "char_308_swire",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "94",
@@ -937,7 +1030,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "lungmen",
-    "charId": "char_010_chen"
+    "charId": "char_010_chen",
+    "drawerList": "唯@W"
   },
   {
     "number": "95",
@@ -947,7 +1041,8 @@
     "colorList": ",,#f4b5a8,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_298_susuro"
+    "charId": "char_298_susuro",
+    "drawerList": "将"
   },
   {
     "number": "96",
@@ -957,7 +1052,8 @@
     "colorList": ",,#0075a9,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_348_ceylon"
+    "charId": "char_348_ceylon",
+    "drawerList": "Skade"
   },
   {
     "number": "97",
@@ -967,7 +1063,8 @@
     "colorList": ",,#001bc5,,",
     "rarity": "TIER_5",
     "nation": "iberia",
-    "charId": "char_326_glacus"
+    "charId": "char_326_glacus",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "98",
@@ -977,7 +1074,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_340_shwaz"
+    "charId": "char_340_shwaz",
+    "drawerList": "Liduke"
   },
   {
     "number": "99",
@@ -987,7 +1085,8 @@
     "colorList": ",,#ffe400,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_151_myrtle"
+    "charId": "char_151_myrtle",
+    "drawerList": "咩煲"
   },
   {
     "number": "100",
@@ -997,7 +1096,8 @@
     "colorList": ",,#033f8f,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_274_astesi"
+    "charId": "char_274_astesi",
+    "drawerList": "YUJI"
   },
   {
     "number": "101",
@@ -1007,7 +1107,8 @@
     "colorList": ",,#a5a5a5,,",
     "rarity": "TIER_6",
     "nation": "ursus",
-    "charId": "char_188_helage"
+    "charId": "char_188_helage",
+    "drawerList": "Liduke"
   },
   {
     "number": "102",
@@ -1017,7 +1118,8 @@
     "colorList": ",,#692a84,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_260_durnar"
+    "charId": "char_260_durnar",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "103",
@@ -1027,7 +1129,8 @@
     "colorList": ",,#fd7a3f,,",
     "rarity": "TIER_4",
     "nation": "siracusa",
-    "charId": "char_190_clour"
+    "charId": "char_190_clour",
+    "drawerList": "KENTllaall"
   },
   {
     "number": "104",
@@ -1037,7 +1140,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_131_flameb"
+    "charId": "char_131_flameb",
+    "drawerList": "虎三"
   },
   {
     "number": "105",
@@ -1047,7 +1151,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "laterano",
-    "charId": "char_279_excu"
+    "charId": "char_279_excu",
+    "drawerList": "Skade"
   },
   {
     "number": "106",
@@ -1057,7 +1162,8 @@
     "colorList": ",,#ffd800,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_248_mgllan"
+    "charId": "char_248_mgllan",
+    "drawerList": "NoriZC"
   },
   {
     "number": "107",
@@ -1067,7 +1173,8 @@
     "colorList": ",,#6fddcb,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_355_ethan"
+    "charId": "char_355_ethan",
+    "drawerList": "阿鬼"
   },
   {
     "number": "108",
@@ -1077,7 +1184,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_275_breeze"
+    "charId": "char_275_breeze",
+    "drawerList": "藻"
   },
   {
     "number": "109",
@@ -1087,7 +1195,8 @@
     "colorList": ",,#fd7a3f,,",
     "rarity": "TIER_4",
     "nation": "victoria",
-    "charId": "char_133_mm"
+    "charId": "char_133_mm",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "110",
@@ -1097,7 +1206,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_325_bison"
+    "charId": "char_325_bison",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "111",
@@ -1107,7 +1217,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_243_waaifu"
+    "charId": "char_243_waaifu",
+    "drawerList": "KuroBlood"
   },
   {
     "number": "112",
@@ -1117,7 +1228,8 @@
     "colorList": ",,#004986,,",
     "rarity": "TIER_6",
     "nation": "laterano",
-    "charId": "char_213_mostma"
+    "charId": "char_213_mostma",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "113",
@@ -1127,7 +1239,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_261_sddrag"
+    "charId": "char_261_sddrag",
+    "drawerList": "STAR影法师"
   },
   {
     "number": "114",
@@ -1137,7 +1250,8 @@
     "colorList": ",,#e19f00,,",
     "rarity": "TIER_5",
     "nation": "siracusa",
-    "charId": "char_356_broca"
+    "charId": "char_356_broca",
+    "drawerList": "Infukun"
   },
   {
     "number": "115",
@@ -1147,7 +1261,8 @@
     "colorList": ",,#f29c9f,,",
     "rarity": "TIER_4",
     "nation": "laterano",
-    "charId": "char_302_glaze"
+    "charId": "char_302_glaze",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "116",
@@ -1157,7 +1272,8 @@
     "colorList": ",,#13b5b1,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_367_swllow"
+    "charId": "char_367_swllow",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "117",
@@ -1167,7 +1283,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_017_huang"
+    "charId": "char_017_huang",
+    "drawerList": "唯@W"
   },
   {
     "number": "118",
@@ -1177,7 +1294,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_383_snsant"
+    "charId": "char_383_snsant",
+    "drawerList": "NoriZC"
   },
   {
     "number": "119",
@@ -1187,7 +1305,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "lungmen",
-    "charId": "char_226_hmau"
+    "charId": "char_226_hmau",
+    "drawerList": "KuroBlood"
   },
   {
     "number": "120",
@@ -1197,7 +1316,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "lungmen",
-    "charId": "char_225_haak"
+    "charId": "char_225_haak",
+    "drawerList": "KuroBlood"
   },
   {
     "number": "121",
@@ -1207,7 +1327,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "yan",
-    "charId": "char_2014_nian"
+    "charId": "char_2014_nian",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "122",
@@ -1217,7 +1338,8 @@
     "colorList": ",,#dcca64,,",
     "rarity": "TIER_5",
     "nation": "yan",
-    "charId": "char_306_leizi"
+    "charId": "char_306_leizi",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "123",
@@ -1227,7 +1349,8 @@
     "colorList": ",,#f49800,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_2013_cerber"
+    "charId": "char_2013_cerber",
+    "drawerList": "LM7"
   },
   {
     "number": "124",
@@ -1237,7 +1360,8 @@
     "colorList": ",,#34b6ef,,",
     "rarity": "TIER_4",
     "nation": "yan",
-    "charId": "char_385_finlpp"
+    "charId": "char_385_finlpp",
+    "drawerList": "唯@W"
   },
   {
     "number": "125",
@@ -1247,7 +1371,8 @@
     "colorList": ",,#b575f6,,",
     "rarity": "TIER_4",
     "nation": "higashi",
-    "charId": "char_337_utage"
+    "charId": "char_337_utage",
+    "drawerList": "釜飯轟々丸"
   },
   {
     "number": "126",
@@ -1257,7 +1382,8 @@
     "colorList": ",,#79cdc3,,",
     "rarity": "TIER_5",
     "nation": "sami",
-    "charId": "char_252_bibeak"
+    "charId": "char_252_bibeak",
+    "drawerList": "RAYVON"
   },
   {
     "number": "127",
@@ -1267,7 +1393,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_379_sesa"
+    "charId": "char_379_sesa",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "128",
@@ -1277,7 +1404,8 @@
     "colorList": ",,#fd7a3f,,",
     "rarity": "TIER_6",
     "nation": "victoria",
-    "charId": "char_222_bpipe"
+    "charId": "char_222_bpipe",
+    "drawerList": "u介"
   },
   {
     "number": "129",
@@ -1287,7 +1415,8 @@
     "colorList": ",,#017ac3,,",
     "rarity": "TIER_4",
     "nation": "minos",
-    "charId": "char_159_peacok"
+    "charId": "char_159_peacok",
+    "drawerList": "TOMATO"
   },
   {
     "number": "130",
@@ -1297,7 +1426,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_301_cutter"
+    "charId": "char_301_cutter",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "131",
@@ -1307,7 +1437,8 @@
     "colorList": ",,#81c7cf,,",
     "rarity": "TIER_5",
     "nation": "minos",
-    "charId": "char_333_sidero"
+    "charId": "char_333_sidero",
+    "drawerList": "将"
   },
   {
     "number": "132",
@@ -1317,7 +1448,8 @@
     "colorList": ",,#c67e97,,",
     "rarity": "TIER_5",
     "nation": "siracusa",
-    "charId": "char_254_vodfox"
+    "charId": "char_254_vodfox",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "133",
@@ -1327,7 +1459,8 @@
     "colorList": ",,#1c1b1c,,",
     "rarity": "TIER_6",
     "nation": "victoria",
-    "charId": "char_250_phatom"
+    "charId": "char_250_phatom",
+    "drawerList": "Skade"
   },
   {
     "number": "134",
@@ -1337,7 +1470,8 @@
     "colorList": ",,#f2ed2c,,",
     "rarity": "TIER_1",
     "nation": "rhodes",
-    "charId": "char_376_therex"
+    "charId": "char_376_therex",
+    "drawerList": "TOKI"
   },
   {
     "number": "135",
@@ -1347,7 +1481,8 @@
     "colorList": ",,#148bbb,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_401_elysm"
+    "charId": "char_401_elysm",
+    "drawerList": "Skade"
   },
   {
     "number": "136",
@@ -1357,7 +1492,8 @@
     "colorList": ",,#f8d65a,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_400_weedy"
+    "charId": "char_400_weedy",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "137",
@@ -1367,7 +1503,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "null",
-    "charId": "char_113_cqbw"
+    "charId": "char_113_cqbw",
+    "drawerList": "Liduke"
   },
   {
     "number": "138",
@@ -1377,7 +1514,8 @@
     "colorList": ",,#f7b81b,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_378_asbest"
+    "charId": "char_378_asbest",
+    "drawerList": "TEAM EXPNDR"
   },
   {
     "number": "139",
@@ -1387,7 +1525,8 @@
     "colorList": ",,#314fa7,,",
     "rarity": "TIER_5",
     "nation": "higashi",
-    "charId": "char_343_tknogi"
+    "charId": "char_343_tknogi",
+    "drawerList": "上埜"
   },
   {
     "number": "140",
@@ -1397,7 +1536,8 @@
     "colorList": ",,#126d75,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_258_podego"
+    "charId": "char_258_podego",
+    "drawerList": "アシマ"
   },
   {
     "number": "141",
@@ -1407,7 +1547,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "ursus",
-    "charId": "char_405_absin"
+    "charId": "char_405_absin",
+    "drawerList": "aZLing4"
   },
   {
     "number": "142",
@@ -1417,7 +1558,8 @@
     "colorList": ",,#17ab9e,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_373_lionhd"
+    "charId": "char_373_lionhd",
+    "drawerList": "野崎つばた"
   },
   {
     "number": "143",
@@ -1427,7 +1569,8 @@
     "colorList": ",,#0d6ea8,,",
     "rarity": "TIER_6",
     "nation": "ursus",
-    "charId": "char_197_poca"
+    "charId": "char_197_poca",
+    "drawerList": "Skade"
   },
   {
     "number": "144",
@@ -1437,7 +1580,8 @@
     "colorList": ",,#e1dc15,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_328_cammou"
+    "charId": "char_328_cammou",
+    "drawerList": "れおえん"
   },
   {
     "number": "145",
@@ -1447,7 +1591,8 @@
     "colorList": ",,#3cddf0,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_345_folnic"
+    "charId": "char_345_folnic",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "146",
@@ -1457,7 +1602,8 @@
     "colorList": ",,#ffcd3c,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_294_ayer"
+    "charId": "char_294_ayer",
+    "drawerList": "NoriZC"
   },
   {
     "number": "147",
@@ -1467,7 +1613,8 @@
     "colorList": ",,#4b77b5,,",
     "rarity": "TIER_6",
     "nation": "siracusa",
-    "charId": "char_358_lisa"
+    "charId": "char_358_lisa",
+    "drawerList": "将"
   },
   {
     "number": "148",
@@ -1477,7 +1624,8 @@
     "colorList": ",,#dceb00,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_336_folivo"
+    "charId": "char_336_folivo",
+    "drawerList": "アシマ"
   },
   {
     "number": "149",
@@ -1487,7 +1635,8 @@
     "colorList": ",,#dba31e,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_344_beewax"
+    "charId": "char_344_beewax",
+    "drawerList": "カワグチ"
   },
   {
     "number": "150",
@@ -1497,7 +1646,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "siracusa",
-    "charId": "char_349_chiave"
+    "charId": "char_349_chiave",
+    "drawerList": "Infukun"
   },
   {
     "number": "151",
@@ -1507,7 +1657,8 @@
     "colorList": ",,#899097,,",
     "rarity": "TIER_4",
     "nation": "lungmen",
-    "charId": "char_272_strong"
+    "charId": "char_272_strong",
+    "drawerList": "阿鬼"
   },
   {
     "number": "152",
@@ -1517,7 +1668,8 @@
     "colorList": ",,#5b4d9b,,",
     "rarity": "TIER_5",
     "nation": "egir",
-    "charId": "char_218_cuttle"
+    "charId": "char_218_cuttle",
+    "drawerList": "LLC"
   },
   {
     "number": "153",
@@ -1527,7 +1679,8 @@
     "colorList": ",,#ffa905,,",
     "rarity": "TIER_6",
     "nation": "iberia",
-    "charId": "char_293_thorns"
+    "charId": "char_293_thorns",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "154",
@@ -1537,7 +1690,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_366_acdrop"
+    "charId": "char_366_acdrop",
+    "drawerList": "Lanzi"
   },
   {
     "number": "155",
@@ -1547,7 +1701,8 @@
     "colorList": ",,#4a7447,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_411_tomimi"
+    "charId": "char_411_tomimi",
+    "drawerList": "Chuzenji"
   },
   {
     "number": "156",
@@ -1557,7 +1712,8 @@
     "colorList": ",,#409691,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_415_flint"
+    "charId": "char_415_flint",
+    "drawerList": "aZLing4"
   },
   {
     "number": "157",
@@ -1567,7 +1723,8 @@
     "colorList": ",,#edc94a,,",
     "rarity": "TIER_6",
     "nation": "sargon",
-    "charId": "char_416_zumama"
+    "charId": "char_416_zumama",
+    "drawerList": "Liduke"
   },
   {
     "number": "158",
@@ -1577,7 +1734,8 @@
     "colorList": ",,#c2e468,,",
     "rarity": "TIER_4",
     "nation": "laterano",
-    "charId": "char_271_spikes"
+    "charId": "char_271_spikes",
+    "drawerList": "umo_yszx"
   },
   {
     "number": "159",
@@ -1587,7 +1745,8 @@
     "colorList": ",,#7cc6bd,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_388_mint"
+    "charId": "char_388_mint",
+    "drawerList": "ヌードル"
   },
   {
     "number": "160",
@@ -1597,7 +1756,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_365_aprl"
+    "charId": "char_365_aprl",
+    "drawerList": "れおえん"
   },
   {
     "number": "161",
@@ -1607,7 +1767,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_350_surtr"
+    "charId": "char_350_surtr",
+    "drawerList": "Ask"
   },
   {
     "number": "162",
@@ -1617,7 +1778,8 @@
     "colorList": ",,#be9d8f,,",
     "rarity": "TIER_4",
     "nation": "sargon",
-    "charId": "char_381_bubble"
+    "charId": "char_381_bubble",
+    "drawerList": "Cenm0"
   },
   {
     "number": "163",
@@ -1627,7 +1789,8 @@
     "colorList": ",,#8c6653,,",
     "rarity": "TIER_5",
     "nation": "kazimierz",
-    "charId": "char_265_sophia"
+    "charId": "char_265_sophia",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "164",
@@ -1637,7 +1800,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "siracusa",
-    "charId": "char_346_aosta"
+    "charId": "char_346_aosta",
+    "drawerList": "Infukun"
   },
   {
     "number": "165",
@@ -1647,7 +1811,8 @@
     "colorList": ",,#d9bea4,,",
     "rarity": "TIER_6",
     "nation": "kazimierz",
-    "charId": "char_423_blemsh"
+    "charId": "char_423_blemsh",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "166",
@@ -1657,7 +1822,8 @@
     "colorList": ",,#ffba00,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_347_jaksel"
+    "charId": "char_347_jaksel",
+    "drawerList": "Nagu"
   },
   {
     "number": "167",
@@ -1667,7 +1833,8 @@
     "colorList": ",,#422ffe,,",
     "rarity": "TIER_5",
     "nation": "iberia",
-    "charId": "char_436_whispr"
+    "charId": "char_436_whispr",
+    "drawerList": "Chuzenji"
   },
   {
     "number": "168",
@@ -1677,7 +1844,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_311_mudrok"
+    "charId": "char_311_mudrok",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "169",
@@ -1687,17 +1855,19 @@
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_391_rosmon"
+    "charId": "char_391_rosmon",
+    "drawerList": "唯@W"
   },
   {
     "number": "170",
     "operator": "阿米娅(近卫)",
     "appellation": "Amiya",
-    "plannerId": "amiyaguard",
+    "plannerId": "amiyaguard0",
     "colorList": ",,#0098dc,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_1001_amiya2"
+    "charId": "char_1001_amiya2",
+    "drawerList": "唯@W"
   },
   {
     "number": "171",
@@ -1707,7 +1877,8 @@
     "colorList": ",,#ff652e,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_440_pinecn"
+    "charId": "char_440_pinecn",
+    "drawerList": "TrNyteal"
   },
   {
     "number": "172",
@@ -1717,7 +1888,8 @@
     "colorList": ",,#86733e,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_451_robin"
+    "charId": "char_451_robin",
+    "drawerList": "aZLing4"
   },
   {
     "number": "173",
@@ -1727,7 +1899,8 @@
     "colorList": ",,#3fd2bc,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_214_kafka"
+    "charId": "char_214_kafka",
+    "drawerList": "NoriZC"
   },
   {
     "number": "174",
@@ -1737,7 +1910,8 @@
     "colorList": ",,#8f1b00,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_264_f12yin"
+    "charId": "char_264_f12yin",
+    "drawerList": "WincalBlanke"
   },
   {
     "number": "175",
@@ -1747,7 +1921,8 @@
     "colorList": ",,#afc844,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_452_bstalk"
+    "charId": "char_452_bstalk",
+    "drawerList": "一千"
   },
   {
     "number": "176",
@@ -1757,7 +1932,8 @@
     "colorList": ",,#6fcae4,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_338_iris"
+    "charId": "char_338_iris",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "177",
@@ -1767,7 +1943,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "laterano",
-    "charId": "char_332_archet"
+    "charId": "char_332_archet",
+    "drawerList": "alchemaniac"
   },
   {
     "number": "178",
@@ -1777,7 +1954,8 @@
     "colorList": ",,#cea249,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_402_tuye"
+    "charId": "char_402_tuye",
+    "drawerList": "aZLing4"
   },
   {
     "number": "179",
@@ -1787,7 +1965,8 @@
     "colorList": ",,#99285d,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_1011_lava2"
+    "charId": "char_1011_lava2",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "180",
@@ -1797,7 +1976,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "yan",
-    "charId": "char_455_nothin"
+    "charId": "char_455_nothin",
+    "drawerList": "Skade"
   },
   {
     "number": "181",
@@ -1807,7 +1987,8 @@
     "colorList": ",,#c32826,,",
     "rarity": "TIER_6",
     "nation": "higashi",
-    "charId": "char_362_saga"
+    "charId": "char_362_saga",
+    "drawerList": "多元菌"
   },
   {
     "number": "182",
@@ -1817,7 +1998,8 @@
     "colorList": ",,#00bec8,,",
     "rarity": "TIER_6",
     "nation": "yan",
-    "charId": "char_2015_dusk"
+    "charId": "char_2015_dusk",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "183",
@@ -1827,7 +2009,8 @@
     "colorList": ",,#4864b1,,",
     "rarity": "TIER_5",
     "nation": "null",
-    "charId": "char_459_tachak"
+    "charId": "char_459_tachak",
+    "drawerList": "Ubisoft"
   },
   {
     "number": "184",
@@ -1837,7 +2020,8 @@
     "colorList": ",,#ff6a2f,,",
     "rarity": "TIER_5",
     "nation": "null",
-    "charId": "char_457_blitz"
+    "charId": "char_457_blitz",
+    "drawerList": "Ubisoft"
   },
   {
     "number": "185",
@@ -1847,7 +2031,8 @@
     "colorList": ",,#ce4569,,",
     "rarity": "TIER_5",
     "nation": "null",
-    "charId": "char_458_rfrost"
+    "charId": "char_458_rfrost",
+    "drawerList": "Ubisoft"
   },
   {
     "number": "186",
@@ -1857,7 +2042,8 @@
     "colorList": ",,#ff4c3d,,",
     "rarity": "TIER_6",
     "nation": "null",
-    "charId": "char_456_ash"
+    "charId": "char_456_ash",
+    "drawerList": "Ubisoft"
   },
   {
     "number": "187",
@@ -1867,7 +2053,8 @@
     "colorList": ",,#9e9d72,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_304_zebra"
+    "charId": "char_304_zebra",
+    "drawerList": "aZLing4"
   },
   {
     "number": "188",
@@ -1877,7 +2064,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_363_toddi"
+    "charId": "char_363_toddi",
+    "drawerList": "山×2"
   },
   {
     "number": "189",
@@ -1887,7 +2075,8 @@
     "colorList": ",,#f7bd7d,,",
     "rarity": "TIER_6",
     "nation": "sargon",
-    "charId": "char_472_pasngr"
+    "charId": "char_472_pasngr",
+    "drawerList": "Skade"
   },
   {
     "number": "190",
@@ -1897,7 +2086,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_5",
     "nation": "higashi",
-    "charId": "char_475_akafyu"
+    "charId": "char_475_akafyu",
+    "drawerList": "熊太"
   },
   {
     "number": "191",
@@ -1907,7 +2097,8 @@
     "colorList": ",,,,",
     "rarity": "TIER_6",
     "nation": "egir",
-    "charId": "char_474_glady"
+    "charId": "char_474_glady",
+    "drawerList": "Chuzenji"
   },
   {
     "number": "192",
@@ -1917,7 +2108,8 @@
     "colorList": ",,#c1f42e,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_003_kalts"
+    "charId": "char_003_kalts",
+    "drawerList": "唯@W"
   },
   {
     "number": "193",
@@ -1927,7 +2119,8 @@
     "colorList": ",,#03f9fc,,",
     "rarity": "TIER_6",
     "nation": "egir",
-    "charId": "char_1012_skadi2"
+    "charId": "char_1012_skadi2",
+    "drawerList": "alchemaniac"
   },
   {
     "number": "194",
@@ -1937,7 +2130,8 @@
     "colorList": ",,#9b61ea,,",
     "rarity": "TIER_4",
     "nation": "iberia",
-    "charId": "char_469_indigo"
+    "charId": "char_469_indigo",
+    "drawerList": "织布机loom"
   },
   {
     "number": "195",
@@ -1947,7 +2141,8 @@
     "colorList": ",,#56af99,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_369_bena"
+    "charId": "char_369_bena",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "196",
@@ -1957,7 +2152,8 @@
     "colorList": ",,#4dcff4,,",
     "rarity": "TIER_5",
     "nation": "higashi",
-    "charId": "char_478_kirara"
+    "charId": "char_478_kirara",
+    "drawerList": "我妻洛酱"
   },
   {
     "number": "197",
@@ -1967,7 +2163,8 @@
     "colorList": ",,#f6891a,,",
     "rarity": "TIER_6",
     "nation": "leithanien",
-    "charId": "char_426_billro"
+    "charId": "char_426_billro",
+    "drawerList": "カワグチ"
   },
   {
     "number": "198",
@@ -1977,7 +2174,8 @@
     "colorList": ",,#625fd0,,",
     "rarity": "TIER_6",
     "nation": "minos",
-    "charId": "char_485_pallas"
+    "charId": "char_485_pallas",
+    "drawerList": "aZLing4"
   },
   {
     "number": "199",
@@ -1987,7 +2185,8 @@
     "colorList": ",,#ffe400,,",
     "rarity": "TIER_5",
     "nation": "bolivar",
-    "charId": "char_486_takila"
+    "charId": "char_486_takila",
+    "drawerList": "一千"
   },
   {
     "number": "200",
@@ -1997,7 +2196,8 @@
     "colorList": ",,#4fbe3b,,",
     "rarity": "TIER_5",
     "nation": "bolivar",
-    "charId": "char_421_crow"
+    "charId": "char_421_crow",
+    "drawerList": "LAL!ROLE"
   },
   {
     "number": "201",
@@ -2007,7 +2207,8 @@
     "colorList": ",,#bd2c6e,,",
     "rarity": "TIER_6",
     "nation": "higashi",
-    "charId": "char_437_mizuki"
+    "charId": "char_437_mizuki",
+    "drawerList": "Namie"
   },
   {
     "number": "202",
@@ -2017,7 +2218,8 @@
     "colorList": ",,#f75e86,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_1013_chen2"
+    "charId": "char_1013_chen2",
+    "drawerList": "唯@W"
   },
   {
     "number": "203",
@@ -2027,7 +2229,8 @@
     "colorList": ",,#c1706f,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_484_robrta"
+    "charId": "char_484_robrta",
+    "drawerList": "IRIS_呓"
   },
   {
     "number": "204",
@@ -2037,7 +2240,8 @@
     "colorList": ",,#da2542,,",
     "rarity": "TIER_5",
     "nation": "yan",
-    "charId": "char_473_mberry"
+    "charId": "char_473_mberry",
+    "drawerList": "Jacknife"
   },
   {
     "number": "205",
@@ -2047,7 +2251,8 @@
     "colorList": ",,#71ddd4,,",
     "rarity": "TIER_6",
     "nation": "victoria",
-    "charId": "char_479_sleach"
+    "charId": "char_479_sleach",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "206",
@@ -2057,7 +2262,8 @@
     "colorList": ",,#3796b1,,",
     "rarity": "TIER_5",
     "nation": "kazimierz",
-    "charId": "char_431_ashlok"
+    "charId": "char_431_ashlok",
+    "drawerList": "NoriZC"
   },
   {
     "number": "207",
@@ -2067,7 +2273,8 @@
     "colorList": ",,#888c5e,,",
     "rarity": "TIER_6",
     "nation": "kazimierz",
-    "charId": "char_430_fartth"
+    "charId": "char_430_fartth",
+    "drawerList": "NoriZC"
   },
   {
     "number": "208",
@@ -2077,7 +2284,8 @@
     "colorList": ",,#4bb6cc,,",
     "rarity": "TIER_1",
     "nation": "kazimierz",
-    "charId": "char_4000_jnight"
+    "charId": "char_4000_jnight",
+    "drawerList": "NoriZC"
   },
   {
     "number": "209",
@@ -2087,7 +2295,8 @@
     "colorList": ",,#ffb4be,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_4004_pudd"
+    "charId": "char_4004_pudd",
+    "drawerList": "折射镜"
   },
   {
     "number": "210",
@@ -2097,7 +2306,8 @@
     "colorList": ",,#61ffe9,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_449_glider"
+    "charId": "char_449_glider",
+    "drawerList": "Liyu黎"
   },
   {
     "number": "211",
@@ -2107,7 +2317,8 @@
     "colorList": ",,#4bb6cc,,",
     "rarity": "TIER_5",
     "nation": "kazimierz",
-    "charId": "char_496_wildmn"
+    "charId": "char_496_wildmn",
+    "drawerList": "NoriZC"
   },
   {
     "number": "212",
@@ -2117,7 +2328,8 @@
     "colorList": ",,#fcbd4d,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_489_serum"
+    "charId": "char_489_serum",
+    "drawerList": "Jacknife"
   },
   {
     "number": "213",
@@ -2127,7 +2339,8 @@
     "colorList": ",,#d54e38,,",
     "rarity": "TIER_6",
     "nation": "kazimierz",
-    "charId": "char_420_flamtl"
+    "charId": "char_420_flamtl",
+    "drawerList": "NoriZC"
   },
   {
     "number": "214",
@@ -2137,7 +2350,8 @@
     "colorList": ",,#ff9346,,",
     "rarity": "TIER_6",
     "nation": "kazimierz",
-    "charId": "char_1014_nearl2"
+    "charId": "char_1014_nearl2",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "215",
@@ -2147,7 +2361,8 @@
     "colorList": ",,#0c41ab,,",
     "rarity": "TIER_5",
     "nation": "kjerag",
-    "charId": "char_4013_kjera"
+    "charId": "char_4013_kjera",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "216",
@@ -2157,7 +2372,8 @@
     "colorList": ",,#3fbcd0,,",
     "rarity": "TIER_5",
     "nation": "kjerag",
-    "charId": "char_422_aurora"
+    "charId": "char_422_aurora",
+    "drawerList": "LAL!ROLE"
   },
   {
     "number": "217",
@@ -2167,7 +2383,8 @@
     "colorList": ",,#599aff,,",
     "rarity": "TIER_6",
     "nation": "kjerag",
-    "charId": "char_206_gnosis"
+    "charId": "char_206_gnosis",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "218",
@@ -2177,7 +2394,8 @@
     "colorList": ",,#3c3460,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_4025_aprot2"
+    "charId": "char_4025_aprot2",
+    "drawerList": "Cenm0"
   },
   {
     "number": "219",
@@ -2187,7 +2405,8 @@
     "colorList": ",,#7d3124,,",
     "rarity": "TIER_5",
     "nation": "yan",
-    "charId": "char_4019_ncdeer"
+    "charId": "char_4019_ncdeer",
+    "drawerList": "IRIS_呓"
   },
   {
     "number": "220",
@@ -2197,7 +2416,8 @@
     "colorList": ",#505050,#ffb240,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_1021_kroos2"
+    "charId": "char_1021_kroos2",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "221",
@@ -2207,7 +2427,8 @@
     "colorList": ",#201d22,#b9191a,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_476_blkngt"
+    "charId": "char_476_blkngt",
+    "drawerList": "温泉瓜"
   },
   {
     "number": "222",
@@ -2217,7 +2438,8 @@
     "colorList": ",#282c2c,#f8bd38,,",
     "rarity": "TIER_6",
     "nation": "lungmen",
-    "charId": "char_322_lmlee"
+    "charId": "char_322_lmlee",
+    "drawerList": "KuroBlood"
   },
   {
     "number": "223",
@@ -2227,7 +2449,8 @@
     "colorList": ",#272824,#64bbed,,",
     "rarity": "TIER_6",
     "nation": "yan",
-    "charId": "char_2023_ling"
+    "charId": "char_2023_ling",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "224",
@@ -2237,7 +2460,8 @@
     "colorList": ",#281f10,#baa35c,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_492_quercu"
+    "charId": "char_492_quercu",
+    "drawerList": "YUJI"
   },
   {
     "number": "225",
@@ -2247,7 +2471,8 @@
     "colorList": ",#3a2334,#ff78aa,,",
     "rarity": "TIER_6",
     "nation": "victoria",
-    "charId": "char_377_gdglow"
+    "charId": "char_377_gdglow",
+    "drawerList": "Namie"
   },
   {
     "number": "226",
@@ -2257,7 +2482,8 @@
     "colorList": ",,#283241,,",
     "rarity": "TIER_5",
     "nation": "laterano",
-    "charId": "char_4036_forcer"
+    "charId": "char_4036_forcer",
+    "drawerList": "Chuzenji"
   },
   {
     "number": "227",
@@ -2267,7 +2493,8 @@
     "colorList": ",,#e1728a,,",
     "rarity": "TIER_5",
     "nation": "higashi",
-    "charId": "char_4016_kazema"
+    "charId": "char_4016_kazema",
+    "drawerList": "温泉瓜"
   },
   {
     "number": "228",
@@ -2277,7 +2504,8 @@
     "colorList": ",,#85302d,,",
     "rarity": "TIER_6",
     "nation": "laterano",
-    "charId": "char_300_phenxi"
+    "charId": "char_300_phenxi",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "229",
@@ -2287,7 +2515,8 @@
     "colorList": ",,#ffdd2a,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_4041_chnut"
+    "charId": "char_4041_chnut",
+    "drawerList": "树豚"
   },
   {
     "number": "230",
@@ -2297,7 +2526,8 @@
     "colorList": ",,#af3227,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_4045_heidi"
+    "charId": "char_4045_heidi",
+    "drawerList": "熊太"
   },
   {
     "number": "231",
@@ -2307,7 +2537,8 @@
     "colorList": ",,#c47a4d,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_4040_rockr"
+    "charId": "char_4040_rockr",
+    "drawerList": "Cenm0"
   },
   {
     "number": "232",
@@ -2317,7 +2548,8 @@
     "colorList": ",,#be7f4e,,",
     "rarity": "TIER_6",
     "nation": "victoria",
-    "charId": "char_4039_horn"
+    "charId": "char_4039_horn",
+    "drawerList": "m9nokuro"
   },
   {
     "number": "233",
@@ -2327,7 +2559,8 @@
     "colorList": ",,#f1eb1e,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_433_windft"
+    "charId": "char_433_windft",
+    "drawerList": "nineo"
   },
   {
     "number": "234",
@@ -2337,7 +2570,8 @@
     "colorList": ",,#115e89,,",
     "rarity": "TIER_6",
     "nation": "iberia",
-    "charId": "char_4042_lumen"
+    "charId": "char_4042_lumen",
+    "drawerList": "一千"
   },
   {
     "number": "235",
@@ -2347,7 +2581,8 @@
     "colorList": ",,#a27381,,",
     "rarity": "TIER_6",
     "nation": "iberia",
-    "charId": "char_4009_irene"
+    "charId": "char_4009_irene",
+    "drawerList": "aZLing4"
   },
   {
     "number": "236",
@@ -2357,7 +2592,8 @@
     "colorList": ",,#189cd8,,",
     "rarity": "TIER_6",
     "nation": "egir",
-    "charId": "char_1023_ghost2"
+    "charId": "char_1023_ghost2",
+    "drawerList": "Skade"
   },
   {
     "number": "237",
@@ -2367,7 +2603,8 @@
     "colorList": ",,#799c64,,",
     "rarity": "TIER_5",
     "nation": "minos",
-    "charId": "char_4043_erato"
+    "charId": "char_4043_erato",
+    "drawerList": "温泉瓜"
   },
   {
     "number": "238",
@@ -2377,7 +2614,8 @@
     "colorList": ",,#7b7244,,",
     "rarity": "TIER_5",
     "nation": "leithanien",
-    "charId": "char_4047_pianst"
+    "charId": "char_4047_pianst",
+    "drawerList": "九日九号"
   },
   {
     "number": "239",
@@ -2387,7 +2625,8 @@
     "colorList": ",,#ce3894,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_1024_hbisc2"
+    "charId": "char_1024_hbisc2",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "240",
@@ -2397,7 +2636,8 @@
     "colorList": ",,#ae141d,,",
     "rarity": "TIER_6",
     "nation": "leithanien",
-    "charId": "char_4046_ebnhlz"
+    "charId": "char_4046_ebnhlz",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "241",
@@ -2407,7 +2647,8 @@
     "colorList": ",,#dfbc46,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_135_halo"
+    "charId": "char_135_halo",
+    "drawerList": "YUJI"
   },
   {
     "number": "242",
@@ -2417,7 +2658,8 @@
     "colorList": ",,#ffc807,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_1027_greyy2"
+    "charId": "char_1027_greyy2",
+    "drawerList": "我妻洛酱"
   },
   {
     "number": "243",
@@ -2427,7 +2669,8 @@
     "colorList": ",,#c39f6a,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_4048_doroth"
+    "charId": "char_4048_doroth",
+    "drawerList": "Jacknife"
   },
   {
     "number": "244",
@@ -2437,7 +2680,8 @@
     "colorList": ",,#494f79,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_4054_malist"
+    "charId": "char_4054_malist",
+    "drawerList": "〇亻"
   },
   {
     "number": "245",
@@ -2447,7 +2691,8 @@
     "colorList": ",,#324960,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_497_ctable"
+    "charId": "char_497_ctable",
+    "drawerList": "温泉瓜"
   },
   {
     "number": "246",
@@ -2457,7 +2702,8 @@
     "colorList": ",,#bb575f,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_4055_bgsnow"
+    "charId": "char_4055_bgsnow",
+    "drawerList": "Chuzenji"
   },
   {
     "number": "247",
@@ -2467,7 +2713,8 @@
     "colorList": ",,#517c2c,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_1026_gvial2"
+    "charId": "char_1026_gvial2",
+    "drawerList": "LLC"
   },
   {
     "number": "248",
@@ -2477,7 +2724,8 @@
     "colorList": ",,#6fb586,,",
     "rarity": "TIER_5",
     "nation": "kazimierz",
-    "charId": "char_4032_provs"
+    "charId": "char_4032_provs",
+    "drawerList": "せんむ"
   },
   {
     "number": "249",
@@ -2487,7 +2735,8 @@
     "colorList": ",,#bb9a71,,",
     "rarity": "TIER_6",
     "nation": "kazimierz",
-    "charId": "char_4064_mlynar"
+    "charId": "char_4064_mlynar",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "250",
@@ -2497,7 +2746,8 @@
     "colorList": ",,#b94829,,",
     "rarity": "TIER_4",
     "nation": "yan",
-    "charId": "char_4067_lolxh"
+    "charId": "char_4067_lolxh",
+    "drawerList": "九日九号"
   },
   {
     "number": "251",
@@ -2507,7 +2757,8 @@
     "colorList": ",,#8f73dd,,",
     "rarity": "TIER_5",
     "nation": "iberia",
-    "charId": "char_4066_highmo"
+    "charId": "char_4066_highmo",
+    "drawerList": "Horin"
   },
   {
     "number": "252",
@@ -2517,7 +2768,8 @@
     "colorList": ",,#7ba2af,,",
     "rarity": "TIER_4",
     "nation": "sargon",
-    "charId": "char_4062_totter"
+    "charId": "char_4062_totter",
+    "drawerList": "板板"
   },
   {
     "number": "253",
@@ -2527,7 +2779,8 @@
     "colorList": ",,#bd4745,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_157_dagda"
+    "charId": "char_157_dagda",
+    "drawerList": "Infukun"
   },
   {
     "number": "254",
@@ -2537,7 +2790,8 @@
     "colorList": ",,#c49492,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_4071_peper"
+    "charId": "char_4071_peper",
+    "drawerList": "板板"
   },
   {
     "number": "255",
@@ -2547,7 +2801,8 @@
     "colorList": ",,#91352b,,",
     "rarity": "TIER_6",
     "nation": "victoria",
-    "charId": "char_4072_ironmn"
+    "charId": "char_4072_ironmn",
+    "drawerList": "一千"
   },
   {
     "number": "256",
@@ -2557,7 +2812,8 @@
     "colorList": ",,#882e0a,,",
     "rarity": "TIER_4",
     "nation": "columbia",
-    "charId": "char_4063_quartz"
+    "charId": "char_4063_quartz",
+    "drawerList": "伍秋秋秋秋"
   },
   {
     "number": "257",
@@ -2567,7 +2823,8 @@
     "colorList": ",,#960811,,",
     "rarity": "TIER_5",
     "nation": "sami",
-    "charId": "char_466_qanik"
+    "charId": "char_466_qanik",
+    "drawerList": "三目YYB"
   },
   {
     "number": "258",
@@ -2577,7 +2834,8 @@
     "colorList": ",,#7a4543,,",
     "rarity": "TIER_5",
     "nation": "siracusa",
-    "charId": "char_4014_lunacu"
+    "charId": "char_4014_lunacu",
+    "drawerList": "IRIS_呓"
   },
   {
     "number": "259",
@@ -2587,7 +2845,8 @@
     "colorList": ",,#3c2476,,",
     "rarity": "TIER_6",
     "nation": "siracusa",
-    "charId": "char_427_vigil"
+    "charId": "char_427_vigil",
+    "drawerList": "hou"
   },
   {
     "number": "260",
@@ -2597,7 +2856,8 @@
     "colorList": ",,#ab7e4c,,",
     "rarity": "TIER_6",
     "nation": "siracusa",
-    "charId": "char_4065_judge"
+    "charId": "char_4065_judge",
+    "drawerList": "IRIS_呓"
   },
   {
     "number": "261",
@@ -2607,7 +2867,8 @@
     "colorList": ",,#4747b5,,",
     "rarity": "TIER_6",
     "nation": "lungmen",
-    "charId": "char_1028_texas2"
+    "charId": "char_1028_texas2",
+    "drawerList": "幻象黑兔"
   },
   {
     "number": "262",
@@ -2617,7 +2878,8 @@
     "colorList": ",,#504382,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_4017_puzzle"
+    "charId": "char_4017_puzzle",
+    "drawerList": "kan"
   },
   {
     "number": "263",
@@ -2627,7 +2889,8 @@
     "colorList": ",,#79a794,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_297_hamoni"
+    "charId": "char_297_hamoni",
+    "drawerList": "STAR影法师"
   },
   {
     "number": "264",
@@ -2637,7 +2900,8 @@
     "colorList": ",,#b96636,,",
     "rarity": "TIER_6",
     "nation": "victoria",
-    "charId": "char_1020_reed2"
+    "charId": "char_1020_reed2",
+    "drawerList": "STAR影法师"
   },
   {
     "number": "265",
@@ -2647,7 +2911,8 @@
     "colorList": ",,#488d8d,,",
     "rarity": "TIER_5",
     "nation": "yan",
-    "charId": "char_4078_bdhkgt"
+    "charId": "char_4078_bdhkgt",
+    "drawerList": "伍秋秋秋秋"
   },
   {
     "number": "266",
@@ -2657,7 +2922,8 @@
     "colorList": ",,#df450b,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_493_firwhl"
+    "charId": "char_493_firwhl",
+    "drawerList": "IRIS_呓"
   },
   {
     "number": "267",
@@ -2667,7 +2933,8 @@
     "colorList": ",,#834ada,,",
     "rarity": "TIER_6",
     "nation": "lungmen",
-    "charId": "char_4080_lin"
+    "charId": "char_4080_lin",
+    "drawerList": "三目YYB"
   },
   {
     "number": "268",
@@ -2677,7 +2944,8 @@
     "colorList": ",,#efaa2a,,",
     "rarity": "TIER_6",
     "nation": "yan",
-    "charId": "char_2024_chyue"
+    "charId": "char_2024_chyue",
+    "drawerList": "KuroBlood"
   },
   {
     "number": "269",
@@ -2687,7 +2955,8 @@
     "colorList": ",,#4274a9,,",
     "rarity": "TIER_5",
     "nation": "yan",
-    "charId": "char_4083_chimes"
+    "charId": "char_4083_chimes",
+    "drawerList": "〇亻"
   },
   {
     "number": "270",
@@ -2697,7 +2966,8 @@
     "colorList": ",,#d03739,,",
     "rarity": "TIER_6",
     "nation": "yan",
-    "charId": "char_4082_qiubai"
+    "charId": "char_4082_qiubai",
+    "drawerList": "温泉瓜"
   },
   {
     "number": "271",
@@ -2707,7 +2977,8 @@
     "colorList": ",,#825340,,",
     "rarity": "TIER_1",
     "nation": "rhodes",
-    "charId": "char_4077_palico"
+    "charId": "char_4077_palico",
+    "drawerList": "桃色Miruku"
   },
   {
     "number": "272",
@@ -2717,7 +2988,8 @@
     "colorList": ",,#c8363d,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
-    "charId": "char_1030_noirc2"
+    "charId": "char_1030_noirc2",
+    "drawerList": "九日九号"
   },
   {
     "number": "273",
@@ -2727,7 +2999,8 @@
     "colorList": ",,#d94f31,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_1029_yato2"
+    "charId": "char_1029_yato2",
+    "drawerList": "一千"
   },
   {
     "number": "274",
@@ -2737,7 +3010,8 @@
     "colorList": ",,#c2858c,,",
     "rarity": "TIER_1",
     "nation": "rhodes",
-    "charId": "char_4091_ulika"
+    "charId": "char_4091_ulika",
+    "drawerList": "折射镜"
   },
   {
     "number": "275",
@@ -2747,7 +3021,8 @@
     "colorList": ",,#d89d24,,",
     "rarity": "TIER_4",
     "nation": "rhodes",
-    "charId": "char_491_humus"
+    "charId": "char_491_humus",
+    "drawerList": "我妻洛酱"
   },
   {
     "number": "276",
@@ -2757,7 +3032,8 @@
     "colorList": ",,#d9b338,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_154_morgan"
+    "charId": "char_154_morgan",
+    "drawerList": "Infukun"
   },
   {
     "number": "277",
@@ -2767,7 +3043,8 @@
     "colorList": ",,#f5b429,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_464_cement"
+    "charId": "char_464_cement",
+    "drawerList": "科学"
   },
   {
     "number": "278",
@@ -2777,7 +3054,8 @@
     "colorList": ",,#e03641,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_4087_ines"
+    "charId": "char_4087_ines",
+    "drawerList": "板板"
   },
   {
     "number": "279",
@@ -2787,7 +3065,8 @@
     "colorList": ",,#303093,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_4006_melnte"
+    "charId": "char_4006_melnte",
+    "drawerList": "redjuice"
   },
   {
     "number": "280",
@@ -2797,7 +3076,8 @@
     "colorList": ",,#3297bf,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_1031_slent2"
+    "charId": "char_1031_slent2",
+    "drawerList": "九日九号"
   },
   {
     "number": "281",
@@ -2807,7 +3087,8 @@
     "colorList": ",,#30b2b3,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_4027_heyak"
+    "charId": "char_4027_heyak",
+    "drawerList": "LM7"
   },
   {
     "number": "282",
@@ -2817,7 +3098,8 @@
     "colorList": ",,#bad022,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_249_mlyss"
+    "charId": "char_249_mlyss",
+    "drawerList": "NoriZC"
   },
   {
     "number": "283",
@@ -2827,7 +3109,8 @@
     "colorList": ",,#141414,,",
     "rarity": "TIER_1",
     "nation": "rhodes",
-    "charId": "char_4093_frston"
+    "charId": "char_4093_frston",
+    "drawerList": "过失帝国"
   },
   {
     "number": "284",
@@ -2837,7 +3120,8 @@
     "colorList": ",,#4050b3,,",
     "rarity": "TIER_5",
     "nation": "laterano",
-    "charId": "char_498_inside"
+    "charId": "char_498_inside",
+    "drawerList": "umo_yszx"
   },
   {
     "number": "285",
@@ -2847,7 +3131,8 @@
     "colorList": ",,#f8cbf7,,",
     "rarity": "TIER_5",
     "nation": "laterano",
-    "charId": "char_4015_spuria"
+    "charId": "char_4015_spuria",
+    "drawerList": "おぐち"
   },
   {
     "number": "286",
@@ -2857,7 +3142,8 @@
     "colorList": ",,#c32f3d,,",
     "rarity": "TIER_6",
     "nation": "laterano",
-    "charId": "char_1032_excu2"
+    "charId": "char_1032_excu2",
+    "drawerList": "Skade"
   },
   {
     "number": "287",
@@ -2867,7 +3153,8 @@
     "colorList": ",,#101f74,,",
     "rarity": "TIER_5",
     "nation": "sami",
-    "charId": "char_341_sntlla"
+    "charId": "char_341_sntlla",
+    "drawerList": "Studio Montagne"
   },
   {
     "number": "288",
@@ -2877,7 +3164,8 @@
     "colorList": ",,#b85ab4,,",
     "rarity": "TIER_6",
     "nation": "sami",
-    "charId": "char_2012_typhon"
+    "charId": "char_2012_typhon",
+    "drawerList": "LM7"
   },
   {
     "number": "289",
@@ -2887,7 +3175,8 @@
     "colorList": ",,#63e9fd,,",
     "rarity": "TIER_5",
     "nation": "sami",
-    "charId": "char_4102_threye"
+    "charId": "char_4102_threye",
+    "drawerList": "伍秋秋秋秋"
   },
   {
     "number": "290",
@@ -2897,7 +3186,8 @@
     "colorList": ",,#cf2c19,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_4106_bryota"
+    "charId": "char_4106_bryota",
+    "drawerList": "Cenm0"
   },
   {
     "number": "291",
@@ -2907,7 +3197,8 @@
     "colorList": ",,#69133b,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_488_buildr"
+    "charId": "char_488_buildr",
+    "drawerList": "NOCO"
   },
   {
     "number": "292",
@@ -2917,7 +3208,8 @@
     "colorList": ",,#f0b96a,,",
     "rarity": "TIER_6",
     "nation": "lungmen",
-    "charId": "char_1033_swire2"
+    "charId": "char_1033_swire2",
+    "drawerList": "下野宏铭"
   },
   {
     "number": "293",
@@ -2927,7 +3219,8 @@
     "colorList": ",,#a81821,,",
     "rarity": "TIER_6",
     "nation": "leithanien",
-    "charId": "char_1016_agoat2"
+    "charId": "char_1016_agoat2",
+    "drawerList": "Anmi"
   },
   {
     "number": "294",
@@ -2937,7 +3230,8 @@
     "colorList": ",,#c769a0,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_4104_coldst"
+    "charId": "char_4104_coldst",
+    "drawerList": "Mag42"
   },
   {
     "number": "295",
@@ -2947,7 +3241,8 @@
     "colorList": ",,#ff7f30,,",
     "rarity": "TIER_5",
     "nation": "columbia",
-    "charId": "char_4105_almond"
+    "charId": "char_4105_almond",
+    "drawerList": "直立行走"
   },
   {
     "number": "296",
@@ -2957,7 +3252,8 @@
     "colorList": ",,#f58d05,,",
     "rarity": "TIER_6",
     "nation": "columbia",
-    "charId": "char_1034_jesca2"
+    "charId": "char_1034_jesca2",
+    "drawerList": "Cenm0"
   },
   {
     "number": "297",
@@ -2967,7 +3263,8 @@
     "colorList": ",,#265c35,,",
     "rarity": "TIER_4",
     "nation": "victoria",
-    "charId": "char_4107_vrdant"
+    "charId": "char_4107_vrdant",
+    "drawerList": "百慕大飞鱼"
   },
   {
     "number": "298",
@@ -2977,7 +3274,8 @@
     "colorList": ",,#28d4e4,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_4110_delphn"
+    "charId": "char_4110_delphn",
+    "drawerList": "Cenm0"
   },
   {
     "number": "299",
@@ -2987,7 +3285,8 @@
     "colorList": ",,#ae3d33,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_494_vendla"
+    "charId": "char_494_vendla",
+    "drawerList": "Studio Montagne"
   },
   {
     "number": "300",
@@ -2997,7 +3296,8 @@
     "colorList": ",,#b82c1e,,",
     "rarity": "TIER_6",
     "nation": "rhodes",
-    "charId": "char_4088_hodrer"
+    "charId": "char_4088_hodrer",
+    "drawerList": "树豚"
   },
   {
     "number": "301",
@@ -3007,7 +3307,8 @@
     "colorList": ",,#af5a74,,",
     "rarity": "TIER_4",
     "nation": "bolivar",
-    "charId": "char_4100_caper"
+    "charId": "char_4100_caper",
+    "drawerList": "臼"
   },
   {
     "number": "302",
@@ -3017,7 +3318,8 @@
     "colorList": ",,#d9c256,,",
     "rarity": "TIER_5",
     "nation": "leithanien",
-    "charId": "char_499_kaitou"
+    "charId": "char_499_kaitou",
+    "drawerList": "およ"
   },
   {
     "number": "303",
@@ -3027,7 +3329,8 @@
     "colorList": ",,#ea4b42,,",
     "rarity": "TIER_5",
     "nation": "leithanien",
-    "charId": "char_4109_baslin"
+    "charId": "char_4109_baslin",
+    "drawerList": "九日九号"
   },
   {
     "number": "304",
@@ -3037,7 +3340,8 @@
     "colorList": ",,#814ea2,,",
     "rarity": "TIER_6",
     "nation": "leithanien",
-    "charId": "char_4011_lessng"
+    "charId": "char_4011_lessng",
+    "drawerList": "カワグチ"
   },
   {
     "number": "305",
@@ -3047,7 +3351,8 @@
     "colorList": ",,#55051b,,",
     "rarity": "TIER_6",
     "nation": "leithanien",
-    "charId": "char_4098_vvana"
+    "charId": "char_4098_vvana",
+    "drawerList": "Chuzenji"
   },
   {
     "number": "306",
@@ -3057,7 +3362,8 @@
     "colorList": ",,#2c48c2,,",
     "rarity": "TIER_6",
     "nation": "laterano",
-    "charId": "char_245_cello"
+    "charId": "char_245_cello",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "307",
@@ -3067,7 +3373,8 @@
     "colorList": ",,#434678,,",
     "rarity": "TIER_5",
     "nation": "victoria",
-    "charId": "char_4114_harold"
+    "charId": "char_4114_harold",
+    "drawerList": "一千"
   },
   {
     "number": "308",
@@ -3077,7 +3384,8 @@
     "colorList": ",,#910000,,",
     "rarity": "TIER_5",
     "nation": "ursus",
-    "charId": "char_194_leto"
+    "charId": "char_194_leto",
+    "drawerList": "Skade"
   },
   {
     "number": "309",
@@ -3087,7 +3395,8 @@
     "colorList": ",,#e18f24,,",
     "rarity": "TIER_6",
     "nation": "kjerag",
-    "charId": "char_4116_blkkgt"
+    "charId": "char_4116_blkkgt",
+    "drawerList": "竜崎いち"
   },
   {
     "number": "310",
@@ -3097,7 +3406,8 @@
     "colorList": ",,#f3934b,,",
     "rarity": "TIER_5",
     "nation": "rim",
-    "charId": "char_4081_warmy"
+    "charId": "char_4081_warmy",
+    "drawerList": "二色こぺ"
   },
   {
     "number": "311",
@@ -3107,7 +3417,8 @@
     "colorList": ",,#b2474b,,",
     "rarity": "TIER_6",
     "nation": "rim",
-    "charId": "char_4117_ray"
+    "charId": "char_4117_ray",
+    "drawerList": "Cenm0"
   },
   {
     "number": "312",
@@ -3117,7 +3428,8 @@
     "colorList": ",,#a67337,,",
     "rarity": "TIER_5",
     "nation": "yan",
-    "charId": "char_4119_wanqin"
+    "charId": "char_4119_wanqin",
+    "drawerList": "三目YYB"
   },
   {
     "number": "313",
@@ -3127,7 +3439,8 @@
     "colorList": ",,#b3b447,,",
     "rarity": "TIER_5",
     "nation": "yan",
-    "charId": "char_4122_grabds"
+    "charId": "char_4122_grabds",
+    "drawerList": "YUJI"
   },
   {
     "number": "314",
@@ -3137,7 +3450,8 @@
     "colorList": ",,#b04035,,",
     "rarity": "TIER_6",
     "nation": "yan",
-    "charId": "char_4121_zuole"
+    "charId": "char_4121_zuole",
+    "drawerList": "九日九号"
   },
   {
     "number": "315",
@@ -3147,7 +3461,8 @@
     "colorList": ",,#0411b6,,",
     "rarity": "TIER_6",
     "nation": "yan",
-    "charId": "char_2025_shu"
+    "charId": "char_2025_shu",
+    "drawerList": "IRIS_呓"
   },
   {
     "number": "316",
@@ -3157,6 +3472,7 @@
     "colorList": ",,#b05332,,",
     "rarity": "TIER_5",
     "nation": "sargon",
-    "charId": "char_4023_rfalcn"
+    "charId": "char_4023_rfalcn",
+    "drawerList": "釜飯轟々丸"
   }
 ]
