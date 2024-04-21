@@ -3474,5 +3474,93 @@
     "nation": "sargon",
     "charId": "char_4023_rfalcn",
     "drawerList": "釜飯轟々丸"
+  },
+  {
+    "number": "317",
+    "operator": "导火索",
+    "appellation": "Fuze",
+    "plannerId": "fuze0",
+    "colorList": ",,#dc5c35,,",
+    "rarity": "TIER_5",
+    "nation": "null",
+    "charId": "char_4126_fuze",
+    "drawerList": "Ubisoft"
+  },
+  {
+    "number": "318",
+    "operator": "双月",
+    "appellation": "Iana",
+    "plannerId": "iana0",
+    "colorList": ",,#faf4d6,,",
+    "rarity": "TIER_5",
+    "nation": "null",
+    "charId": "char_4124_iana",
+    "drawerList": "Ubisoft"
+  },
+  {
+    "number": "319",
+    "operator": "医生",
+    "appellation": "Doc",
+    "plannerId": "doc0",
+    "colorList": ",,#4b9eb2,,",
+    "rarity": "TIER_5",
+    "nation": "null",
+    "charId": "char_4125_rdoc",
+    "drawerList": "Ubisoft"
+  },
+  {
+    "number": "320",
+    "operator": "艾拉",
+    "appellation": "Ela",
+    "plannerId": "ela0",
+    "colorList": ",,#68198c,,",
+    "rarity": "TIER_6",
+    "nation": "null",
+    "charId": "char_4123_ela",
+    "drawerList": "Ubisoft"
+  },
+  {
+    "number": "321",
+    "operator": "露托",
+    "appellation": "Lutonada",
+    "plannerId": "lutonada0",
+    "colorList": ",,#d586cb,,",
+    "rarity": "TIER_4",
+    "nation": "bolivar",
+    "charId": "char_4130_luton",
+    "drawerList": "水滴鱼"
+  },
+  {
+    "number": "322",
+    "operator": "奥达",
+    "appellation": "Odda",
+    "plannerId": "odda0",
+    "colorList": ",,#c03522,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes",
+    "charId": "char_4131_odda",
+    "drawerList": "我妻洛酱"
+  },
+  {
+    "number": "323",
+    "operator": "阿罗玛",
+    "appellation": "Aroma",
+    "plannerId": "aroma0",
+    "colorList": ",,#2e40ed,,",
+    "rarity": "TIER_5",
+    "nation": "siracusa",
+    "charId": "char_446_aroma",
+    "drawerList": "ヌードル"
+  },
+  {
+    "number": "324",
+    "operator": "阿斯卡纶",
+    "appellation": "Ascalon",
+    "plannerId": "ascalon0",
+    "colorList": ",,#fa336e,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes",
+    "charId": "char_4132_ascln",
+    "drawerList": "Cenm0"
   }
 ]
