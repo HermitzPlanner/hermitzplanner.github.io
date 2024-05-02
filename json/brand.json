@@ -78,8 +78,17 @@
     {
         "n": "20",
         "brand": "Raythean Pioneer"
-    },{
+    },
+    {
         "n": "21",
         "brand": "0011 Yun-series"
+    },
+    {
+        "n": "22",
+        "brand": "Iteration Provident"
+    },
+    {
+        "n": "23",
+        "brand": "Unveiling of Devotion"
     }
 ]
