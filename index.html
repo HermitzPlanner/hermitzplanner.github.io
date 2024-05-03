@@ -194,6 +194,7 @@
         // Pick the first 40 items
         const randomItems = skinsData.slice(0, 80);
         randomItems.forEach(skin => {
+            if (skin.brand == "Coral Coast") return
             plannerId = skin.plannerId
 
             // Import template
