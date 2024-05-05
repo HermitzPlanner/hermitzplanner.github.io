@@ -20,7 +20,8 @@
     "rarity": "TIER_3",
     "colorList": "#351dc4,#000000,#351dc4,#351dc4,#000000,,",
     "appearances": "",
-    "getTime": "2019-04-30",
+    "getTimeCN": "2019-04-30",
+    "getTimeEN": "2020-01-16",
     "dynamicCompile": "",
     "dialog": "Waterproof with handmade details, it includes special sleeves, detachable parts and zipper pockets.",
     "isGlobalReleased": "true"
@@ -46,7 +47,8 @@
     "rarity": "TIER_5",
     "colorList": "#313131,#313131,#a4b835,#565656,#a4b835,,",
     "appearances": "",
-    "getTime": "2019-05-22",
+    "getTimeCN": "2019-05-22",
+    "getTimeEN": "2020-01-22",
     "dynamicCompile": "",
     "dialog": "Available only in certain regions, this remake of a classic design utilizes the best materials and contains carefully-sewn details. An extra custom-made letter opener is included.",
     "isGlobalReleased": "true"
@@ -72,7 +74,8 @@
     "rarity": "TIER_3",
     "colorList": "#7d0022,#7d0022,#440062,#7d0022,#000000,,",
     "appearances": "",
-    "getTime": "2019-05-29",
+    "getTimeCN": "2019-05-29",
+    "getTimeEN": "2020-02-05",
     "dynamicCompile": "",
     "dialog": "Handmade by Lungmen craftsman, this stylish outfit combines comfortable materials with cutting-edge tech and traditional handicraft. Custom-made services are also available. Fireproof.",
     "isGlobalReleased": "true"
@@ -98,7 +101,8 @@
     "rarity": "TIER_5",
     "colorList": "#c82a36,#ffffff,#c82a36,#ffffff,#c82a36,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-05-29",
+    "getTimeCN": "2019-05-29",
+    "getTimeEN": "2020-02-05",
     "dynamicCompile": "",
     "dialog": "Waterproof with handmade details, it includes special sleeves, detachable parts and zipper pockets.",
     "isGlobalReleased": "true"
@@ -124,7 +128,8 @@
     "rarity": "TIER_5",
     "colorList": "#002dff,#002dff,#ffffff,#002dff,#000000,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-05-29",
+    "getTimeCN": "2019-05-29",
+    "getTimeEN": "2020-02-05",
     "dynamicCompile": "",
     "dialog": "Waterproof with handmade details, it includes special sleeves, detachable parts and zipper pockets.",
     "isGlobalReleased": "true"
@@ -150,7 +155,8 @@
     "rarity": "TIER_4",
     "colorList": "#ffd800,#ffd800,#000000,#ffd800,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-05-29",
+    "getTimeCN": "2019-05-29",
+    "getTimeEN": "2020-02-05",
     "dynamicCompile": "",
     "dialog": "Waterproof with handmade details, it includes special sleeves, detachable parts and zipper pockets.",
     "isGlobalReleased": "true"
@@ -176,7 +182,8 @@
     "rarity": "TIER_6",
     "colorList": "#b11e19,#b11e19,#615327,#b11e19,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-07-09",
+    "getTimeCN": "2019-07-09",
+    "getTimeEN": "2020-02-26",
     "dynamicCompile": "",
     "dialog": "Made with special materials, it has multiple functions that can meet the needs in all kinds of natural environments.",
     "isGlobalReleased": "true"
@@ -202,7 +209,8 @@
     "rarity": "TIER_5",
     "colorList": "#2c9df6,#2c9df6,#c82a36,#2c9df6,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-07-09",
+    "getTimeCN": "2019-07-09",
+    "getTimeEN": "2020-02-26",
     "dynamicCompile": "",
     "dialog": "Made with special materials, it has multiple functions that can meet the needs in all kinds of natural environments.",
     "isGlobalReleased": "true"
@@ -228,7 +236,8 @@
     "rarity": "TIER_4",
     "colorList": "#ff644b,#ff644b,#1389c0,#ff644b,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-07-09",
+    "getTimeCN": "2019-07-09",
+    "getTimeEN": "2020-02-26",
     "dynamicCompile": "",
     "dialog": "Made with special materials, it has multiple functions that can meet the needs in all kinds of natural environments.",
     "isGlobalReleased": "true"
@@ -254,7 +263,8 @@
     "rarity": "TIER_4",
     "colorList": "#8fc31f,#8fc31f,#ed840d,#8fc31f,#313131,,",
     "appearances": "",
-    "getTime": "2019-07-14",
+    "getTimeCN": "2019-07-14",
+    "getTimeEN": "2020-02-26",
     "dynamicCompile": "",
     "dialog": "Available only in certain regions, this remake of a classic design utilizes the best materials carefully hand-sewn details. An extra custom-made multifunctional tool bag is included.",
     "isGlobalReleased": "true"
@@ -280,7 +290,8 @@
     "rarity": "TIER_4",
     "colorList": "#ae3649,#ae3649,#ffe77e,#ae3649,#313131,,",
     "appearances": "",
-    "getTime": "2019-07-27",
+    "getTimeCN": "2019-07-27",
+    "getTimeEN": "2020-03-11",
     "dynamicCompile": "",
     "dialog": "Made with special materials, it has multiple functions that can meet the needs in all kinds of natural environments.",
     "isGlobalReleased": "true"
@@ -306,7 +317,8 @@
     "rarity": "TIER_6",
     "colorList": "#007ba4,#981500,#35332c,#007ba4,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-08-27",
+    "getTimeCN": "2019-08-27",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "The material is light, soft, breathable and durable. The latest design that is as enchanting as it is elegant.",
     "isGlobalReleased": "true"
@@ -332,7 +344,8 @@
     "rarity": "TIER_5",
     "colorList": "#3c3556,#e75b32,#7c707f,#3c3556,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-08-27",
+    "getTimeCN": "2019-08-27",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "Attached with various accessories for convenient use. The special material is fire and cold-proof and suitable for activities in a variety of waters.",
     "isGlobalReleased": "true"
@@ -358,7 +371,8 @@
     "rarity": "TIER_4",
     "colorList": "#d9ff41,#b42631,#59c7c0,#a7000e,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-08-27",
+    "getTimeCN": "2019-08-27",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -384,7 +398,8 @@
     "rarity": "TIER_3",
     "colorList": "#00d1f0,#59c7c0,#d3628b,#00d1f0,#313131,,",
     "appearances": "",
-    "getTime": "2019-08-27",
+    "getTimeCN": "2019-08-27",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation. Critically acclaimed outfit for men, on sale now.",
     "isGlobalReleased": "true"
@@ -410,7 +425,8 @@
     "rarity": "TIER_4",
     "colorList": "#007ba4,#136aff,#136aff,#97918e,#313131,,",
     "appearances": "",
-    "getTime": "2019-09-09",
+    "getTimeCN": "2019-09-09",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "Made with materials that are both durable and comfortable, this outfit ensures high performance in a variety of different conditions.",
     "isGlobalReleased": "true"
@@ -436,7 +452,8 @@
     "rarity": "TIER_1",
     "colorList": "#525d72,#525d72,#e3ff4a,#525d72,#313131,,",
     "appearances": "",
-    "getTime": "2019-09-09",
+    "getTimeCN": "2019-09-09",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "Equipped with heat-proof coating, the latest sand wheels, and reinforced engineering. It is specially modified for operations on the beach.",
     "isGlobalReleased": "true"
@@ -462,7 +479,8 @@
     "rarity": "TIER_6",
     "colorList": "#ff4702,#e75b32,#e3ff4a,#ff4702,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-09-10",
+    "getTimeCN": "2019-09-10",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "Special Rhine Lab Collaboration Type. To meet Rhine Lab's specifications, this outfit is both comfortable and possesses heat-resistant properties.",
     "isGlobalReleased": "true"
@@ -488,7 +506,8 @@
     "rarity": "TIER_5",
     "colorList": "#f09a00,#e75b32,#7c707f,#f09a00,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-09-10",
+    "getTimeCN": "2019-09-10",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -514,7 +533,8 @@
     "rarity": "TIER_4",
     "colorList": "#6cefc7,#e75b32,#4d3c59,#6cefc7,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-09-10",
+    "getTimeCN": "2019-09-10",
+    "getTimeEN": "2020-04-29",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -540,7 +560,8 @@
     "rarity": "TIER_3",
     "colorList": "#65394f,#65394f,#231616,#65394f,#313131,,",
     "appearances": "",
-    "getTime": "2019-10-06",
+    "getTimeCN": "2019-10-06",
+    "getTimeEN": "2020-05-19",
     "dynamicCompile": "",
     "dialog": "Centuries of rich heritage combines with excellent craftsmanship to make a light and comfortable outfit.",
     "isGlobalReleased": "true"
@@ -566,7 +587,8 @@
     "rarity": "TIER_5",
     "colorList": "#313131,#313131,#eec400,#eec400,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-10-15",
+    "getTimeCN": "2019-10-15",
+    "getTimeEN": "2020-03-25",
     "dynamicCompile": "",
     "dialog": "Raythean Industrial's new product line is based upon standard-issue battlesuits, utilizing new materials and a weatherproof design suitable for harsh environments.",
     "isGlobalReleased": "true"
@@ -592,7 +614,8 @@
     "rarity": "TIER_5",
     "colorList": "#313131,#313131,#eec400,#eec400,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-10-15",
+    "getTimeCN": "2019-10-15",
+    "getTimeEN": "2020-03-25",
     "dynamicCompile": "",
     "dialog": "Raythean Industrial's new product is fully sealed and made with special fabrics that are resistant to even the harshest environmental conditions. Its dust-proof design is suitable for researchers who enter and exit dangerous areas.",
     "isGlobalReleased": "true"
@@ -618,7 +641,8 @@
     "rarity": "TIER_4",
     "colorList": "#313131,#313131,#eec400,#eec400,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-10-15",
+    "getTimeCN": "2019-10-15",
+    "getTimeEN": "2020-03-25",
     "dynamicCompile": "",
     "dialog": "An extremely durable product designed by Raythean Industrial, made for the harshest of environments. With the perfect combination of advanced technology and rare materials, it provides the best protection that money can buy.",
     "isGlobalReleased": "true"
@@ -644,7 +668,8 @@
     "rarity": "TIER_6",
     "colorList": "#42061e,#290413,#ffdcb3,#ff4e3f,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-10-31",
+    "getTimeCN": "2019-10-31",
+    "getTimeEN": "2020-04-07",
     "dynamicCompile": "",
     "dialog": "An outfit tailored for Nightingale. Who is the one who sings, and what language is it in? Whose dream do I see, and whose death do I see?",
     "isGlobalReleased": "true"
@@ -670,7 +695,8 @@
     "rarity": "TIER_5",
     "colorList": "#7e110f,#282222,#7e110f,#7e110f,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-10-31",
+    "getTimeCN": "2019-10-31",
+    "getTimeEN": "2020-04-08",
     "dynamicCompile": "",
     "dialog": "A custom-made outfit for Warfarin that incorporates holiday designs with Sarkaz motifs. The designer personally embellished this outfit with plenty of jewelry.",
     "isGlobalReleased": "true"
@@ -696,7 +722,8 @@
     "rarity": "TIER_3",
     "colorList": "#212b3f,#212b3f,#c796af,#c796af,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-10-31",
+    "getTimeCN": "2019-10-31",
+    "getTimeEN": "2020-04-08",
     "dynamicCompile": "",
     "dialog": "An outfit that Kroos designed for herself. In addition to being fashionable, it incorporates some mechanisms to assist her with her magic tricks.",
     "isGlobalReleased": "true"
@@ -722,7 +749,8 @@
     "rarity": "TIER_6",
     "colorList": "#ae3719,#ae3719,#313131,#ae3719,#313131,,",
     "appearances": "",
-    "getTime": "2019-11-03",
+    "getTimeCN": "2019-11-03",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "实际上只是参考了自己喜欢的服装风格，并没有考虑很多。",
     "isGlobalReleased": "false"
@@ -748,7 +776,8 @@
     "rarity": "TIER_4",
     "colorList": "#f5b658,#f5b658,#321912,#d64800,#313131,,",
     "appearances": "",
-    "getTime": "2019-11-06",
+    "getTimeCN": "2019-11-06",
+    "getTimeEN": "2020-04-08",
     "dynamicCompile": "",
     "dialog": "A custom-made outfit for Rope that takes the young woman's activities and body shape into account. It utilizes lightweight and breathable materials, simple while not sacrificing elegance.",
     "isGlobalReleased": "true"
@@ -774,7 +803,8 @@
     "rarity": "TIER_6",
     "colorList": "#ae3719,#ae3719,#313131,#ae3719,#313131,,",
     "appearances": "",
-    "getTime": "2019-11-10",
+    "getTimeCN": "2019-11-10",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "使用莱茵生命特殊材料制成，毫无必要地拥有着相当高的防护性。",
     "isGlobalReleased": "false"
@@ -800,7 +830,8 @@
     "rarity": "TIER_6",
     "colorList": "#007f53,#007f53,#ffcf00,#ffcf00,#313131,,",
     "appearances": "",
-    "getTime": "2019-11-19",
+    "getTimeCN": "2019-11-19",
+    "getTimeEN": "2020-06-11",
     "dynamicCompile": "",
     "dialog": "Made with special materials and designed to be functional, perfect for coping with various needs and weathering even the roughest outdoor conditions.",
     "isGlobalReleased": "true"
@@ -826,7 +857,8 @@
     "rarity": "TIER_5",
     "colorList": "#432586,#432586,#262626,#d5d5d5,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-11-19",
+    "getTimeCN": "2019-11-19",
+    "getTimeEN": "2020-05-27",
     "dynamicCompile": "",
     "dialog": "Made with special materials and designed to be functional, perfect for coping with various needs and weathering even the roughest outdoor conditions.",
     "isGlobalReleased": "true"
@@ -852,7 +884,8 @@
     "rarity": "TIER_4",
     "colorList": "#1b366e,#1b366e,#ffcf00,#ffcf00,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-11-19",
+    "getTimeCN": "2019-11-19",
+    "getTimeEN": "2020-05-27",
     "dynamicCompile": "",
     "dialog": "Made with special materials and designed to be functional, perfect for coping with various needs and weathering even the roughest outdoor conditions.",
     "isGlobalReleased": "true"
@@ -878,7 +911,8 @@
     "rarity": "TIER_5",
     "colorList": "#ae3719,#ae3719,#313131,#ae3719,#313131,,",
     "appearances": "",
-    "getTime": "2019-11-24",
+    "getTimeCN": "2019-11-24",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "事实上采用了配合能天使的设计，因为一次做两套比较省钱。",
     "isGlobalReleased": "false"
@@ -904,7 +938,8 @@
     "rarity": "TIER_6",
     "colorList": "#4a4e54,#1a1c1d,#df4625,#c06a00,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-12-24",
+    "getTimeCN": "2019-12-24",
+    "getTimeEN": "2020-06-30",
     "dynamicCompile": "",
     "dialog": "Some elements of this outfit run antithetical to the holiday spirit, but she hasn't seemed to notice. More important things are on her mind.",
     "isGlobalReleased": "true"
@@ -930,7 +965,8 @@
     "rarity": "TIER_6",
     "colorList": "#4a4e54,#1a1c1d,#ffc24d,#d5d5d5,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-12-24",
+    "getTimeCN": "2019-12-24",
+    "getTimeEN": "2020-06-30",
     "dynamicCompile": "",
     "dialog": "The expensive fabrics are as cold-resistant as possible while still ensuring comfort. Combined with a special scarf to reflect the discerning taste of the tailor.",
     "isGlobalReleased": "true"
@@ -956,7 +992,8 @@
     "rarity": "TIER_5",
     "colorList": "#4a4e54,#1a1c1d,#ffc24d,#d5d5d5,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-12-24",
+    "getTimeCN": "2019-12-24",
+    "getTimeEN": "2020-06-30",
     "dynamicCompile": "",
     "dialog": "A full set of hand-made clothing that perfectly fits the wearer's body shape, with additional details to her lifestyle.",
     "isGlobalReleased": "true"
@@ -982,7 +1019,8 @@
     "rarity": "TIER_3",
     "colorList": "#004986,#004986,#9e0a0d,#d5d5d5,#313131,,",
     "appearances": "",
-    "getTime": "2019-12-25",
+    "getTimeCN": "2019-12-25",
+    "getTimeEN": "2020-07-02",
     "dynamicCompile": "",
     "dialog": "Lightweight, comfortable, full of wintry motifs, but not cold-resistant at all. Cardigan is a bit afraid of the cold, but in front of a bag of gifts and her favorite sled, the temperature stops seeming so important.",
     "isGlobalReleased": "true"
@@ -1008,7 +1046,8 @@
     "rarity": "TIER_5",
     "colorList": "#313131,#313131,#ffd800,#ffd800,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2019-12-31",
+    "getTimeCN": "2019-12-31",
+    "getTimeEN": "2020-06-30",
     "dynamicCompile": "",
     "dialog": "A limited-edition outfit commemorating FEater's 3rd Anniversary of setting the box office record. Lightweight, breathable, and comfortably-fitting. However, anyone who knows FEater also knows that she has never worn this outfit properly.",
     "isGlobalReleased": "true"
@@ -1034,7 +1073,8 @@
     "rarity": "TIER_6",
     "colorList": "#7d0000,#7d0000,#313131,#7d0000,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-01-16",
+    "getTimeCN": "2020-01-16",
+    "getTimeEN": "2020-07-29",
     "dynamicCompile": "",
     "dialog": "Handcrafted by Lungmen artisans, this tailor-made dress is comfortable, beautiful, and accentuates one's figure. By popular request, it has been made to be a bit sportier than the standard line.",
     "isGlobalReleased": "true"
@@ -1060,7 +1100,8 @@
     "rarity": "TIER_5",
     "colorList": "#7d0000,#7d0000,#313131,#7d0000,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-01-16",
+    "getTimeCN": "2020-01-16",
+    "getTimeEN": "2020-07-29",
     "dynamicCompile": "",
     "dialog": "Handcrafted by Lungmen artisans, this outfit synergizes a wide variety of practical fabrics, providing a truly holistic look to meet exacting demands while still maintaining an affordable price.",
     "isGlobalReleased": "true"
@@ -1086,7 +1127,8 @@
     "rarity": "TIER_5",
     "colorList": "#7d0000,#7d0000,#313131,#7d0000,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-01-16",
+    "getTimeCN": "2020-01-16",
+    "getTimeEN": "2020-07-29",
     "dynamicCompile": "",
     "dialog": "Handmade by Lungmen craftsman, this stylish outfit combines comfortable materials with cutting-edge tech and traditional handicraft. Custom-made services are also available.",
     "isGlobalReleased": "true"
@@ -1112,7 +1154,8 @@
     "rarity": "TIER_4",
     "colorList": "#7d0000,#7d0000,#313131,#7d0000,#313131,,",
     "appearances": "",
-    "getTime": "2020-01-30",
+    "getTimeCN": "2020-01-30",
+    "getTimeEN": "2020-07-29",
     "dynamicCompile": "",
     "dialog": "Handmade by Lungmen craftsman, this stylish outfit combines comfortable materials with cutting-edge tech and traditional handicraft. Get this spring special while it's still available!",
     "isGlobalReleased": "true"
@@ -1138,7 +1181,8 @@
     "rarity": "TIER_4",
     "colorList": "#ba4248,#ba4248,#ffd2af,#ffd2af,#313131,,",
     "appearances": "",
-    "getTime": "2020-02-07",
+    "getTimeCN": "2020-02-07",
+    "getTimeEN": "2020-08-12",
     "dynamicCompile": "",
     "dialog": "Trendy, made for the spring season, well-fitting and comfortable, comes with a choice of accessories that can be mixed and matched to suit your style.",
     "isGlobalReleased": "true"
@@ -1164,7 +1208,8 @@
     "rarity": "TIER_5",
     "colorList": "#558034,#558034,#540024,#540024,#313131,,",
     "appearances": "",
-    "getTime": "2020-02-25",
+    "getTimeCN": "2020-02-25",
+    "getTimeEN": "2020-08-26",
     "dynamicCompile": "",
     "dialog": "Casual clothing centered around black and purple as main colors to exude a bit of elegance while still maintaining a calm feel. A favorite among women in the workplace, this outfit was Ptilopsis's first choice when going out.",
     "isGlobalReleased": "true"
@@ -1190,7 +1235,8 @@
     "rarity": "TIER_5",
     "colorList": "#e2ba5b,#e2ba5b,#313131,#e2ba5b,#313131,,",
     "appearances": "",
-    "getTime": "2020-03-08",
+    "getTimeCN": "2020-03-08",
+    "getTimeEN": "2021-05-25",
     "dynamicCompile": "",
     "dialog": "Using synthetic materials to capture the inspiration of the great outdoors, this outfit is capable of adapting to adverse environments and protects experienced explorers as they visit every corner of Terra.",
     "isGlobalReleased": "true"
@@ -1216,7 +1262,8 @@
     "rarity": "TIER_4",
     "colorList": "#8fc31f,#8fc31f,#313131,#313131,#8fc31f,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-03-17",
+    "getTimeCN": "2020-03-17",
+    "getTimeEN": "2020-09-10",
     "dynamicCompile": "",
     "dialog": "Based upon a special-issue Ádakrys battlesuit, it has blades attached in the right parts to give off an extremely aggressive look. Gavial describes it as her ideal 'battlefield trappings.'",
     "isGlobalReleased": "true"
@@ -1242,7 +1289,8 @@
     "rarity": "TIER_6",
     "colorList": "#00736d,#00736d,#a42300,#a42300,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-03-17",
+    "getTimeCN": "2020-03-17",
+    "getTimeEN": "2020-09-10",
     "dynamicCompile": "",
     "dialog": "Several designers joined forces to create a look inspired by the style of the streets. Complete with the redesigned shield of an L.G.D. Officer joined with traditional elements from Higashi, this outfit brings a truly formidable look.",
     "isGlobalReleased": "true"
@@ -1268,7 +1316,8 @@
     "rarity": "TIER_5",
     "colorList": "#862500,#862500,#313131,#862500,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-03-17",
+    "getTimeCN": "2020-03-17",
+    "getTimeEN": "2020-09-10",
     "dynamicCompile": "",
     "dialog": "Inspired by traditional Ursus school uniforms, this season's most successful iteration is fine-tuned to capture the trends of today's youth. Top seller in Ursus.",
     "isGlobalReleased": "true"
@@ -1294,7 +1343,8 @@
     "rarity": "TIER_5",
     "colorList": "#06c1a2,#313131,#06c1a2,#313131,#06c1a2,,",
     "appearances": "",
-    "getTime": "2020-04-30",
+    "getTimeCN": "2020-04-30",
+    "getTimeEN": "2021-01-02",
     "dynamicCompile": "",
     "dialog": "An outfit worn by Amiya while working for a Rhodes Island restaurant. This poofy coat is cold-resistant, and has enough room to hold something penguin-sized.",
     "isGlobalReleased": "true"
@@ -1320,7 +1370,8 @@
     "rarity": "TIER_6",
     "colorList": "#e34c07,#e34c07,#011517,#313131,#e34c07,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-05-01",
+    "getTimeCN": "2020-05-01",
+    "getTimeEN": "2020-12-30",
     "dynamicCompile": "",
     "dialog": "An outfit worn by Saria during the confrontation between the General Jurisdiction and the Research Branch. Though her surroundings crumbled under the onslaught of Arts colliding, her conviction never wavered, like the land itself.",
     "isGlobalReleased": "true"
@@ -1346,7 +1397,8 @@
     "rarity": "TIER_6",
     "colorList": "#7d0000,#313131,#7d0000,#313131,#7d0000,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-05-01",
+    "getTimeCN": "2020-05-01",
+    "getTimeEN": "2020-12-30",
     "dynamicCompile": "",
     "dialog": "The outfit worn by Angelina while she was stationed at the 2nd Final Defense Front. The substance of reality slowly flows between her fingers and her tools.",
     "isGlobalReleased": "true"
@@ -1372,7 +1424,8 @@
     "rarity": "TIER_5",
     "colorList": "#390a61,#313131,#390a61,#313131,#390a61,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-05-01",
+    "getTimeCN": "2020-05-01",
+    "getTimeEN": "2020-12-30",
     "dynamicCompile": "",
     "dialog": "The outfit Lappland wore at the Laterano Apostolic Knights' Funeral Memorial Hall. Collect the debts, and pay the price.",
     "isGlobalReleased": "true"
@@ -1398,7 +1451,8 @@
     "rarity": "TIER_5",
     "colorList": "#0098dc,#313131,#0098dc,#313131,#0098dc,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-05-01",
+    "getTimeCN": "2020-05-01",
+    "getTimeEN": "2020-12-30",
     "dynamicCompile": "",
     "dialog": "The outfit worn by Executor when tracking important charges for the Laterano Notarial Hall. Though one's identity may change over the years, what the heart desires does not.",
     "isGlobalReleased": "true"
@@ -1424,7 +1478,8 @@
     "rarity": "TIER_5",
     "colorList": "#225a60,#225a60,#ffe553,#313131,#15a58d,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-05-01",
+    "getTimeCN": "2020-05-01",
+    "getTimeEN": "2020-12-30",
     "dynamicCompile": "",
     "dialog": "The outfit worn by Operator GreyThroat while participating in a rescue operation for the Infected within the Catastrophe zone of Sugar City. Disregarding protection or camouflage, upon this outfit is etched the will to protect the next person, and save another life.",
     "isGlobalReleased": "true"
@@ -1450,7 +1505,8 @@
     "rarity": "TIER_3",
     "colorList": "#9f083c,#313131,#9f083c,#313131,#9f083c,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-05-01",
+    "getTimeCN": "2020-05-01",
+    "getTimeEN": "2020-12-30",
     "dynamicCompile": "",
     "dialog": "An outfit worn by Midnight during the promotional video of an annihilation operation. Though it was undeniably effective, everyone agreed that it was a bit over-the-top.",
     "isGlobalReleased": "true"
@@ -1476,7 +1532,8 @@
     "rarity": "TIER_3",
     "colorList": "#e42b00,#313131,#e42b00,#313131,#e42b00,,",
     "appearances": "",
-    "getTime": "2020-05-14",
+    "getTimeCN": "2020-05-14",
+    "getTimeEN": "2021-01-02",
     "dynamicCompile": "",
     "dialog": "The attire worn by the elite operator, Beagle, when serving as rearguard during the Great March of Bolívar. This is her final test.",
     "isGlobalReleased": "true"
@@ -1502,7 +1559,8 @@
     "rarity": "TIER_5",
     "colorList": "#8957a1,#8957a1,#313131,#313131,#8957a1,,",
     "appearances": "",
-    "getTime": "2020-06-02",
+    "getTimeCN": "2020-06-02",
+    "getTimeEN": "2020-10-30",
     "dynamicCompile": "",
     "dialog": "Taking the model's peculiar traits in consideration, this outfit was completed without being tailored. Combines comfort, fashion, and a proper fit while also protecting the operator's vitals.",
     "isGlobalReleased": "true"
@@ -1528,7 +1586,8 @@
     "rarity": "TIER_6",
     "colorList": "#006766,#006766,#ffc453,#006766,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-06-18",
+    "getTimeCN": "2020-06-18",
+    "getTimeEN": "2020-09-29",
     "dynamicCompile": "",
     "dialog": "The work outfit worn by Magallan to make shaved ice during the food festival combines traditions of Higashi with characteristics of Rhine Labs. Breathable, well-insulated, and easy to move in, this outfit allows Magallan to fully devote herself to her work, even if in a shaved-ice shop.",
     "isGlobalReleased": "true"
@@ -1554,7 +1613,8 @@
     "rarity": "TIER_5",
     "colorList": "#006766,#006766,#ae5254,#006766,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-06-18",
+    "getTimeCN": "2020-06-18",
+    "getTimeEN": "2020-09-29",
     "dynamicCompile": "",
     "dialog": "After being re-coordinated to reflect the national outfits of the people of Ursus, Istina wore this outfit to promote traditional cuisine at the food festival. Underneath the plain materials are countless intricate details, and only those who deem themselves wise come to seek answers.",
     "isGlobalReleased": "true"
@@ -1580,7 +1640,8 @@
     "rarity": "TIER_4",
     "colorList": "#f49800,#81511c,#f49800,#f49800,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-06-18",
+    "getTimeCN": "2020-06-18",
+    "getTimeEN": "2020-09-29",
     "dynamicCompile": "",
     "dialog": "Beehunter's sleepwear. Fluffy, soft, comfortable, tight-fitting, and easy to wash, this outfit is suitable for both home use and as sleepwear. What nobody expected is that Beehunter would head straight to the food festival.",
     "isGlobalReleased": "true"
@@ -1606,7 +1667,8 @@
     "rarity": "TIER_5",
     "colorList": "#2f2a34,#fff799,#3b3248,#3b3248,#313131,,",
     "appearances": "",
-    "getTime": "2020-06-24",
+    "getTimeCN": "2020-06-24",
+    "getTimeEN": "2020-11-11",
     "dynamicCompile": "",
     "dialog": "A trendy, vintage Victorian appeal, modified to Nightmare's specifications. Some decorative elements will change when Nightmare's personality shifts.",
     "isGlobalReleased": "true"
@@ -1632,7 +1694,8 @@
     "rarity": "TIER_6",
     "colorList": "#2f2a34,#363190,#624996,#2f2a34,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-07-09",
+    "getTimeCN": "2020-07-09",
+    "getTimeEN": "2020-10-28",
     "dynamicCompile": "",
     "dialog": "A Laterano dress with corresponding weapons. Generally, only Sankta who have presided over the ceremonies are allowed to wear it, and Mostima seems to have quietly snuck out with this outfit.",
     "isGlobalReleased": "true"
@@ -1658,7 +1721,8 @@
     "rarity": "TIER_5",
     "colorList": "#0b3169,#0b3169,#99861a,#0b3169,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-07-09",
+    "getTimeCN": "2020-07-09",
+    "getTimeEN": "2020-10-28",
     "dynamicCompile": "",
     "dialog": "One of the intricate outfits worn by Astesia only in the grandest occasions of Columbia's social life. Merely donning this outfit is a statement of its own.",
     "isGlobalReleased": "true"
@@ -1684,7 +1748,8 @@
     "rarity": "TIER_5",
     "colorList": "#354b81,#354b81,#bf3b46,#bf3b46,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-07-28",
+    "getTimeCN": "2020-07-28",
+    "getTimeEN": "2021-02-04",
     "dynamicCompile": "",
     "dialog": "Tight-fitting, breathable, lightweight, and designed for the summer.",
     "isGlobalReleased": "true"
@@ -1710,7 +1775,8 @@
     "rarity": "TIER_4",
     "colorList": "#51446d,#51446d,#92dbfa,#51446d,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-07-28",
+    "getTimeCN": "2020-07-28",
+    "getTimeEN": "2021-02-04",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -1736,7 +1802,8 @@
     "rarity": "TIER_6",
     "colorList": "#246bbc,#246bbc,#d7e94d,#246bbc,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-08-11",
+    "getTimeCN": "2020-08-11",
+    "getTimeEN": "2021-01-20",
     "dynamicCompile": "",
     "dialog": "This swimsuit tailor-made for Ægir beachgoers allows inhabitants of the sea to look dazzling on the sand.",
     "isGlobalReleased": "true"
@@ -1762,7 +1829,8 @@
     "rarity": "TIER_5",
     "colorList": "#246bbc,#493b4b,#5196e5,#246bbc,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-08-11",
+    "getTimeCN": "2020-08-11",
+    "getTimeEN": "2021-01-20",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -1788,7 +1856,8 @@
     "rarity": "TIER_5",
     "colorList": "#195866,#195866,#eeeeee,#195866,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-08-11",
+    "getTimeCN": "2020-08-11",
+    "getTimeEN": "2021-01-20",
     "dynamicCompile": "",
     "dialog": "Tight-fitting, breathable, lightweight, and designed for the summer.",
     "isGlobalReleased": "true"
@@ -1814,7 +1883,8 @@
     "rarity": "TIER_6",
     "colorList": "#246bbc,#472e2b,#f4f1f0,#dad0cd,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-08-24",
+    "getTimeCN": "2020-08-24",
+    "getTimeEN": "2021-02-25",
     "dynamicCompile": "",
     "dialog": "The material is light, breathable and exquisite. It's been tailored to meet the needs of those inventive elites.",
     "isGlobalReleased": "true"
@@ -1840,7 +1910,8 @@
     "rarity": "TIER_6",
     "colorList": "#df4001,#df4001,#433532,#433532,#df4001,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-08-24",
+    "getTimeCN": "2020-08-24",
+    "getTimeEN": "2021-02-25",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -1866,7 +1937,8 @@
     "rarity": "TIER_5",
     "colorList": "#6ca2bc,#ed4e15,#6a5546,#191311,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-08-24",
+    "getTimeCN": "2020-08-24",
+    "getTimeEN": "2021-02-25",
     "dynamicCompile": "",
     "dialog": "The material is light, breathable and exquisite. It's been tailored to meet the needs of those go-getter explorers.",
     "isGlobalReleased": "true"
@@ -1892,7 +1964,8 @@
     "rarity": "TIER_4",
     "colorList": "#6ca2bc,#6ca2bc,#472e2b,#6ca2bc,#313131,,",
     "appearances": "",
-    "getTime": "2020-08-24",
+    "getTimeCN": "2020-08-24",
+    "getTimeEN": "2021-02-25",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -1918,7 +1991,8 @@
     "rarity": "TIER_6",
     "colorList": "#515e5b,#515e5b,#d49e56,#d49e56,#72644c,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-09-24",
+    "getTimeCN": "2020-09-24",
+    "getTimeEN": "2021-03-25",
     "dynamicCompile": "",
     "dialog": "For the explorer pursuing what remains. Made with special materials suited for adapting to all climates, meeting the harsh demands of complex environments.",
     "isGlobalReleased": "true"
@@ -1944,7 +2018,8 @@
     "rarity": "TIER_5",
     "colorList": "#05436b,#05436b,#e8ac79,#eed7b5,#40a4b3,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-09-24",
+    "getTimeCN": "2020-09-24",
+    "getTimeEN": "2021-03-25",
     "dynamicCompile": "",
     "dialog": "For the explorer pursuing what remains. Made with special materials suited for adapting to all climates, meeting the harsh demands of complex environments.",
     "isGlobalReleased": "true"
@@ -1970,7 +2045,8 @@
     "rarity": "TIER_5",
     "colorList": "#df3121,#462b22,#df3121,#462b22,#df3121,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-09-24",
+    "getTimeCN": "2020-09-24",
+    "getTimeEN": "2021-03-25",
     "dynamicCompile": "",
     "dialog": "For the explorer pursuing what remains. Made with special materials suited for adapting to all climates, meeting the harsh demands of complex environments.",
     "isGlobalReleased": "true"
@@ -1996,7 +2072,8 @@
     "rarity": "TIER_5",
     "colorList": "#332d31,#a39980,#485228,#a39980,#5b342a,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-10-01",
+    "getTimeCN": "2020-10-01",
+    "getTimeEN": "2020-11-26",
     "dynamicCompile": "",
     "dialog": "Casual clothes that capture the region's impressions while taking the customer's preferences in consideration. After a deep dive into the customer's life, the designer collaborated with the customer to add a variety of supporting accessories.",
     "isGlobalReleased": "true"
@@ -2022,7 +2099,8 @@
     "rarity": "TIER_6",
     "colorList": "#5b5656,#771e1e,#5b5656,#a4a3a4,#771e1e,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-10-15",
+    "getTimeCN": "2020-10-15",
+    "getTimeEN": "2021-04-08",
     "dynamicCompile": "",
     "dialog": "The dance as cloth, the song as silk, the threading through emotion, the tailoring by fabrication, the weave of obliteration and howling madness, it all culminates in this majestic yet skin-crawling ensemble.",
     "isGlobalReleased": "true"
@@ -2048,7 +2126,8 @@
     "rarity": "TIER_5",
     "colorList": "#3e7eaa,#3e7eaa,#debabe,#b6a2ad,#0f2137,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-10-15",
+    "getTimeCN": "2020-10-15",
+    "getTimeEN": "2021-04-08",
     "dynamicCompile": "",
     "dialog": "The outfit Mayer wore for the code-cracking event 'Courtyard Tidings.' Mayer loved all the puzzles her coworkers designed, and took to making short work of them.",
     "isGlobalReleased": "true"
@@ -2074,7 +2153,8 @@
     "rarity": "TIER_5",
     "colorList": "#626260,#626260,#b28d34,#626260,#b28d34,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-10-15",
+    "getTimeCN": "2020-10-15",
+    "getTimeEN": "2021-04-08",
     "dynamicCompile": "",
     "dialog": "The outfit Glaucus wore for the photoshoot event 'Cyclonic Square.' Prior to the photographer clicking the shutter, Glaucus needed to nail down her pose.",
     "isGlobalReleased": "true"
@@ -2100,7 +2180,8 @@
     "rarity": "TIER_4",
     "colorList": "#232542,#232542,#ec3700,#ec3700,#cfc235,,",
     "appearances": "",
-    "getTime": "2020-10-15",
+    "getTimeCN": "2020-10-15",
+    "getTimeEN": "2021-04-08",
     "dynamicCompile": "",
     "dialog": "The outfit Shaw wore for the investigation event 'Trails in the Castle.' While Shaw trawls the castle scenery, she's prepared to fend off unexpected guests at any time.",
     "isGlobalReleased": "true"
@@ -2126,7 +2207,8 @@
     "rarity": "TIER_6",
     "colorList": "#79818d,#da0f1d,#d2dce5,#868e96,#313131,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-11-01",
+    "getTimeCN": "2020-11-01",
+    "getTimeEN": "2020-04-30",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202206246.html",
     "dialog": "Ordinary Sarkaz mercenary wear. Easy to mend, protective, and carries even more explosives after simple modification.",
     "isGlobalReleased": "true"
@@ -2152,7 +2234,8 @@
     "rarity": "TIER_5",
     "colorList": "#ac2829,#313131,#ac2829,#ac2829,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-11-01",
+    "getTimeCN": "2020-11-01",
+    "getTimeEN": "2020-04-30",
     "dynamicCompile": "",
     "dialog": "Classic Siracusan womenswear. By request of Texas, all parts once white have been dyed completely black.",
     "isGlobalReleased": "true"
@@ -2178,7 +2261,8 @@
     "rarity": "TIER_4",
     "colorList": "#80b586,#80b586,#812446,#80b586,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-11-01",
+    "getTimeCN": "2020-11-01",
+    "getTimeEN": "2020-04-30",
     "dynamicCompile": "",
     "dialog": "Clothing modified from Bolívarian military uniform, with some accessories coming from Dobermann's own collection.",
     "isGlobalReleased": "true"
@@ -2204,7 +2288,8 @@
     "rarity": "TIER_4",
     "colorList": "#e84d1d,#313131,#e84d1d,#e84d1d,#313131,,",
     "appearances": "",
-    "getTime": "2020-11-08",
+    "getTimeCN": "2020-11-08",
+    "getTimeEN": "2020-05-08",
     "dynamicCompile": "",
     "dialog": "This clothing is styled exactly as Ethan used to wear, but closer-fitting, cozier, making him somewhat unwilling to change out of it.",
     "isGlobalReleased": "true"
@@ -2230,7 +2315,8 @@
     "rarity": "TIER_6",
     "colorList": "#383f84,#f35c43,#383f84,#ffffff,#313131,,",
     "appearances": "",
-    "getTime": "2020-11-15",
+    "getTimeCN": "2020-11-15",
+    "getTimeEN": "2021-05-28",
     "dynamicCompile": "",
     "dialog": "1. In full race queen form, sporting a Raythean-sponsored Piledriver Spear, Bagpipe carries herself tall and brings the spectators' cheers non-stop.",
     "isGlobalReleased": "true"
@@ -2256,7 +2342,8 @@
     "rarity": "TIER_6",
     "colorList": "#e96a1d,#e96a1d,#34302e,#e96a1d,#e96a1d,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-12-17",
+    "getTimeCN": "2020-12-17",
+    "getTimeEN": "2021-06-22",
     "dynamicCompile": "",
     "dialog": "The jailer garments Saria used when entering Mansfield State Prison, largely in line with the female jailer's standard uniform.",
     "isGlobalReleased": "true"
@@ -2282,7 +2369,8 @@
     "rarity": "TIER_6",
     "colorList": "#e33e2a,#e33e2a,#0f8b4f,#726fd9,#0f8b4f,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-12-17",
+    "getTimeCN": "2020-12-17",
+    "getTimeEN": "2021-06-22",
     "dynamicCompile": "",
     "dialog": "A vivid and colorful stage costume, pursued with multiple-layered design and modification for full effect, demanding complex fabrication. Dirt- and wear-resistant, as well as excellently dustproofed.",
     "isGlobalReleased": "true"
@@ -2308,7 +2396,8 @@
     "rarity": "TIER_5",
     "colorList": "#a21001,#a21001,#e9dfdb,#e6e6e6,#a21001,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-12-17",
+    "getTimeCN": "2020-12-17",
+    "getTimeEN": "2021-06-22",
     "dynamicCompile": "",
     "dialog": "Many associate the pairing of red and white with the bygone Icefield Messenger. Perhaps to pander to their expectations, he's matched it with a pair of spectacles on purpose.",
     "isGlobalReleased": "true"
@@ -2334,7 +2423,8 @@
     "rarity": "TIER_5",
     "colorList": "#6c7175,#3f3f3f,#3f8fc8,#c9c9c9,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2020-12-17",
+    "getTimeCN": "2020-12-17",
+    "getTimeEN": "2021-06-22",
     "dynamicCompile": "",
     "dialog": "An outfit made for the priority demands of rural activity and cold resistance, with hues adhering to nature, simple and soft, aimed towards hunters and Messengers operating long-term in the northern wilds.",
     "isGlobalReleased": "true"
@@ -2360,7 +2450,8 @@
     "rarity": "TIER_4",
     "colorList": "#a93942,#a93942,#eec132,#e0a565,#ac5e4f,,",
     "appearances": "",
-    "getTime": "2020-12-31",
+    "getTimeCN": "2020-12-31",
+    "getTimeEN": "2021-12-03",
     "dynamicCompile": "",
     "dialog": "Greyy made an exquisite eight-tone musical egg as a present for his close friends, and in exchange, they custom-ordered him this outfit brimming with holiday atmosphere.",
     "isGlobalReleased": "true"
@@ -2386,7 +2477,8 @@
     "rarity": "TIER_5",
     "colorList": "#88aec1,#88aec1,#cc8493,#bfc4c8,#88aec1,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-01-05",
+    "getTimeCN": "2021-01-05",
+    "getTimeEN": "2021-07-06",
     "dynamicCompile": "",
     "dialog": "Cozy and warm standard line winter garments. With personalized coordination, you can attain your perfect balance of fashion and everyday use.",
     "isGlobalReleased": "true"
@@ -2412,7 +2504,8 @@
     "rarity": "TIER_4",
     "colorList": "#8b8bab,#8b8bab,#d7e43e,#d7e43e,#8b8bab,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-01-05",
+    "getTimeCN": "2021-01-05",
+    "getTimeEN": "2021-07-06",
     "dynamicCompile": "",
     "dialog": "Rainproof, wear-resistant, close-fitting yet breathing, the first choice for fashionable youth. Coloring of the lining and some accessories can be changed at the client's request, letting their no-imitation individuality pop.",
     "isGlobalReleased": "true"
@@ -2438,7 +2531,8 @@
     "rarity": "TIER_4",
     "colorList": "#cd8d7c,#cd8d7c,#81848f,#cccac8,#81848f,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-01-05",
+    "getTimeCN": "2021-01-05",
+    "getTimeEN": "2021-07-06",
     "dynamicCompile": "",
     "dialog": "Tailored Kazimierzian apparel, slim-fit, highly accessorized, accompanied by a cloak in a complementary shade, sure to draw the eyes of every onlooker.",
     "isGlobalReleased": "true"
@@ -2464,7 +2558,8 @@
     "rarity": "TIER_5",
     "colorList": "#64cba2,#64cba2,#777768,#d4d4c4,#938964,,",
     "appearances": "",
-    "getTime": "2021-01-05",
+    "getTimeCN": "2021-01-05",
+    "getTimeEN": "2021-07-06",
     "dynamicCompile": "",
     "dialog": "Layered insulating design, free to be mixed and matched to individual taste. Catered to the client's personal needs, this fit has been altered by hand, adjusting the left sleeve's opening and adding an arm guard.",
     "isGlobalReleased": "true"
@@ -2490,7 +2585,8 @@
     "rarity": "TIER_6",
     "colorList": "#656f5c,#656f5c,#878151,#868d80,#2e2d1d,,",
     "appearances": "Here A People Sows",
-    "getTime": "2021-02-05",
+    "getTimeCN": "2021-02-05",
+    "getTimeEN": "2021-07-30",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/20220362.html",
     "dialog": "Handcrafted by Lungmen artisans, per the client's requests, twenty-four different designs of traditional women's clothing were drawn up, from which the client rolled dice to select one to ultimately be made into an outfit.",
     "isGlobalReleased": "true"
@@ -2516,7 +2612,8 @@
     "rarity": "TIER_6",
     "colorList": "#864026,#864026,#574b3b,#c8b89b,#8e421b,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-02-05",
+    "getTimeCN": "2021-02-05",
+    "getTimeEN": "2021-07-30",
     "dynamicCompile": "",
     "dialog": "Handcrafted by Lungmen artisans, with a design concept more inclined towards the East, its main appeal is to highlight the wearer's personality. Onlookers can sense the simplicities and trends of Lungmen.",
     "isGlobalReleased": "true"
@@ -2542,7 +2639,8 @@
     "rarity": "TIER_5",
     "colorList": "#d86526,#d86526,#eebc2b,#e0a565,#534633,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-02-05",
+    "getTimeCN": "2021-02-05",
+    "getTimeEN": "2021-07-30",
     "dynamicCompile": "",
     "dialog": "Handcrafted by Lungmen artisans, with a design concept more inclined towards the West, its main appeal being to create a balanced sense of uniform. Many fasteners adorn the outfit, reserving space for the client to personalize, mix and match.",
     "isGlobalReleased": "true"
@@ -2568,7 +2666,8 @@
     "rarity": "TIER_5",
     "colorList": "#606075,#606075,#230ae1,#d5d6e8,#474664,,",
     "appearances": "",
-    "getTime": "2021-02-23",
+    "getTimeCN": "2021-02-23",
+    "getTimeEN": "2021-08-18",
     "dynamicCompile": "",
     "dialog": "Handcrafted by Lungmen artisans, the typical clothing assembly process was refined in accordance with Ægir bodily characteristics, and the outfit displays a uniquely streamlined effect in turn. Color choices are made independently by the client.",
     "isGlobalReleased": "true"
@@ -2594,7 +2693,8 @@
     "rarity": "TIER_5",
     "colorList": "#ff9700,#ff9700,#9ecf3d,#9ecf3d,#ff9700,,",
     "appearances": "",
-    "getTime": "2021-03-09",
+    "getTimeCN": "2021-03-09",
+    "getTimeEN": "2023-12-05",
     "dynamicCompile": "",
     "dialog": "A loose yet comfortable outdoors fit. Comes with an exclusive miniature mountain-grade rucksack and an agricultural nursery kit. The designer has one small wish of her own, and hopes that we can all help to realize it.",
     "isGlobalReleased": "true"
@@ -2620,7 +2720,8 @@
     "rarity": "TIER_6",
     "colorList": "#c25f4c,#202020,#c25f4c,#202020,#c25f4c,,",
     "appearances": "Operation Lucent Arrow",
-    "getTime": "2021-03-09",
+    "getTimeCN": "2021-03-09",
+    "getTimeEN": "2021-08-18",
     "dynamicCompile": "",
     "dialog": "This outfit, hand-picked by Ash herself, emphasizes both disguisability and sportiness. A specially-made hat conceals Ash's identity, facilitating intelligence-gathering and related work.",
     "isGlobalReleased": "true"
@@ -2646,7 +2747,8 @@
     "rarity": "TIER_5",
     "colorList": "#8e5b44,#c0bbb3,#8e5b44,#c0bbb3,#8e5b44,,",
     "appearances": "Operation Lucent Arrow",
-    "getTime": "2021-03-09",
+    "getTimeCN": "2021-03-09",
+    "getTimeEN": "2021-08-18",
     "dynamicCompile": "",
     "dialog": "A set of tactical armor that consists of the helmet Tachanka picked from the Lord of Long Spring's collection and a modified set of standard issue battle armor. It has exceptional defensive capabilities, which is further topped off with an imposing appearance that can be seen from afar.",
     "isGlobalReleased": "true"
@@ -2672,7 +2774,8 @@
     "rarity": "TIER_6",
     "colorList": "#9e9ea6,#0057cf,#9e9ea6,#0854c4,#202020,,",
     "appearances": "Here A People Sows, Operation Lucent Arrow, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-03-09",
+    "getTimeCN": "2021-03-09",
+    "getTimeEN": "2021-08-18",
     "dynamicCompile": "",
     "dialog": "A product of Raythean Industries, geared for hypothetical city combat environs. Along with basic protection, the application of the latest in reflective paint allows specialist personnel to blend into the complex surroundings of the city.",
     "isGlobalReleased": "true"
@@ -2698,7 +2801,8 @@
     "rarity": "TIER_5",
     "colorList": "#487ae3,#4b4054,#487ae3,#4b4054,#487ae3,,",
     "appearances": "Here A People Sows, Operation Lucent Arrow, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-03-09",
+    "getTimeCN": "2021-03-09",
+    "getTimeEN": "2021-08-18",
     "dynamicCompile": "",
     "dialog": "A product of Raythean Industries, a combat outfit fully tailored to exceptional specialist personnel. Offers reliable defense in all environments, further supports the Operator's own Originium Arts.",
     "isGlobalReleased": "true"
@@ -2724,7 +2828,8 @@
     "rarity": "TIER_6",
     "colorList": "#ff4843,#dae0e1,#f0db97,#313131,#ff4843,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-04-15",
+    "getTimeCN": "2021-04-15",
+    "getTimeEN": "2021-09-30",
     "dynamicCompile": "",
     "dialog": "Hellagur's clothing during his time as vanguard commander in the Bloodpeak Campaign. If he weren't an enemy, if he could have served Ursus... Even if no such possibility existed.",
     "isGlobalReleased": "true"
@@ -2750,7 +2855,8 @@
     "rarity": "TIER_4",
     "colorList": "#a9c4ff,#434344,#a9c4ff,#313131,#82a9ff,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-04-15",
+    "getTimeCN": "2021-04-15",
+    "getTimeEN": "2021-09-30",
     "dynamicCompile": "",
     "dialog": "Shirayuki's combat attire in her confrontation with Samuraitaisho serving the North, during the Northern and Southern Courts Battle of Echigo. The head orders: sight enemy, see blood.",
     "isGlobalReleased": "true"
@@ -2776,7 +2882,8 @@
     "rarity": "TIER_6",
     "colorList": "#6456ff,#313131,#6456ff,#313131,#6456ff,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-05-01",
+    "getTimeCN": "2021-05-01",
+    "getTimeEN": "2021-10-21",
     "dynamicCompile": "",
     "dialog": "Mountain's attire at his parents' funeral. Though he personally slew his own enemy, there is no hint of joy in his heart. There are still things he needs to do.",
     "isGlobalReleased": "true"
@@ -2802,7 +2909,8 @@
     "rarity": "TIER_6",
     "colorList": "#ff0c00,#1d264f,#ffeb00,#313131,#ff0c00,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-05-01",
+    "getTimeCN": "2021-05-01",
+    "getTimeEN": "2021-10-21",
     "dynamicCompile": "",
     "dialog": "Rhodes Island Engineering Chief Eunectes's outfit while refitting an experimental-model Raging Ironhide. Every point worked on all by herself, everyone saying she's much more reliable than Closure. Closure fiercely rolling her eyes.",
     "isGlobalReleased": "true"
@@ -2828,7 +2936,8 @@
     "rarity": "TIER_5",
     "colorList": "#ff4d1a,#313131,#ff4d1a,#313131,#ff4d1a,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-05-01",
+    "getTimeCN": "2021-05-01",
+    "getTimeEN": "2021-10-21",
     "dynamicCompile": "",
     "dialog": "Ayerscarpe's attire while upgrading the Rim Billiton Weapon Distribution Center weapons system. He needs to infiltrate a Catastrophe area together with his friends, and heist an important piece of data back before the Columbians.",
     "isGlobalReleased": "true"
@@ -2854,7 +2963,8 @@
     "rarity": "TIER_5",
     "colorList": "#50449a,#e0ff69,#50449a,#313131,#50449a,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-05-01",
+    "getTimeCN": "2021-05-01",
+    "getTimeEN": "2021-10-21",
     "dynamicCompile": "",
     "dialog": "Flint's attire when she set out on a lone journey, a 'Catastrophe Messenger' by her own declaration. Before, her fists only knew Acahualla and Rhodes Island. Now, it's Terra's turn.",
     "isGlobalReleased": "true"
@@ -2880,7 +2990,8 @@
     "rarity": "TIER_3",
     "colorList": "#4e76ff,#313131,#4e76ff,#313131,#4e76ff,,",
     "appearances": "",
-    "getTime": "2021-05-01",
+    "getTimeCN": "2021-05-01",
+    "getTimeEN": "2021-10-30",
     "dynamicCompile": "",
     "dialog": "The outfit Spot wore for an Annihilation mission promo. It might've been effective, but all Spot's thinking about is what cartoons are on tonight.",
     "isGlobalReleased": "true"
@@ -2906,7 +3017,8 @@
     "rarity": "TIER_6",
     "colorList": "#36c2c6,#042040,#ed3a82,#36c2c6,#ed3a82,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-05-01",
+    "getTimeCN": "2021-05-01",
+    "getTimeEN": "2021-10-21",
     "dynamicCompile": "",
     "dialog": "Stage clothing picked by drummer Blaze herself. There might not be much material, but it's breathable, sweat-absorbent and flame-resistant, ensuring no outfit malfunctions will affect Blaze's performance.",
     "isGlobalReleased": "true"
@@ -2932,7 +3044,8 @@
     "rarity": "TIER_4",
     "colorList": "#5c5c61,#bdd1d8,#9f241c,#8c9fa7,#2a2828,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-05-01",
+    "getTimeCN": "2021-05-01",
+    "getTimeEN": "2021-10-21",
     "dynamicCompile": "",
     "dialog": "Stage clothing picked by bassist Courier himself. People think of Kjerag's men as steadfast and untalkative, but Courier's ready with his bass to change their perception.",
     "isGlobalReleased": "true"
@@ -2958,7 +3071,8 @@
     "rarity": "TIER_4",
     "colorList": "#512cc1,#8b8da9,#5e3bc8,#a7647c,#0d0d3a,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-05-01",
+    "getTimeCN": "2021-05-01",
+    "getTimeEN": "2021-10-21",
     "dynamicCompile": "",
     "dialog": "Stage clothing picked by guitarist Vigna herself. The outfit in whole has been languishing in Vigna's wardrobe for a while, and she's always wanted to give it a stage showing. The chance has now arrived.",
     "isGlobalReleased": "true"
@@ -2984,7 +3098,8 @@
     "rarity": "TIER_5",
     "colorList": "#36b2b6,#313131,#f15f96,#36b2b6,#f15f96,,",
     "appearances": "",
-    "getTime": "2021-05-15",
+    "getTimeCN": "2021-05-15",
+    "getTimeEN": "2021-11-11",
     "dynamicCompile": "",
     "dialog": "Fitness attire aimed first and foremost at the masses, absorbent and breathable, with strong stretchability. Preorder with full payment to immediately be gifted a random suitcase in a matching color.",
     "isGlobalReleased": "true"
@@ -3010,7 +3125,8 @@
     "rarity": "TIER_6",
     "colorList": "#f6d017,#3a3035,#995f4f,#cfd6d5,#13b9d9,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-06-01",
+    "getTimeCN": "2021-06-01",
+    "getTimeEN": "2021-12-09",
     "dynamicCompile": "",
     "dialog": "T Brand UNDER GARDEN Collab Outfit/Cómodo. A black and white base, the third color freely selectable. A casual design, a multi-modular composition for balanced action/everyday effect.",
     "isGlobalReleased": "true"
@@ -3036,7 +3152,8 @@
     "rarity": "TIER_6",
     "colorList": "#d13421,#342d27,#d13421,#e8e1d6,#d13421,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-06-01",
+    "getTimeCN": "2021-06-01",
+    "getTimeEN": "2021-12-09",
     "dynamicCompile": "",
     "dialog": "T Brand UNDER GARDEN Collab Outfit/Liberté//Échec. A black and red base. A non-integrated design, with multiple accessories to select, the complete effect taking on personalized preferences.",
     "isGlobalReleased": "true"
@@ -3062,7 +3179,8 @@
     "rarity": "TIER_5",
     "colorList": "#b63515,#289eb7,#b63515,#ded3cc,#ef9f20,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-06-01",
+    "getTimeCN": "2021-06-01",
+    "getTimeEN": "2021-12-09",
     "dynamicCompile": "",
     "dialog": "T Brand UNDER GARDEN Collab Outfit/Ursus IO79. A black and red base. A compact design, drawing from casual accessories to give a boost to color variety, bringing about a brand new fashion experience.",
     "isGlobalReleased": "true"
@@ -3088,7 +3206,8 @@
     "rarity": "TIER_5",
     "colorList": "#74726e,#a0a3ad,#74726e,#c5c5c8,#ee5343,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-06-17",
+    "getTimeCN": "2021-06-17",
+    "getTimeEN": "2021-12-17",
     "dynamicCompile": "",
     "dialog": "Made with special materials and designed to be functional, perfect for coping with various needs and weathering even the roughest outdoor conditions.",
     "isGlobalReleased": "true"
@@ -3114,7 +3233,8 @@
     "rarity": "TIER_5",
     "colorList": "#c9b7b2,#e3dada,#463839,#e3dada,#c29172,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-07-02",
+    "getTimeCN": "2021-07-02",
+    "getTimeEN": "2021-12-29",
     "dynamicCompile": "",
     "dialog": "Home leisure style, a present from Carnelian to Beeswax. She believed this one would fit her most, and knew Beeswax would like it.",
     "isGlobalReleased": "true"
@@ -3140,7 +3260,8 @@
     "rarity": "TIER_5",
     "colorList": "#958a93,#f7f3f2,#494248,#9a8b83,#958a93,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-07-02",
+    "getTimeCN": "2021-07-02",
+    "getTimeEN": "2021-12-29",
     "dynamicCompile": "",
     "dialog": "Home leisure style, standard apparel for Victorian housekeeping staff. The pattern on the skirt hem was embroidered in improvisation by Tsukinogi, who seems to have misunderstood this clothing's use case.",
     "isGlobalReleased": "true"
@@ -3166,7 +3287,8 @@
     "rarity": "TIER_4",
     "colorList": "#44362b,#f3f9df,#c3a246,#d7dccc,#44362b,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-07-02",
+    "getTimeCN": "2021-07-02",
+    "getTimeEN": "2021-12-29",
     "dynamicCompile": "",
     "dialog": "Home leisure style, relaxed and pleasing to the eye, graceful and cozy. Comes with a pair of adorable fitted slippers, for an afternoon completely free of cares wherever you are.",
     "isGlobalReleased": "true"
@@ -3192,7 +3314,8 @@
     "rarity": "TIER_4",
     "colorList": "#bdd0c3,#ffffed,#bdd0c3,#bdc6c3,#74817e,,",
     "appearances": "",
-    "getTime": "2021-07-02",
+    "getTimeCN": "2021-07-02",
+    "getTimeEN": "2021-12-29",
     "dynamicCompile": "",
     "dialog": "Home leisure style, selected for Podenco by Lena. Similar colors to Podenco's original clothing, but with a complete change of style.",
     "isGlobalReleased": "true"
@@ -3218,7 +3341,8 @@
     "rarity": "TIER_5",
     "colorList": "#ffd39b,#ab9bd7,#ffd39b,#dae5ff,#484660,,",
     "appearances": "",
-    "getTime": "2021-07-12",
+    "getTimeCN": "2021-07-12",
+    "getTimeEN": "2022-02-17",
     "dynamicCompile": "",
     "dialog": "For the explorer pursuing what remains. Made with special materials suited for adapting to all climates, meeting the harsh demands of complex environments.",
     "isGlobalReleased": "true"
@@ -3244,7 +3368,8 @@
     "rarity": "TIER_6",
     "colorList": "#93329e,#313131,#93329e,#884b8f,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-07-20",
+    "getTimeCN": "2021-07-20",
+    "getTimeEN": "2022-02-04",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -3270,7 +3395,8 @@
     "rarity": "TIER_6",
     "colorList": "#c70039,#c70039,#ffdac9,#c70039,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-07-20",
+    "getTimeCN": "2021-07-20",
+    "getTimeEN": "2022-02-04",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -3296,7 +3422,8 @@
     "rarity": "TIER_5",
     "colorList": "#31326f,#313131,#31326f,#31326f,#313131,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-07-20",
+    "getTimeCN": "2021-07-20",
+    "getTimeEN": "2022-02-04",
     "dynamicCompile": "",
     "dialog": "The material is light, soft, breathable and durable. The latest design that is as enchanting as it is elegant.",
     "isGlobalReleased": "true"
@@ -3322,7 +3449,8 @@
     "rarity": "TIER_4",
     "colorList": "#e69a2a,#035a78,#248ea9,#267969,#122539,,",
     "appearances": "",
-    "getTime": "2021-08-03",
+    "getTimeCN": "2021-08-03",
+    "getTimeEN": "2022-01-14",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -3348,7 +3476,8 @@
     "rarity": "TIER_5",
     "colorList": "#ffcd60,#5f4d3e,#89705b,#db5834,#231c17,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-08-03",
+    "getTimeCN": "2021-08-03",
+    "getTimeEN": "2022-01-14",
     "dynamicCompile": "",
     "dialog": "A swimsuit and jacket set designed with the full body in mind. Sure to satisfy your waterside athletic needs.",
     "isGlobalReleased": "true"
@@ -3374,7 +3503,8 @@
     "rarity": "TIER_6",
     "colorList": "#48433d,#211f1c,#6b6460,#c82b22,#1d1d14,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-08-03",
+    "getTimeCN": "2021-08-03",
+    "getTimeEN": "2022-01-14",
     "dynamicCompile": "",
     "dialog": "The material is light, soft, breathable and durable. The latest design that is as enchanting as it is elegant.",
     "isGlobalReleased": "true"
@@ -3400,7 +3530,8 @@
     "rarity": "TIER_5",
     "colorList": "#193a83,#1c222d,#5a6a67,#107ad9,#004a91,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-08-03",
+    "getTimeCN": "2021-08-03",
+    "getTimeEN": "2022-01-14",
     "dynamicCompile": "",
     "dialog": "A swimsuit and jacket set designed with the full body in mind. Sure to satisfy your waterside athletic needs.",
     "isGlobalReleased": "true"
@@ -3426,7 +3557,8 @@
     "rarity": "TIER_4",
     "colorList": "#004a91,#363c3b,#757d7d,#196495,#9e2b29,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-08-03",
+    "getTimeCN": "2021-08-03",
+    "getTimeEN": "2022-01-14",
     "dynamicCompile": "",
     "dialog": "Made with materials that are both durable and comfortable, this outfit ensures high performance in a variety of different conditions.",
     "isGlobalReleased": "true"
@@ -3452,7 +3584,8 @@
     "rarity": "TIER_5",
     "colorList": "#072641,#143752,#78807f,#88adb2,#b64854,,",
     "appearances": "",
-    "getTime": "2021-08-24",
+    "getTimeCN": "2021-08-24",
+    "getTimeEN": "2022-03-01",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -3478,7 +3611,8 @@
     "rarity": "TIER_6",
     "colorList": "#1a1d83,#fefdfd,#122146,#3559ff,#1f2155,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-09-17",
+    "getTimeCN": "2021-09-17",
+    "getTimeEN": "2022-03-17",
     "dynamicCompile": "",
     "dialog": "The cloistered idol Hildegard, appearing with the sponsorship from MountainDash Logistics, sings the praises of Landen Monstery in a modern, fashionable way.",
     "isGlobalReleased": "true"
@@ -3504,7 +3638,8 @@
     "rarity": "TIER_5",
     "colorList": "#000d2b,#fbfbfa,#16275a,#e8c998,#1f2f47,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-09-17",
+    "getTimeCN": "2021-09-17",
+    "getTimeEN": "2022-03-17",
     "dynamicCompile": "",
     "dialog": "Astesia joins the project at her own expense, looking to interpret the stories written in the sky in a popular and easily accessible way.",
     "isGlobalReleased": "true"
@@ -3530,7 +3665,8 @@
     "rarity": "TIER_4",
     "colorList": "#99231b,#fbffff,#bc3725,#ff623e,#3b2627,,",
     "appearances": "",
-    "getTime": "2021-09-17",
+    "getTimeCN": "2021-09-17",
+    "getTimeEN": "2022-03-17",
     "dynamicCompile": "",
     "dialog": "After passing her audition, Pinecone took to the stage with no especially strong desire to be an idol. She just wants to sing.",
     "isGlobalReleased": "true"
@@ -3556,7 +3692,8 @@
     "rarity": "TIER_4",
     "colorList": "#df5a41,#f8f5f1,#33342f,#d45b3b,#6c3229,,",
     "appearances": "",
-    "getTime": "2021-09-30",
+    "getTimeCN": "2021-09-30",
+    "getTimeEN": "2022-04-07",
     "dynamicCompile": "",
     "dialog": "Trendy autumn attire, loose and breathable. Incorporates a unique multi-layer pocket design, convenient for holding all sorts of lightweight souvenirs during a serendipitous sojourn.",
     "isGlobalReleased": "true"
@@ -3582,7 +3719,8 @@
     "rarity": "TIER_5",
     "colorList": "#332b3c,#fffdf1,#2f1e44,#827688,34214c,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-10-01",
+    "getTimeCN": "2021-10-01",
+    "getTimeEN": "2022-03-31",
     "dynamicCompile": "",
     "dialog": "Zofia's attire when she participated in the Kazimierz Major awards ceremony. The right choice of attire made her the center of attention during the ceremony.",
     "isGlobalReleased": "true"
@@ -3608,7 +3746,8 @@
     "rarity": "TIER_6",
     "colorList": "#171d26,#fffff7,#313139,#d4729e,#793c50,,",
     "appearances": "Il Siracusano Rerun, Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-10-15",
+    "getTimeCN": "2021-10-15",
+    "getTimeEN": "2022-04-14",
     "dynamicCompile": "",
     "dialog": "The actor plays the role of the heir of bane who descends upon Terra after rending the moon into twins. The hero stands no chance in a head-on fight.",
     "isGlobalReleased": "true"
@@ -3634,7 +3773,8 @@
     "rarity": "TIER_5",
     "colorList": "#42245e,#ffffff,#131720,#c27fad,#483659,,",
     "appearances": "Il Siracusano Rerun, Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-10-15",
+    "getTimeCN": "2021-10-15",
+    "getTimeEN": "2022-04-14",
     "dynamicCompile": "",
     "dialog": "The actor plays the role of the Horrorlair's incarnation, patrolling its corridors and keeping it safe from the patronage of thieves.",
     "isGlobalReleased": "true"
@@ -3660,7 +3800,8 @@
     "rarity": "TIER_5",
     "colorList": "#c5565e,#fffff1,#30333a,#ff746e,#13151d,,",
     "appearances": "Il Siracusano Rerun, Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-10-15",
+    "getTimeCN": "2021-10-15",
+    "getTimeEN": "2022-04-14",
     "dynamicCompile": "",
     "dialog": "The actor plays the role of the hero chosen by fate, who descends into the Horrorlair not just to quell disaster and eliminate evil, but with the hope of finding treasures to improve her life.",
     "isGlobalReleased": "true"
@@ -3686,7 +3827,8 @@
     "rarity": "TIER_4",
     "colorList": "#66546d,#fbfcfc,#1e1e21,#da6236,#100d0e,,",
     "appearances": "",
-    "getTime": "2021-10-15",
+    "getTimeCN": "2021-10-15",
+    "getTimeEN": "2022-04-14",
     "dynamicCompile": "",
     "dialog": "The actor plays the role of the first enemy the hero faces. If defeated, she will offer her service as a merchant.",
     "isGlobalReleased": "true"
@@ -3712,7 +3854,8 @@
     "rarity": "TIER_6",
     "colorList": "#52665b,#a80300,#374543,#caccc7,#374543,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-11-01",
+    "getTimeCN": "2021-11-01",
+    "getTimeEN": "2022-04-28",
     "dynamicCompile": "",
     "dialog": "Traditional Minoan ritual attire, coordinated with modern themes, is once again in vogue among Minoans.",
     "isGlobalReleased": "true"
@@ -3738,7 +3881,8 @@
     "rarity": "TIER_6",
     "colorList": "#46434f,#a80300,#e6e0cd,#7f7c89,#1d1d2b,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-11-01",
+    "getTimeCN": "2021-11-01",
+    "getTimeEN": "2022-04-28",
     "dynamicCompile": "",
     "dialog": "The outfit worn by Natalya Andreyevna Rostova, student council president of Chernobog #4 Secondary School, during her commencement speech.",
     "isGlobalReleased": "true"
@@ -3764,7 +3908,8 @@
     "rarity": "TIER_5",
     "colorList": "#0229f0,#d3d13f,#0229f0,#9d9688,#aa9f42,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-11-01",
+    "getTimeCN": "2021-11-01",
+    "getTimeEN": "2022-04-28",
     "dynamicCompile": "",
     "dialog": "An Iberian classic, enhanced with the customer's own artistic touches. Andreana particularly appreciates this outfit's moisture resistance.",
     "isGlobalReleased": "true"
@@ -3790,7 +3935,8 @@
     "rarity": "TIER_4",
     "colorList": "#dcae61,#2a2aa0,#990c16,#990c16,#2a2aa0,,",
     "appearances": "",
-    "getTime": "2021-11-08",
+    "getTimeCN": "2021-11-08",
+    "getTimeEN": "2022-05-05",
     "dynamicCompile": "",
     "dialog": "Generalissimo Myrtle's attire during her triumphant return. Stand at attention–– and salute!",
     "isGlobalReleased": "true"
@@ -3816,7 +3962,8 @@
     "rarity": "TIER_6",
     "colorList": "#b9c4b4,#dc4314,#2b402d,#b6b7a9,#dc4314,,",
     "appearances": "",
-    "getTime": "2021-11-22",
+    "getTimeCN": "2021-11-22",
+    "getTimeEN": "2022-06-09",
     "dynamicCompile": "",
     "dialog": "Handmade in Lungmen, the outfit includes multiple pieces of clothing that can be mixed and matched based on the customer's mood. The details in the outfit have been adjusted according to his needs, and includes an old-fashioned medicine box.",
     "isGlobalReleased": "true"
@@ -3842,7 +3989,8 @@
     "rarity": "TIER_5",
     "colorList": "#bbb634,#afc7cf,#4d6243,#4d6243,#bbb634,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-12-07",
+    "getTimeCN": "2021-12-07",
+    "getTimeEN": "2022-05-26",
     "dynamicCompile": "",
     "dialog": "The choice of the Columbian pioneer, with a core emphasis on strong and durable design. The added details give this outfit that extra personal touch.",
     "isGlobalReleased": "true"
@@ -3868,7 +4016,8 @@
     "rarity": "TIER_6",
     "colorList": "435a93,ffb930,b1203b,d2dbf4,121a2a,,",
     "appearances": "The Rides to Lake Silberneherze, Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-12-21",
+    "getTimeCN": "2021-12-21",
+    "getTimeEN": "2022-06-30",
     "dynamicCompile": "",
     "dialog": "A traditional Leithanian women's trenchcoat with a pair of animal skin shawls and fleece gloves. Fear not the cold.",
     "isGlobalReleased": "true"
@@ -3894,7 +4043,8 @@
     "rarity": "TIER_5",
     "colorList": "e7a26b,ce2f34,43573e,e58d5e,35362a,,",
     "appearances": "The Rides to Lake Silberneherze, Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-12-21",
+    "getTimeCN": "2021-12-21",
+    "getTimeEN": "2022-06-30",
     "dynamicCompile": "",
     "dialog": "Made in Victorian fashion, featuring exquisite materials. Perfectly aligned while maintaining comfort to give an overall crisp look to the outfit - simple, yet not so simple.",
     "isGlobalReleased": "true"
@@ -3920,7 +4070,8 @@
     "rarity": "TIER_5",
     "colorList": "559670,cf423e,66a087,88d6b4,2a2527,,",
     "appearances": "The Rides to Lake Silberneherze, Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2021-12-21",
+    "getTimeCN": "2021-12-21",
+    "getTimeEN": "2022-06-30",
     "dynamicCompile": "",
     "dialog": "A smorgasbord of different elements and styles, featuring a red undergarment that contrasts with the green jacket. Kafka's fashion sense is as bold as her découpage.",
     "isGlobalReleased": "true"
@@ -3946,7 +4097,8 @@
     "rarity": "TIER_4",
     "colorList": "bdba4b,b9b847,a90f20,76762a,343434,,",
     "appearances": "",
-    "getTime": "2021-12-24",
+    "getTimeCN": "2021-12-24",
+    "getTimeEN": "2022-07-01",
     "dynamicCompile": "",
     "dialog": "An off-white knitted sweater paired with light-green silk pajamas for a low-key aesthetic. When in the company of friends, comfort is the highest priority.",
     "isGlobalReleased": "true"
@@ -3972,7 +4124,8 @@
     "rarity": "TIER_5",
     "colorList": "d45537,ef5734,876a96,bd4529,230c0a,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-01-10",
+    "getTimeCN": "2022-01-10",
+    "getTimeEN": "2022-07-14",
     "dynamicCompile": "",
     "dialog": "Handmade in Lungmen, tailor-fitted with special consideration to exotic design elements. The outfit has been improved in accordance with the customer's preference to incorporate Yan's novel trends.",
     "isGlobalReleased": "true"
@@ -3998,7 +4151,8 @@
     "rarity": "TIER_6",
     "colorList": "#414553,#8d0a09,#85c7c6,#202535,#8d0a09,,",
     "appearances": "Where Vernal Winds Will Never Blow Rerun",
-    "getTime": "2022-01-25",
+    "getTimeCN": "2022-01-25",
+    "getTimeEN": "2022-07-29",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/20220321.html",
     "dialog": "A silky and delicate satin surface, perfectly fitted to the wearer's body shape. Blue-green envelops the body, invoking an ancient charm. After completing the outfit's design, the client draws it into existence, ready-to-wear, with a stroke of the brush.",
     "isGlobalReleased": "true"
@@ -4024,7 +4178,8 @@
     "rarity": "TIER_5",
     "colorList": "#232323,#a03b36,#376c79,#3b3b3b,#2b3944,,",
     "appearances": "Where Vernal Winds Will Never Blow Rerun, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-01-25",
+    "getTimeCN": "2022-01-25",
+    "getTimeEN": "2022-07-29",
     "dynamicCompile": "",
     "dialog": "Inspired by the outfits Mr. Nothing uses to conceal others, with an improved design. Just as the moon waxes and wanes, some people occasionally decide to break character and act debonair.",
     "isGlobalReleased": "true"
@@ -4050,7 +4205,8 @@
     "rarity": "TIER_5",
     "colorList": "#a5b7c7,#9f1638,#353a38,#424d52,#9f1638,,",
     "appearances": "Where Vernal Winds Will Never Blow Rerun, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-01-25",
+    "getTimeCN": "2022-01-25",
+    "getTimeEN": "2022-07-29",
     "dynamicCompile": "",
     "dialog": "FEater's outfit from a bestselling Lungmen foodie film. Incorporates a sporty inner layer and a traditional knotted jacked, once all the rage.",
     "isGlobalReleased": "true"
@@ -4076,7 +4232,8 @@
     "rarity": "TIER_4",
     "colorList": "#674c49,#7c619d,#f3e6e8,#a49a9a,#7c619d,,",
     "appearances": "",
-    "getTime": "2022-02-05",
+    "getTimeCN": "2022-02-05",
+    "getTimeEN": "2022-08-10",
     "dynamicCompile": "",
     "dialog": "Handmade in Lungmen. The fabric is light and comfortable, using the client's favorite purple color as a base and embellished with dark lines. Casual yet dignified, it is perfect for all sorts of occasions.",
     "isGlobalReleased": "true"
@@ -4102,7 +4259,8 @@
     "rarity": "TIER_6",
     "colorList": "#5a524f,#5a524f,#2b917d,#423835,#2b917d,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-02-15",
+    "getTimeCN": "2022-02-15",
+    "getTimeEN": "2022-08-18",
     "dynamicCompile": "",
     "dialog": "A set of children's clothes, Columbian in origin. Vulcan's reward to Ceobe for being a good girl.",
     "isGlobalReleased": "true"
@@ -4128,7 +4286,8 @@
     "rarity": "TIER_5",
     "colorList": "#d1572a,#3a3a35,#d1572a,#3a3a35,#d1572a,,",
     "appearances": "Here A People Sows, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-02-15",
+    "getTimeCN": "2022-02-15",
+    "getTimeEN": "2022-08-18",
     "dynamicCompile": "",
     "dialog": "A custom Lungmen-style outfit, tight-fitting attire made entirely from aged leather. Rugged and good-looking at the same time.",
     "isGlobalReleased": "true"
@@ -4154,7 +4313,8 @@
     "rarity": "TIER_4",
     "colorList": "#748378,#c38b49,#424040,#424040,#c38b49,,",
     "appearances": "",
-    "getTime": "2022-02-15",
+    "getTimeCN": "2022-02-15",
+    "getTimeEN": "2022-08-18",
     "dynamicCompile": "",
     "dialog": "Green jacket over a simple shirt, with a pair of jeans and protective pads. Very easy to move in, making it well-suited for the outdoors.",
     "isGlobalReleased": "true"
@@ -4180,7 +4340,8 @@
     "rarity": "TIER_5",
     "colorList": "#2e334b,#2e334b,#40846a,#a7a9a5,#40846a,,",
     "appearances": "",
-    "getTime": "2022-02-24",
+    "getTimeCN": "2022-02-24",
+    "getTimeEN": "2022-08-30",
     "dynamicCompile": "",
     "dialog": "Limited-edition padded jacket with leather bottoms and artisan accessories. SOLD OUT: STAY TUNED FOR ANNOUNCEMENTS ABOUT RESTOCKING.",
     "isGlobalReleased": "true"
@@ -4206,7 +4367,8 @@
     "rarity": "TIER_6",
     "colorList": "#3260a2,#3260a2,#8f84de,#8f84de,#3260a2,,",
     "appearances": "Operation Lucent Arrow, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-03-15",
+    "getTimeCN": "2022-03-15",
+    "getTimeEN": "2022-09-16",
     "dynamicCompile": "",
     "dialog": "Finely-crafted Victorian dress, handmade from the finest materials. An elegant and dignified outfit bound to garner attention anywhere.",
     "isGlobalReleased": "true"
@@ -4232,7 +4394,8 @@
     "rarity": "TIER_5",
     "colorList": "#616b58,#808e74,#b7d85c,#545e4c,#a3c052,,",
     "appearances": "Operation Lucent Arrow, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-03-15",
+    "getTimeCN": "2022-03-15",
+    "getTimeEN": "2022-09-16",
     "dynamicCompile": "",
     "dialog": "Practical outfit worn by Mulberry for both relief and horticultural work, with enough pockets for all her tools. Green trimmings adorn the simple fabric, representing verdant life.",
     "isGlobalReleased": "true"
@@ -4258,7 +4421,8 @@
     "rarity": "TIER_5",
     "colorList": "#3f374d,#3f374d,#783c5d,#3f374d,#302641,,",
     "appearances": "Operation Lucent Arrow, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-03-15",
+    "getTimeCN": "2022-03-15",
+    "getTimeEN": "2022-09-16",
     "dynamicCompile": "",
     "dialog": "Rugged traditional Sargon outfit, suitable for long journeys. The new collar details give the wearer a closer fit.",
     "isGlobalReleased": "true"
@@ -4284,7 +4448,8 @@
     "rarity": "TIER_5",
     "colorList": "#2f373c,#4a645e,#41452f,#4a5c3b,#41452f,,",
     "appearances": "Babel",
-    "getTime": "2022-03-29",
+    "getTimeCN": "2022-03-29",
+    "getTimeEN": "2022-10-04",
     "dynamicCompile": "",
     "dialog": "For the explorer pursuing what remains. Made with special materials suited for all climates, meeting the harsh demands of complex environments.",
     "isGlobalReleased": "true"
@@ -4310,7 +4475,8 @@
     "rarity": "TIER_6",
     "colorList": "#59513f,#59513f,#720e10,#430a0c,#614e36,,",
     "appearances": "",
-    "getTime": "2022-03-31",
+    "getTimeCN": "2022-03-31",
+    "getTimeEN": "2022-10-01",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202203222.html",
     "dialog": "The attire Phantom wore when he left for the castle, and the costume of his maiden performance. After an age of gathering dust, it finally sees the light of day again.",
     "isGlobalReleased": "true"
@@ -4336,7 +4502,8 @@
     "rarity": "TIER_4",
     "colorList": "#eab61c,#dd3c46,#00a8a8,#fcba09,#00a8a8,,",
     "appearances": "",
-    "getTime": "2022-04-01",
+    "getTimeCN": "2022-04-01",
+    "getTimeEN": "2023-04-01",
     "dynamicCompile": "",
     "dialog": "A complimentary outfit that came with the luxury limited edition of a retro arcade machine. Loose and relaxed with a classic palette, this fit will both flaunt your gamer status and accompany you on your daily outings.",
     "isGlobalReleased": "true"
@@ -4362,7 +4529,8 @@
     "rarity": "TIER_6",
     "colorList": "#767268,#c3a62f,#58736b,#58736b,#28343a,,",
     "appearances": "Babel, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-04-14",
+    "getTimeCN": "2022-04-14",
+    "getTimeEN": "2022-10-19",
     "dynamicCompile": "",
     "dialog": "A product of Raythean Industries, this defensive gear is designed for robust combat, with additional high-density shock-absorbent elements present in the lining that answer the impact of attacks, while simultaneously tailored in parts to ensure high flexibility.",
     "isGlobalReleased": "true"
@@ -4388,7 +4556,8 @@
     "rarity": "TIER_5",
     "colorList": "#707a83,#836d97,#d7d7da,#2f3535,#836d97,,",
     "appearances": "Babel, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-04-14",
+    "getTimeCN": "2022-04-14",
+    "getTimeEN": "2022-10-19",
     "dynamicCompile": "",
     "dialog": "A product of Raythean Industries, this traditional Victorian formal attire has been reworked with upgraded materials across the board, alongside a lining imbued with the latest in structured textiles, providing effective protection against sharp instruments.",
     "isGlobalReleased": "true"
@@ -4414,7 +4583,8 @@
     "rarity": "TIER_4",
     "colorList": "#322b2c,#8d001c,#273b3e,#869b97,#2b2c2d,,",
     "appearances": "Babel, Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-04-14",
+    "getTimeCN": "2022-04-14",
+    "getTimeEN": "2022-10-19",
     "dynamicCompile": "",
     "dialog": "A product of Raythean Industries, adopting the latest in adaptive clothing material, paired with an all-encompassing tailoring that tightly hugs the skin, ensuring operators' survival under the most extreme circumstances.",
     "isGlobalReleased": "true"
@@ -4440,7 +4610,8 @@
     "rarity": "TIER_6",
     "colorList": "#8d95a8,#911734,#4c5f89,#14222c,#5b6b7e,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-05-01",
+    "getTimeCN": "2022-05-01",
+    "getTimeEN": "2022-11-03",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202204205.html",
     "dialog": "In the ocean-soaked wreckage of this great Iberian chapel rests He, and His song comes from the efferent throat, to reach the ears of every Seaborn.",
     "isGlobalReleased": "true"
@@ -4466,7 +4637,8 @@
     "rarity": "TIER_6",
     "colorList": "#4b555c,#4e080e,#2c2b2f,#21262e,#758189,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-05-01",
+    "getTimeCN": "2022-05-01",
+    "getTimeEN": "2022-11-03",
     "dynamicCompile": "",
     "dialog": "Following the Vine-Bear Court's final meeting of the Tri-Clan Council, Gnosis formally assumed the post of inaugural Speaker of the Parliament of Kjerag by SilverAsh's recommendation.",
     "isGlobalReleased": "true"
@@ -4492,7 +4664,8 @@
     "rarity": "TIER_5",
     "colorList": "#748abc,#e37030,#2d51a6,#14191b,#e0591d,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-05-01",
+    "getTimeCN": "2022-05-01",
+    "getTimeEN": "2022-11-03",
     "dynamicCompile": "",
     "dialog": "The nations of Terra collectively sent a dozen or so survey groups to scale Sami's perilous peaks. Only Team Aurora funded by Karlan Trade Co. ultimately scaled the summits without hassle, planting their flags and beacons at the peaks.",
     "isGlobalReleased": "true"
@@ -4518,7 +4691,8 @@
     "rarity": "TIER_1",
     "colorList": "#ddbf35,#3a3cb4,#ddbf35,#545251,#3a3cb4,,",
     "appearances": "",
-    "getTime": "2022-05-01",
+    "getTimeCN": "2022-05-01",
+    "getTimeEN": "2022-11-03",
     "dynamicCompile": "",
     "dialog": "Lancet-2 was unexpectedly shot down into the water while aiding Ægir refugees off the coast of Iberia, and remained afloat for three months until located and retrieved by a Rhodes Island search and rescue team.",
     "isGlobalReleased": "true"
@@ -4544,7 +4718,8 @@
     "rarity": "TIER_6",
     "colorList": "#575450,#15a876,#2c2a26,#33312e,#15a876,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2022-05-01",
+    "getTimeCN": "2022-05-01",
+    "getTimeEN": "2022-11-03",
     "dynamicCompile": "",
     "dialog": "Mudrock's work outfit. Mudrock made rounds between every facility at the venue, ensuring the performance would go without a hitch. Though working behind the scenes, she nevertheless opted for a disguise of sorts so as not to disturb the audience.",
     "isGlobalReleased": "true"
@@ -4570,7 +4745,8 @@
     "rarity": "TIER_5",
     "colorList": "#6c6d63,#5e948d,#c2a97d,#696a5e,#5e948d,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2022-05-01",
+    "getTimeCN": "2022-05-01",
+    "getTimeEN": "2022-11-03",
     "dynamicCompile": "",
     "dialog": "Tequila's formal stage outfit. Qualified hosts heat up the audience; excellent hosts strive to eliminate any errant possibility.",
     "isGlobalReleased": "true"
@@ -4596,7 +4772,8 @@
     "rarity": "TIER_5",
     "colorList": "#607f70,#fbffeb,#5aa05b,#fbffeb,#5aa05b,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2022-05-01",
+    "getTimeCN": "2022-05-01",
+    "getTimeEN": "2022-11-03",
     "dynamicCompile": "",
     "dialog": "Reed's plain outfit during downtime. Lyrics have limits, and manuscripts have deadlines, but all that's still far, far away. They're no worry; in the comfort of the afternoon sun, finishing your glass of juice comes first.",
     "isGlobalReleased": "true"
@@ -4622,7 +4799,8 @@
     "rarity": "TIER_4",
     "colorList": "#d3e8f0,#684f9e,#f5ecef,#e4f3f9,#684f9e,,",
     "appearances": "",
-    "getTime": "2022-05-03",
+    "getTimeCN": "2022-05-03",
+    "getTimeEN": "2022-11-06",
     "dynamicCompile": "",
     "dialog": "Operator Frostleaf's attire during her special appointment by the Rhodes Island Columbia branch to conduct a search and rescue in the nation's north. Life has bestowed her the resolve to return to the battlefield.",
     "isGlobalReleased": "true"
@@ -4648,7 +4826,8 @@
     "rarity": "TIER_6",
     "colorList": "#4b4d67,#821d23,#eceff4,#1c1e2f,#a6212f,,",
     "appearances": "",
-    "getTime": "2022-05-30",
+    "getTimeCN": "2022-05-30",
+    "getTimeEN": "2022-11-25",
     "dynamicCompile": "",
     "dialog": "Ægir Consul Gladiia's attire as she led her unit to return to the sea. Following sufficient exchange with the nations of dry land, the Ægir found themselves fully prepared to return to the home they'd left.",
     "isGlobalReleased": "true"
@@ -4674,7 +4853,8 @@
     "rarity": "TIER_6",
     "colorList": "#dddddd,#d50011,#38daa8,#656761,#d50011,,",
     "appearances": "",
-    "getTime": "2022-06-09",
+    "getTimeCN": "2022-06-09",
+    "getTimeEN": "2022-12-27",
     "dynamicCompile": "",
     "dialog": "Sporty outfit worn by Flametail when playing VR games. The limited space is made even more cramped by the gaming equipment, but she has a great time nonetheless.",
     "isGlobalReleased": "true"
@@ -4700,7 +4880,8 @@
     "rarity": "TIER_5",
     "colorList": "#f9ed2b,#091c22,#f9ed2b,#091c22,#2788ea,,",
     "appearances": "",
-    "getTime": "2022-06-09",
+    "getTimeCN": "2022-06-09",
+    "getTimeEN": "2022-12-27",
     "dynamicCompile": "",
     "dialog": "The outfit Aosta wore while working for the Family, paired with tactical equipment. He also likes to wear it when testing light guns at Rhodes Island.",
     "isGlobalReleased": "true"
@@ -4726,7 +4907,8 @@
     "rarity": "TIER_5",
     "colorList": "#c8a7ec,#1b243d,#ea8fd0,#343551,#ea8fd0,,",
     "appearances": "",
-    "getTime": "2022-06-09",
+    "getTimeCN": "2022-06-09",
+    "getTimeEN": "2022-12-27",
     "dynamicCompile": "",
     "dialog": "A gift from the devs, thrown in when Kirara bought a complete set of gaming equipment. Customized just for her, a loose and comfortable outfit for around the home.",
     "isGlobalReleased": "true"
@@ -4752,7 +4934,8 @@
     "rarity": "TIER_6",
     "colorList": "#3f3b69,#c22947,#3540aa,#86526c,#d97487,,",
     "appearances": "",
-    "getTime": "2022-07-05",
+    "getTimeCN": "2022-07-05",
+    "getTimeEN": "2023-03-14",
     "dynamicCompile": "",
     "dialog": "Tight-fitting, lightweight, breathable, and designed for the summer.",
     "isGlobalReleased": "true"
@@ -4778,7 +4961,8 @@
     "rarity": "TIER_5",
     "colorList": "#747fa3,#ff6923,#6a7d63,#586472,#3c4858,,",
     "appearances": "",
-    "getTime": "2022-07-05",
+    "getTimeCN": "2022-07-05",
+    "getTimeEN": "2023-03-14",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -4804,7 +4988,8 @@
     "rarity": "TIER_5",
     "colorList": "#465952,#7bb041,#f3c458,#6a7861,#c1ca7f,,",
     "appearances": "",
-    "getTime": "2022-07-05",
+    "getTimeCN": "2022-07-05",
+    "getTimeEN": "2023-03-14",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -4830,7 +5015,8 @@
     "rarity": "TIER_3",
     "colorList": "#819aab,#2192ae,#1c2024,#56768b,#335164,,",
     "appearances": "",
-    "getTime": "2022-07-19",
+    "getTimeCN": "2022-07-19",
+    "getTimeEN": "2023-02-17",
     "dynamicCompile": "",
     "dialog": "Custom-made by the Lateran Curia for certain Legati. Sankta who get custom outfits all share a common feature: there is something unusual about their halos.",
     "isGlobalReleased": "true"
@@ -4856,7 +5042,8 @@
     "rarity": "TIER_6",
     "colorList": "#34b2f5,#fffffc,#34b2f5,#79d0ff,#ff6349,,",
     "appearances": "",
-    "getTime": "2022-08-11",
+    "getTimeCN": "2022-08-11",
+    "getTimeEN": "2023-01-13",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202208297.html",
     "dialog": "The cool and comfortable blends well with diverse decorations for a unique interpretation of summer.",
     "isGlobalReleased": "true"
@@ -4882,7 +5069,8 @@
     "rarity": "TIER_5",
     "colorList": "#40d0ff,#ffffff,#40d0ff,#95d4e9,#3d7864,,",
     "appearances": "",
-    "getTime": "2022-08-11",
+    "getTimeCN": "2022-08-11",
+    "getTimeEN": "2023-01-13",
     "dynamicCompile": "",
     "dialog": "Brings out a girl’s figure and physique using all-natural materials. Pursue this summer’s hottest trend.",
     "isGlobalReleased": "true"
@@ -4908,7 +5096,8 @@
     "rarity": "TIER_5",
     "colorList": "#2c795f,#fffffc,#2c795f,#78bc96,#d4cc4d,,",
     "appearances": "",
-    "getTime": "2022-08-11",
+    "getTimeCN": "2022-08-11",
+    "getTimeEN": "2023-01-13",
     "dynamicCompile": "",
     "dialog": "Tight-fitting, lightweight, breathable, and designed for the summer.",
     "isGlobalReleased": "true"
@@ -4934,7 +5123,8 @@
     "rarity": "TIER_4",
     "colorList": "#52f1ff,#ffffff,#52f1ff,#92d7e3,#f87447,,",
     "appearances": "",
-    "getTime": "2022-08-18",
+    "getTimeCN": "2022-08-18",
+    "getTimeEN": "2023-01-13",
     "dynamicCompile": "",
     "dialog": "Brings out a girl’s figure and physique using all-natural materials. Pursue this summer’s hottest trend.",
     "isGlobalReleased": "true"
@@ -4960,7 +5150,8 @@
     "rarity": "TIER_5",
     "colorList": "#3c5164,#fffffa,#3c5164,#8aaac7,#2d3430,,",
     "appearances": "",
-    "getTime": "2022-08-25",
+    "getTimeCN": "2022-08-25",
+    "getTimeEN": "2023-02-03",
     "dynamicCompile": "",
     "dialog": "Targeted at fitness enthusiasts, with material that stretches well and is gentle on the skin. Comfortable and breathable, it is suitable for all types of sports.",
     "isGlobalReleased": "true"
@@ -4986,7 +5177,8 @@
     "rarity": "TIER_4",
     "colorList": "#cfa139,#655071,#eb7647,#3b3549,#d6a62c,,",
     "appearances": "",
-    "getTime": "2022-09-08",
+    "getTimeCN": "2022-09-08",
+    "getTimeEN": "2023-03-31",
     "dynamicCompile": "",
     "dialog": "Home leisure style, snug and cozy material. Dark purple and tangerine yellow collide for a full-on sense of vogue.",
     "isGlobalReleased": "true"
@@ -5012,7 +5204,8 @@
     "rarity": "TIER_6",
     "colorList": "#8e8c9d,#fafbfc,#363646,#343446,#707087,,",
     "appearances": "",
-    "getTime": "2022-09-08",
+    "getTimeCN": "2022-09-08",
+    "getTimeEN": "2023-03-31",
     "dynamicCompile": "",
     "dialog": "Traditional Victorian textiles and tailoring, every cut made by the hands of craftsmen, its custom-made monochrome cloth premium without being conspicuous.",
     "isGlobalReleased": "true"
@@ -5038,7 +5231,8 @@
     "rarity": "TIER_5",
     "colorList": "#6f8c9a,#5c5177,#2b506d,#314057,#717f84,,",
     "appearances": "",
-    "getTime": "2022-09-08",
+    "getTimeCN": "2022-09-08",
+    "getTimeEN": "2023-03-31",
     "dynamicCompile": "",
     "dialog": "Adroit tailoring and a rich modern sense for color, contrasted with accessories detailed with classical appeal. Spectacles are custom-made as a gift by the brand, for the client.",
     "isGlobalReleased": "true"
@@ -5064,7 +5258,8 @@
     "rarity": "TIER_6",
     "colorList": "#667d43,#fff4bd,#dbcda2,#5b5d54,#9cad4f,,",
     "appearances": "",
-    "getTime": "2022-09-15",
+    "getTimeCN": "2022-09-15",
+    "getTimeEN": "2023-04-07",
     "dynamicCompile": "",
     "dialog": "Rustic apparel commonly seen in Terra's central regions. Simple and easygoing, hardy against wear and dirt. Best suited to journeys, outings, and other such daily activities.",
     "isGlobalReleased": "true"
@@ -5090,7 +5285,8 @@
     "rarity": "TIER_5",
     "colorList": "#a8506f,#2b265a,#fbc6dc,#5b5e70,#b24959,,",
     "appearances": "",
-    "getTime": "2022-09-15",
+    "getTimeCN": "2022-09-15",
+    "getTimeEN": "2023-04-07",
     "dynamicCompile": "",
     "dialog": "Glossy texturing and a bright palette make for materials that shout energy, while contour-hugging innerwear pairs with a loose-fit jacket to provide both comfort and chic.",
     "isGlobalReleased": "true"
@@ -5116,7 +5312,8 @@
     "rarity": "TIER_5",
     "colorList": "#54574f,#dc696e,#769ea0,#54574f,#343434,,",
     "appearances": "",
-    "getTime": "2022-09-22",
+    "getTimeCN": "2022-09-22",
+    "getTimeEN": "2023-04-14",
     "dynamicCompile": "",
     "dialog": "Attire of Wild Mane during repairs of 'Justice Knight.' Cozy and breathable, while wear and stain resistant. Detailing and accessories in contrasting colors coordinated to embody that sense of planning.",
     "isGlobalReleased": "true"
@@ -5142,7 +5339,8 @@
     "rarity": "TIER_3",
     "colorList": "#1f395e,#616c74,#1bfccec,#7eaad4,#0f131d,,",
     "appearances": "",
-    "getTime": "2022-10-04",
+    "getTimeCN": "2022-10-04",
+    "getTimeEN": "2023-05-15",
     "dynamicCompile": "",
     "dialog": "An outfit tailor-made by Karlan Trade for their affiliated business negotiators. First impressions are of the utmost importance in trade talks. Steward knows this well, and has never failed to live up to expectations.",
     "isGlobalReleased": "true"
@@ -5168,7 +5366,8 @@
     "rarity": "TIER_6",
     "colorList": "#c2824e,#599a3f,#ff3100,#5f8c40,#ff3100,,",
     "appearances": "",
-    "getTime": "2022-10-11",
+    "getTimeCN": "2022-10-11",
+    "getTimeEN": "2023-04-27",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202210279.html",
     "dialog": "The actor plays the role of a Great Thief Magician, here for the treasure. No, come now—doubt those eyes of yours. Trust his hands.",
     "isGlobalReleased": "true"
@@ -5194,7 +5393,8 @@
     "rarity": "TIER_5",
     "colorList": "#d2ba90,#a90625,#ffa95c,#c5524c,#760618,,",
     "appearances": "",
-    "getTime": "2022-10-11",
+    "getTimeCN": "2022-10-11",
+    "getTimeEN": "2023-04-27",
     "dynamicCompile": "",
     "dialog": "The actor—hush, now. Does she play the role of the Master, a guest, or a phantom in the mirror? Until the highest landing is reached, all remains a mystery.",
     "isGlobalReleased": "true"
@@ -5220,7 +5420,8 @@
     "rarity": "TIER_5",
     "colorList": "#f83358,#323132,#f83358,#e09fc2,#323132,,",
     "appearances": "",
-    "getTime": "2022-10-11",
+    "getTimeCN": "2022-10-11",
+    "getTimeEN": "2023-04-27",
     "dynamicCompile": "",
     "dialog": "The actor plays the role of the maid who guards the treasure. In a sea of roaming shadows of a hundred and one forms, all truest true and falsest false, the willful intruder finds himself endlessly dithering about the stairs.",
     "isGlobalReleased": "true"
@@ -5246,7 +5447,8 @@
     "rarity": "TIER_6",
     "colorList": "#213e62,#8baa4f,#213e62,#a26b66,#0f131d,,",
     "appearances": "",
-    "getTime": "2022-11-01",
+    "getTimeCN": "2022-11-01",
+    "getTimeEN": "2023-05-23",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202210664.html",
     "dialog": "Two sets of clothing held in Passenger's memories and casually put to paper, then realized as outfits by a snooping Operator.",
     "isGlobalReleased": "true"
@@ -5272,7 +5474,8 @@
     "rarity": "TIER_6",
     "colorList": "#2c223b,#80aca6,#2c223b,#80aca6,#0f131d,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-11-01",
+    "getTimeCN": "2022-11-01",
+    "getTimeEN": "2023-05-23",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202210623.html",
     "dialog": "One of the many suits of armor worn by Nearl in her debut competition season, this one a modification of a campaign knight suit.",
     "isGlobalReleased": "true"
@@ -5298,7 +5501,8 @@
     "rarity": "TIER_6",
     "colorList": "#4979b9,#7ec8d5,#4979b9,#c6c3e1,#0f131d,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2022-11-01",
+    "getTimeCN": "2022-11-01",
+    "getTimeEN": "2023-05-23",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202210632.html",
     "dialog": "Rosmontis's attire while still a test subject, adorned only by detectors and inhibitors.",
     "isGlobalReleased": "true"
@@ -5324,7 +5528,8 @@
     "rarity": "TIER_5",
     "colorList": "#9f8d6c,#a1a15a,#9f8d6c,#958e77,#0f131d,,",
     "appearances": "",
-    "getTime": "2022-11-01",
+    "getTimeCN": "2022-11-01",
+    "getTimeEN": "2023-05-23",
     "dynamicCompile": "",
     "dialog": "The clothes Honeyberry envisioned during her studies as she described her own prospects to her sickly mother, their intricacies drawn from her mother's wardrobe.",
     "isGlobalReleased": "true"
@@ -5350,7 +5555,8 @@
     "rarity": "TIER_5",
     "colorList": "#752B27,#3F3227,#752B27,#654D3E,#222222,,",
     "appearances": "",
-    "getTime": "2022-11-01",
+    "getTimeCN": "2022-11-01",
+    "getTimeEN": "2023-05-23",
     "dynamicCompile": "",
     "dialog": "Sora's outfit in her time studying and performing at Siracusa's Teatro di Milano. Siracusan musical productions have a unique cultural flair, which in turn calls for accessorizing to match.",
     "isGlobalReleased": "true"
@@ -5376,7 +5582,8 @@
     "rarity": "TIER_5",
     "colorList": "#5b605d,#8A856A,#5b605d,#a88f64,#0F131D,,",
     "appearances": "",
-    "getTime": "2022-11-03",
+    "getTimeCN": "2022-11-03",
+    "getTimeEN": "2023-05-26",
     "dynamicCompile": "",
     "dialog": "The plainclothes Quercus once wore on an infiltration mission. Principally serving to conceal her identity, so as to better facilitate combat in city environs.",
     "isGlobalReleased": "true"
@@ -5402,7 +5609,8 @@
     "rarity": "TIER_4",
     "colorList": "#752B27,#3f3227,#752B27,#4e3220,#222222,,",
     "appearances": "",
-    "getTime": "2022-11-15",
+    "getTimeCN": "2022-11-15",
+    "getTimeEN": "2023-06-23",
     "dynamicCompile": "",
     "dialog": "A cozy, snug-fitting exercise wardrobe paired with a vivid jacket, ensuring the customer will be the center of attention wherever they go.",
     "isGlobalReleased": "true"
@@ -5428,7 +5636,8 @@
     "rarity": "TIER_6",
     "colorList": "#4a89c3,#f56c66,#4a89c3,#cf74d2,#222222,,",
     "appearances": "",
-    "getTime": "2022-11-30",
+    "getTimeCN": "2022-11-30",
+    "getTimeEN": "2023-08-01",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202211685.html",
     "dialog": "Mizuki wears this when feasting on the beach. The material is stain-resistant and provides plenty of room for extra appendages.",
     "isGlobalReleased": "true"
@@ -5454,7 +5663,8 @@
     "rarity": "TIER_5",
     "colorList": "#4e9ab7,#45457a,#4e9ab7,#9daadc,#222222,,",
     "appearances": "Contingency Contract #1 Battleplan Pyrolisis",
-    "getTime": "2022-12-01",
+    "getTimeCN": "2022-12-01",
+    "getTimeEN": "2023-06-13",
     "dynamicCompile": "",
     "dialog": "A bespoke outfit ordered at the Savile Boutique Tailors by Kjera, the finished product of bewildering quality thanks to the fantastic minds of the designers, plus Kjera's own clever touch.",
     "isGlobalReleased": "true"
@@ -5480,7 +5690,8 @@
     "rarity": "TIER_6",
     "colorList": "#d73b52,#d73b52,#579eac,#bebebf,#000000,,",
     "appearances": "What The Firelight Casts Rerun",
-    "getTime": "2022-12-15",
+    "getTimeCN": "2022-12-15",
+    "getTimeEN": "2023-07-13",
     "dynamicCompile": "",
     "dialog": "Warm, solid wool sweater sent by her mum, paired with gauze skirt for a red and green combination perfect for the festive season.",
     "isGlobalReleased": "true"
@@ -5506,7 +5717,8 @@
     "rarity": "TIER_5",
     "colorList": "#5e4a48,#9f2819,#7b8542,#ba5b38,#000000,,",
     "appearances": "What The Firelight Casts Rerun",
-    "getTime": "2022-12-15",
+    "getTimeCN": "2022-12-15",
+    "getTimeEN": "2023-07-13",
     "dynamicCompile": "",
     "dialog": "Soft, tight-fitting fabric with a thick and comfy scarf; comfortable attire for relaxing at home.",
     "isGlobalReleased": "true"
@@ -5532,7 +5744,8 @@
     "rarity": "TIER_5",
     "colorList": "#32383f,#b63231,#c3b5aa,#882729,#000000,,",
     "appearances": "What The Firelight Casts Rerun",
-    "getTime": "2022-12-15",
+    "getTimeCN": "2022-12-15",
+    "getTimeEN": "2023-07-13",
     "dynamicCompile": "",
     "dialog": "Finely-crafted costumes and props made by the Operators are very popular amongst the Rhodes Island audience.",
     "isGlobalReleased": "true"
@@ -5558,7 +5771,8 @@
     "rarity": "TIER_4",
     "colorList": "#ef9698,#ef9698,#996fec,#5f5dad,#000000,,",
     "appearances": "",
-    "getTime": "2022-12-27",
+    "getTimeCN": "2022-12-27",
+    "getTimeEN": "2023-07-18",
     "dynamicCompile": "",
     "dialog": "The snowflake-embroidered gauze lining mitigates the heaviness of the jacket, giving it a light, pretty touch.",
     "isGlobalReleased": "true"
@@ -5584,7 +5798,8 @@
     "rarity": "TIER_5",
     "colorList": "#32383f,#edeef1,#69758a,#4a5982,#000000,,",
     "appearances": "To The Grinning Valley",
-    "getTime": "2023-01-01",
+    "getTimeCN": "2023-01-01",
+    "getTimeEN": "2023-08-11",
     "dynamicCompile": "",
     "dialog": "Made by Lungmen craftsmen from premium Shangshu silk. Elegant and classical patterns with cyan lining make for a dignified outfit.",
     "isGlobalReleased": "true"
@@ -5610,7 +5825,8 @@
     "rarity": "TIER_5",
     "colorList": "#a46c74,#f07e8a,#362617,#ebcec6,#000000,,",
     "appearances": "",
-    "getTime": "2023-01-10",
+    "getTimeCN": "2023-01-10",
+    "getTimeEN": "2023-08-31",
     "dynamicCompile": "",
     "dialog": "Clean-cut, form-fitting skirt, given an extra touch with matching accessories. The soft felt jacket keeps the wearer warm in the chill of early spring.",
     "isGlobalReleased": "true"
@@ -5636,7 +5852,8 @@
     "rarity": "TIER_6",
     "colorList": "#222f4e,#dbe0ed,#2c489b,#7d8998,#2c489b,,",
     "appearances": "Where Vernal Winds Will Never Blow Rerun",
-    "getTime": "2023-01-17",
+    "getTimeCN": "2023-01-17",
+    "getTimeEN": "2023-07-28",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202301647.html",
     "dialog": "Robe made from white cloth, with loose-fitting sleeves that reach to knee level. A lucky animal is weaved onto the skirt, inspired by a dream the client had.",
     "isGlobalReleased": "true"
@@ -5662,7 +5879,8 @@
     "rarity": "TIER_5",
     "colorList": "#6c6d57,#b2755b,#4d4e43,#5b4941,#b2755b,,",
     "appearances": "Where Vernal Winds Will Never Blow Rerun",
-    "getTime": "2023-01-17",
+    "getTimeCN": "2023-01-17",
+    "getTimeEN": "2023-07-28",
     "dynamicCompile": "",
     "dialog": "Made by Lungmen tailors. The gauze lining at the hem softens the lines, as does the matching white shawl.",
     "isGlobalReleased": "true"
@@ -5688,7 +5906,8 @@
     "rarity": "TIER_5",
     "colorList": "#244886,#fcfcfc,#222b40,#8eb3d2,#244886,,",
     "appearances": "Where Vernal Winds Will Never Blow Rerun",
-    "getTime": "2023-01-17",
+    "getTimeCN": "2023-01-17",
+    "getTimeEN": "2023-07-28",
     "dynamicCompile": "",
     "dialog": "Made by Lungmen tailors, inspired by the waterscapes of Jiangqi, the delicate cuts and soft gauze represent the reflection of the lotus in water when the moon is out.",
     "isGlobalReleased": "true"
@@ -5714,7 +5933,8 @@
     "rarity": "TIER_6",
     "colorList": "#c2975a,#5d677e,#c2975a,#5d677e,#c2975a,,",
     "appearances": "",
-    "getTime": "2023-01-29",
+    "getTimeCN": "2023-01-29",
+    "getTimeEN": "2023-09-07",
     "dynamicCompile": "",
     "dialog": "Designed for the climate of Minos, slim-fitting and easy to move in. The fabric is durable, waterproof, and resistant to the occasional spilled wine. Can be customized with extras to the customer's needs.",
     "isGlobalReleased": "true"
@@ -5740,7 +5960,8 @@
     "rarity": "TIER_5",
     "colorList": "#4f478e,#f6fbfc,#231e3d,#aba7d3,#231e3d,,",
     "appearances": "Here A People Sows",
-    "getTime": "2023-02-14",
+    "getTimeCN": "2023-02-14",
+    "getTimeEN": "2023-08-22",
     "dynamicCompile": "",
     "dialog": "Manticore once wore it on a mission in Sargon, and was bothered by the clanging of the gold accessories as she moved.",
     "isGlobalReleased": "true"
@@ -5766,7 +5987,8 @@
     "rarity": "TIER_4",
     "colorList": "#6c6f7b,#f9f9f9,#6f1918,#413a42,#862c2b,,",
     "appearances": "",
-    "getTime": "2023-02-14",
+    "getTimeCN": "2023-02-14",
+    "getTimeEN": "2023-08-22",
     "dynamicCompile": "",
     "dialog": "Stylishly loose-fitting, comfortable and mobile. The waterproof surface keeps it from being stained by paint, making it the ideal outfit for artists.",
     "isGlobalReleased": "true"
@@ -5792,7 +6014,8 @@
     "rarity": "TIER_6",
     "colorList": "#006cff,#fcfcfc,#60915,#9ba4b1,#60915,,",
     "appearances": "Here A People Sows",
-    "getTime": "2023-02-14",
+    "getTimeCN": "2023-02-14",
+    "getTimeEN": "2023-08-22",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202302698.html",
     "dialog": "The layered fabric keeps the wearer warm, while the closed sleeves and pants keep the wind and snow out.",
     "isGlobalReleased": "true"
@@ -5818,7 +6041,8 @@
     "rarity": "TIER_5",
     "colorList": "#e8e7d5,#f6fafa,#616248,#718353,#2e2a29,,",
     "appearances": "Here A People Sows",
-    "getTime": "2023-02-14",
+    "getTimeCN": "2023-02-14",
+    "getTimeEN": "2023-08-22",
     "dynamicCompile": "",
     "dialog": "Designed for outdoor activities, providing extra support for the body. The comfortable and breathable fabric dries quickly.",
     "isGlobalReleased": "true"
@@ -5844,7 +6068,8 @@
     "rarity": "TIER_4",
     "colorList": "#978f90,#fffff5,#524139,#bfa0bc,#86223b,,",
     "appearances": "Here A People Sows",
-    "getTime": "2023-02-14",
+    "getTimeCN": "2023-02-14",
+    "getTimeEN": "2023-08-22",
     "dynamicCompile": "",
     "dialog": "Warm fur coat paired with red woven scarf for an inviting sight.",
     "isGlobalReleased": "true"
@@ -5870,7 +6095,8 @@
     "rarity": "TIER_5",
     "colorList": "#738ea0,#f1ffff,#001a31,#67b4cb,#0f4050,,",
     "appearances": "Enforcer Paper Wing 2024 Rerun",
-    "getTime": "2023-02-21",
+    "getTimeCN": "2023-02-21",
+    "getTimeEN": "2023-09-21",
     "dynamicCompile": "",
     "dialog": "White jacket on mint-green T-shirt, refreshingly cool for the summer.",
     "isGlobalReleased": "true"
@@ -5896,7 +6122,8 @@
     "rarity": "TIER_6",
     "colorList": "#3e4b86,#263459,#7d3b3a,#656a75,#1391aa,,",
     "appearances": "",
-    "getTime": "2023-02-22",
+    "getTimeCN": "2023-02-22",
+    "getTimeEN": "2023-02-22",
     "dynamicCompile": "",
     "dialog": "As part of our cooperation agreement, Rhodes Island ordered this operator uniform for Exusiai. She can be seen wearing it, from time to time, during operations in Lungmen.",
     "isGlobalReleased": "true"
@@ -5922,7 +6149,8 @@
     "rarity": "TIER_6",
     "colorList": "#a8aec3,#6d778d,#d34c3f,#c4bac2,#ad797f,,",
     "appearances": "Operation Lucent Arrow",
-    "getTime": "2023-03-07",
+    "getTimeCN": "2023-03-07",
+    "getTimeEN": "2023-09-07",
     "dynamicCompile": "",
     "dialog": "Suzuran's outfit on a winter morning trip to the shrine. The loose-fitting sleeves protect against the wind and snow, while the pleated front adds an exotic touch.",
     "isGlobalReleased": "true"
@@ -5948,7 +6176,8 @@
     "rarity": "TIER_5",
     "colorList": "#ec7262,#cf4d3a,#f7f6de,#465979,#cf4d3a,,",
     "appearances": "Operation Lucent Arrow",
-    "getTime": "2023-03-07",
+    "getTimeCN": "2023-03-07",
+    "getTimeEN": "2023-09-07",
     "dynamicCompile": "",
     "dialog": "Custom-made for Mint, integrating Victorian style into traditional Higashinese garb. Comfy yet unique, it is one of Mint's favorites on festive occasions.",
     "isGlobalReleased": "true"
@@ -5974,7 +6203,8 @@
     "rarity": "TIER_5",
     "colorList": "#bac753,#ea785c,#e8d69f,#d3cfc1,#a7b525,,",
     "appearances": "Operation Lucent Arrow",
-    "getTime": "2023-03-07",
+    "getTimeCN": "2023-03-07",
+    "getTimeEN": "2023-09-07",
     "dynamicCompile": "",
     "dialog": "Traditional Higashinese outfit made from the highest-quality fabric, colorful yet minimalistic. Comfortable and warm, an ideal choice for outdoor trips in autumn.",
     "isGlobalReleased": "true"
@@ -6000,7 +6230,8 @@
     "rarity": "TIER_1",
     "colorList": "#b1b7c4,#6d61c7,#f5f5f5,#878d94,#313131,,",
     "appearances": "",
-    "getTime": "2023-03-07",
+    "getTimeCN": "2023-03-07",
+    "getTimeEN": "2023-09-07",
     "dynamicCompile": "",
     "dialog": "The Felynes are amped with excitement for getting some Terra-style fresh fits on, and spray paint-filled cans especially pique their curiosity. Noir Corne senses something big and bad's about to go down.",
     "isGlobalReleased": "true"
@@ -6026,7 +6257,8 @@
     "rarity": "TIER_5",
     "colorList": "#9fa7ac,#ffd64f,#001c51,#8e9c94,#003768,,",
     "appearances": "",
-    "getTime": "2023-03-21",
+    "getTimeCN": "2023-03-21",
+    "getTimeEN": "2023-10-01",
     "dynamicCompile": "",
     "dialog": "Astesia and her sister wore this for a machine design competition. Lightweight, durable, and easy to clean, a stylish outfit for a hard-worker.",
     "isGlobalReleased": "true"
@@ -6052,7 +6284,8 @@
     "rarity": "TIER_6",
     "colorList": "#38474b,#d2b379,#766243,#38474b,#5b6135,,",
     "appearances": "Babel",
-    "getTime": "2023-04-06",
+    "getTimeCN": "2023-04-06",
+    "getTimeEN": "2023-10-24",
     "dynamicCompile": "",
     "dialog": "A gown for Victorian nobles woven with fine muslin, fragrant and supple flowers gracing the pure white skirt. A quiet elegance, delicate and sublime.",
     "isGlobalReleased": "true"
@@ -6078,7 +6311,8 @@
     "rarity": "TIER_5",
     "colorList": "#29406b,#69a1cc,#be7a8b,#29406b,#456e89,,",
     "appearances": "Babel",
-    "getTime": "2023-04-06",
+    "getTimeCN": "2023-04-06",
+    "getTimeEN": "2023-10-24",
     "dynamicCompile": "",
     "dialog": "A custom outfit made of fine and lightweight material, tailored based on Heidi's descriptions of her childhood summers. Though it feels different from how she remembers.",
     "isGlobalReleased": "true"
@@ -6104,7 +6338,8 @@
     "rarity": "TIER_5",
     "colorList": "#6b4342,#b4c497,#fffaf4,#2b1814,#6b4342,,",
     "appearances": "Babel",
-    "getTime": "2023-04-06",
+    "getTimeCN": "2023-04-06",
+    "getTimeEN": "2023-10-24",
     "dynamicCompile": "",
     "dialog": "A set of formalwear Harmonie wears while enjoying the afternoon in her study. The smart tailoring makes her skirt move in a beautiful curve, and the fabrics are specially chosen to hide any stray fur stuck on her clothes.",
     "isGlobalReleased": "true"
@@ -6130,7 +6365,8 @@
     "rarity": "TIER_6",
     "colorList": "#416C8B,#ffd200,#9b4b3f,#416C8B,#292f33,,",
     "appearances": "Skadi The Next Afternoon Tea 2024 Rerun",
-    "getTime": "2023-04-20",
+    "getTimeCN": "2023-04-20",
+    "getTimeEN": "2023-11-28",
     "dynamicCompile": "",
     "dialog": "Tailored to fit snugly from lightweight hydrophobic fabric, ensuring the wearer is unhindered in water. Made to measure for Ægir residing on the land.",
     "isGlobalReleased": "true"
@@ -6156,7 +6392,8 @@
     "rarity": "TIER_6",
     "colorList": "#5a7190,#062c3f,#e6e62c,#292929,#9e9e1c,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2023-05-01",
+    "getTimeCN": "2023-05-01",
+    "getTimeEN": "2023-11-07",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202304833.html",
     "dialog": "Originium has taken over the land, and what she envisioned has become a reality. She has enumerated and entrusted everything else to the others, leaving only her name as she hones her mission into a sharp blade.",
     "isGlobalReleased": "true"
@@ -6182,7 +6419,8 @@
     "rarity": "TIER_6",
     "colorList": "#0047a2,#004eec,#ffffff,#172336,#004eec,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2023-05-01",
+    "getTimeCN": "2023-05-01",
+    "getTimeEN": "2023-11-07",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202304670.html",
     "dialog": "An engraving leaves a shadow, like two sides of a coin, or the cycle of day and night. When both are aware of their dual nature, Laurentina possesses a soul most complete, like unto the twin moons.",
     "isGlobalReleased": "true"
@@ -6208,7 +6446,8 @@
     "rarity": "TIER_6",
     "colorList": "#7787c5,#7888c7,#cc0c14,#4b527c,#171f54,,",
     "appearances": "",
-    "getTime": "2023-05-01",
+    "getTimeCN": "2023-05-01",
+    "getTimeEN": "2023-11-07",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202304659.html",
     "dialog": "Ch'en Hui-chieh entered the capital on a starry night, and left before sunrise after settling matters. She bid farewell to old friends and took a sampan down the river, the lamp on the prow crashing through the fog and night.",
     "isGlobalReleased": "true"
@@ -6234,7 +6473,8 @@
     "rarity": "TIER_6",
     "colorList": "#1380a6,#ffffff,#13789c,#5e8aa4,#2e405f,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2023-05-01",
+    "getTimeCN": "2023-05-01",
+    "getTimeEN": "2023-11-07",
     "dynamicCompile": "",
     "dialog": "A traditional-style gown worn by every Graf Urtica, now draped over Ebenholz's shoulders. Orders apathetically seep from the tip of the staff, piercing through the sparse ensemble of nobles.",
     "isGlobalReleased": "true"
@@ -6260,7 +6500,8 @@
     "rarity": "TIER_6",
     "colorList": "#274253,#b89868,#5b5858,#274d61,#b89868,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2023-05-01",
+    "getTimeCN": "2023-05-01",
+    "getTimeEN": "2023-11-07",
     "dynamicCompile": "",
     "dialog": "Lumen's casual leisure wear, tailored for elegance from lightweight materials. The sea mist has lifted, and you can now see the lighthouse without binoculars.",
     "isGlobalReleased": "true"
@@ -6286,7 +6527,8 @@
     "rarity": "TIER_6",
     "colorList": "#dddbc7,#eeece7,#fc8d9f,#ccc9bd,#898579,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2023-05-01",
+    "getTimeCN": "2023-05-01",
+    "getTimeEN": "2023-11-07",
     "dynamicCompile": "",
     "dialog": "Irene's work outfit. Placed in charge of the props, she sets them in place, as a flock of fowlbeasts circles higher into the sky, ships sailing into the distant horizon.",
     "isGlobalReleased": "true"
@@ -6312,7 +6554,8 @@
     "rarity": "TIER_4",
     "colorList": "#ea5b6c,#ffffff,#2786d2,#767d8c,#d23a4e,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2023-05-01",
+    "getTimeCN": "2023-05-01",
+    "getTimeEN": "2023-11-07",
     "dynamicCompile": "",
     "dialog": "Roberta's work outfit. With the other operators' help and encouragement, Roberta finally found the time to design a look for herself as well.",
     "isGlobalReleased": "true"
@@ -6338,7 +6581,8 @@
     "rarity": "TIER_3",
     "colorList": "#a29793,#ffffff,#633426,#948982,#6f7888,,",
     "appearances": "",
-    "getTime": "2023-05-04",
+    "getTimeCN": "2023-05-04",
+    "getTimeEN": "2023-11-11",
     "dynamicCompile": "",
     "dialog": "Orchid finally completed her design after several torturous nights. She stroked the delicate stitches on it, quietly praying for life.",
     "isGlobalReleased": "true"
@@ -6364,7 +6608,8 @@
     "rarity": "TIER_1",
     "colorList": "#cbc339,#2f2d2c,#cbc339,#3e3e3e,#000000,,",
     "appearances": "",
-    "getTime": "2023-05-22",
+    "getTimeCN": "2023-05-22",
+    "getTimeEN": "2023-12-05",
     "dynamicCompile": "",
     "dialog": "The General Chamber of Commerce had no idea the newest wave of protests would arise from a most unremarkable robot's tournament retrofit labelled as a 'drone.'",
     "isGlobalReleased": "true"
@@ -6390,7 +6635,8 @@
     "rarity": "TIER_6",
     "colorList": "#3b3d71,#30262e,#404376,#848895,#2e3047,,",
     "appearances": "",
-    "getTime": "2023-06-08",
+    "getTimeCN": "2023-06-08",
+    "getTimeEN": "2023-12-21",
     "dynamicCompile": "",
     "dialog": "Saga's attire when she left P'o-shan Village, with Biteys for pockets and straw sandals. What is in the scrolls cannot be removed, but after so much time spent with oneselves, what was drawn in ink is now etched in the heart.",
     "isGlobalReleased": "true"
@@ -6416,7 +6662,8 @@
     "rarity": "TIER_3",
     "colorList": "#31593e,#e8a344,#31593e,#31593e,#9aa592,,",
     "appearances": "",
-    "getTime": "2023-06-08",
+    "getTimeCN": "2023-06-08",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "经过设计的出行搭配，以干员的个人主色为基调，配以异色外套做点缀。",
     "isGlobalReleased": "false"
@@ -6442,7 +6689,8 @@
     "rarity": "TIER_6",
     "colorList": "#739370,#fff000,#aba59a,#bcbcb7,#739370,,",
     "appearances": "",
-    "getTime": "2023-06-08",
+    "getTimeCN": "2023-06-08",
+    "getTimeEN": "2023-12-21",
     "dynamicCompile": "",
     "dialog": "New concept based on the theme of Wind, a collaborative work between multiple designers. The ever-present floating ribbons capture the shape of the wind.",
     "isGlobalReleased": "true"
@@ -6468,7 +6716,8 @@
     "rarity": "TIER_5",
     "colorList": "#c3569d,#2d3ea7,#aeaeae,#afafb2,#2d40a0,,",
     "appearances": "",
-    "getTime": "2023-06-08",
+    "getTimeCN": "2023-06-08",
+    "getTimeEN": "2023-12-21",
     "dynamicCompile": "",
     "dialog": "Classic black and white, with just a touch of color. No need for complex ornamentations; any flair belongs to the performer alone.",
     "isGlobalReleased": "true"
@@ -6494,7 +6743,8 @@
     "rarity": "TIER_5",
     "colorList": "#c34340,#434749,#b0b0b0,#b0b0b0,#c34340,,",
     "appearances": "",
-    "getTime": "2023-06-08",
+    "getTimeCN": "2023-06-08",
+    "getTimeEN": "2023-12-21",
     "dynamicCompile": "",
     "dialog": "Loose-fitting coat that can envelop a young girl. The waterproof fabric makes it suitable for a rainy day.",
     "isGlobalReleased": "true"
@@ -6520,7 +6770,8 @@
     "rarity": "TIER_5",
     "colorList": "#7f5f4c,#fffbf1,#9c4b3f,#7a5d4c,#3c2e2e,,",
     "appearances": "",
-    "getTime": "2023-06-20",
+    "getTimeCN": "2023-06-20",
+    "getTimeEN": "2024-01-05",
     "dynamicCompile": "",
     "dialog": "Made with special materials with function in mind, perfect for meeting your various needs and weathering even the roughest conditions.",
     "isGlobalReleased": "true"
@@ -6546,7 +6797,8 @@
     "rarity": "TIER_5",
     "colorList": "#0e3092,#0e3092,#333333,#0e3092,#333333,,",
     "appearances": "",
-    "getTime": "2023-06-29",
+    "getTimeCN": "2023-06-29",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "配备精密的生命保障系统，兼顾维生性能与舒适性，足以应对外层空间的极端环境。",
     "isGlobalReleased": "false"
@@ -6572,7 +6824,8 @@
     "rarity": "TIER_6",
     "colorList": "#3e514e,#ffffff,#3e514e,#b3c3aa,#313131,,",
     "appearances": "",
-    "getTime": "2023-07-06",
+    "getTimeCN": "2023-07-06",
+    "getTimeEN": "2024-02-27",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -6598,7 +6851,8 @@
     "rarity": "TIER_6",
     "colorList": "#2b4e49,#ffffff,#2b4e49,#cad8d6,#313131,,",
     "appearances": "",
-    "getTime": "2023-07-06",
+    "getTimeCN": "2023-07-06",
+    "getTimeEN": "2024-02-27",
     "dynamicCompile": "",
     "dialog": "Made with materials that are both durable and comfortable, this outfit ensures high performance in a variety of different conditions.",
     "isGlobalReleased": "true"
@@ -6624,7 +6878,8 @@
     "rarity": "TIER_5",
     "colorList": "#13418a,#ffffff,#13418a,#d1dcec,#313131,,",
     "appearances": "",
-    "getTime": "2023-07-06",
+    "getTimeCN": "2023-07-06",
+    "getTimeEN": "2024-02-27",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -6650,7 +6905,8 @@
     "rarity": "TIER_4",
     "colorList": "#21456d,#ffffff,#21456d,#dce4e7,#313131,,",
     "appearances": "",
-    "getTime": "2023-07-06",
+    "getTimeCN": "2023-07-06",
+    "getTimeEN": "2024-02-27",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -6676,7 +6932,8 @@
     "rarity": "TIER_5",
     "colorList": "#968561,#ffffff,#968561,#d4cbb1,#313131,,",
     "appearances": "",
-    "getTime": "2023-07-18",
+    "getTimeCN": "2023-07-18",
+    "getTimeEN": "2024-03-05",
     "dynamicCompile": "",
     "dialog": "The clothes Astgenne wore in her rented home. A lab coat thrown over an elegant and close fit, for she must always be ready for a whimsical stroke of inspiration for her experiments.",
     "isGlobalReleased": "true"
@@ -6702,7 +6959,8 @@
     "rarity": "TIER_6",
     "colorList": "#304384,#c2c974,#ffffff,#b0b0b0,#304384,,",
     "appearances": "",
-    "getTime": "2023-08-01",
+    "getTimeCN": "2023-08-01",
+    "getTimeEN": "2024-01-16",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202307886.html",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -6728,7 +6986,8 @@
     "rarity": "TIER_6",
     "colorList": "#3fa2b3,#ffffff,#fd8174,#0ba3a1,#d94f53,,",
     "appearances": "",
-    "getTime": "2023-08-01",
+    "getTimeCN": "2023-08-01",
+    "getTimeEN": "2024-01-16",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202307824.html",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -6754,7 +7013,8 @@
     "rarity": "TIER_4",
     "colorList": "#4296d0,#ffffff,#f4c23c,#4296d0,#e8b630,,",
     "appearances": "",
-    "getTime": "2023-08-01",
+    "getTimeCN": "2023-08-01",
+    "getTimeEN": "2024-01-16",
     "dynamicCompile": "",
     "dialog": "Brings out a girl's figure and physique using all-natural materials. Pursue this summer's hottest trend.",
     "isGlobalReleased": "true"
@@ -6780,7 +7040,8 @@
     "rarity": "TIER_4",
     "colorList": "#fb6548,#f6e424,#ffffff,#08419f,#fc3b00,,",
     "appearances": "",
-    "getTime": "2023-08-07",
+    "getTimeCN": "2023-08-07",
+    "getTimeEN": "2024-01-23",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -6806,7 +7067,8 @@
     "rarity": "TIER_5",
     "colorList": "#e7cf24,#ffffff,#ff6e89,#207bb1,#c3617a,,",
     "appearances": "",
-    "getTime": "2023-08-18",
+    "getTimeCN": "2023-08-18",
+    "getTimeEN": "2024-02-12",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -6832,7 +7094,8 @@
     "rarity": "TIER_5",
     "colorList": "#f59083,#9b95a7,#ffffff,#6b748c,#1d329c,,",
     "appearances": "",
-    "getTime": "2023-08-21",
+    "getTimeCN": "2023-08-21",
+    "getTimeEN": "2024-02-14",
     "dynamicCompile": "",
     "dialog": "Presented by the finest Yanese artisans, combining classic style with trendy spirit.",
     "isGlobalReleased": "true"
@@ -6858,7 +7121,8 @@
     "rarity": "TIER_5",
     "colorList": "#3B63C1,#ffffff,#F68C52,#C4C4C4,#2F39BF,,",
     "appearances": "",
-    "getTime": "2023-08-31",
+    "getTimeCN": "2023-08-31",
+    "getTimeEN": "2024-02-06",
     "dynamicCompile": "",
     "dialog": "Comfortable, relaxed, breathable, and lightweight. Allows you to enjoy a perfect beach experience in absolute relaxation.",
     "isGlobalReleased": "true"
@@ -6884,7 +7148,8 @@
     "rarity": "TIER_6",
     "colorList": "#3b3b3b,#242ddd,#e9f9ff,#3c3c3c,#242ddd,,",
     "appearances": "",
-    "getTime": "2023-08-31",
+    "getTimeCN": "2023-08-31",
+    "getTimeEN": "2024-05-01",
     "dynamicCompile": "",
     "dialog": "Made with special materials with function in mind, perfect for meeting your various needs and weathering even the roughest conditions.",
     "isGlobalReleased": "true"
@@ -6910,7 +7175,8 @@
     "rarity": "TIER_6",
     "colorList": "#0c4672,#2f3340,#6aa3e4,#8f97a1,#1b1b1b,,",
     "appearances": "",
-    "getTime": "2023-09-05",
+    "getTimeCN": "2023-09-05",
+    "getTimeEN": "2024-03-19",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202308807.html",
     "dialog": "Stylish and classic. The wind brushes the cliffs for a thousand years, a thousand li, brushing against the wanderer's robes, brushing into dream.",
     "isGlobalReleased": "true"
@@ -6936,7 +7202,8 @@
     "rarity": "TIER_6",
     "colorList": "#fbb472,#fbb472,#243b41,#5d7379,#243b41,,",
     "appearances": "",
-    "getTime": "2023-09-05",
+    "getTimeCN": "2023-09-05",
+    "getTimeEN": "2024-03-19",
     "dynamicCompile": "",
     "dialog": "Wind-proof and wear-resistant with a clean, slim fit that's easy to move in. Inspired by the northwest poplar forests.",
     "isGlobalReleased": "true"
@@ -6962,7 +7229,8 @@
     "rarity": "TIER_5",
     "colorList": "#f6b831,#f7b731,#313131,#343434,#f7b731,,",
     "appearances": "",
-    "getTime": "2023-09-05",
+    "getTimeCN": "2023-09-05",
+    "getTimeEN": "2024-03-19",
     "dynamicCompile": "",
     "dialog": "The waterproof, breathable fabric comes in handy for rainforest work. Lightweight, wear-resistant, and protects from the sun. Tail attachment optional.",
     "isGlobalReleased": "true"
@@ -6988,7 +7256,8 @@
     "rarity": "TIER_5",
     "colorList": "#804f40,#804f40,#313131,#353535,#804f40,,",
     "appearances": "",
-    "getTime": "2023-09-19",
+    "getTimeCN": "2023-09-19",
+    "getTimeEN": "2024-03-18",
     "dynamicCompile": "",
     "dialog": "Crossing the golden sands yet leaving nary a trace, time passes quietly along with the moon's shadow. Nine-Colored Deer meticulously counts the tracks left behind by the passing years, and thus the full moon pauses, seeking one to converse with.",
     "isGlobalReleased": "true"
@@ -7014,7 +7283,8 @@
     "rarity": "TIER_3",
     "colorList": "#475c5d,#94716c,#f5e3d3,#654d44,#937851,,",
     "appearances": "",
-    "getTime": "2023-09-27",
+    "getTimeCN": "2023-09-27",
+    "getTimeEN": "2024-04-02",
     "dynamicCompile": "",
     "dialog": "Cardigan's outfit when she had just arrived at a city in southern Leithanien. Skillfully tailored to fit a young girl's stature. Light, airy, and blooming with vitality.",
     "isGlobalReleased": "true"
@@ -7040,7 +7310,8 @@
     "rarity": "TIER_6",
     "colorList": "#b05041,#f8f8f8,#903526,#be9167,#343035,,",
     "appearances": "",
-    "getTime": "2023-10-08",
+    "getTimeCN": "2023-10-08",
+    "getTimeEN": "2024-04-16",
     "dynamicCompile": "",
     "dialog": "This player shall be the will of the realm behind the story. She is neither a wicked god, nor a righteous spirit. All she does is let the players roll the dice.",
     "isGlobalReleased": "true"
@@ -7066,7 +7337,8 @@
     "rarity": "TIER_6",
     "colorList": "#fbb472,#fbb472,#b03239,#b03239,#2c2421,,",
     "appearances": "",
-    "getTime": "2023-10-08",
+    "getTimeCN": "2023-10-08",
+    "getTimeEN": "2024-04-16",
     "dynamicCompile": "",
     "dialog": "This player shall be the apostolic knight who takes charge in times of crisis. She is the crimson fury spilling forth from the Holy Spirit's palm, bearing the eternal burden of seeking the land of salvation.",
     "isGlobalReleased": "true"
@@ -7092,7 +7364,8 @@
     "rarity": "TIER_5",
     "colorList": "#404b62,#a4ac62,#f5f3de,#a4ac62,#1d2326,,",
     "appearances": "",
-    "getTime": "2023-10-08",
+    "getTimeCN": "2023-10-08",
+    "getTimeEN": "2024-04-16",
     "dynamicCompile": "",
     "dialog": "This player shall be the one singing ballads for the heroes of old, livening up the tavern with her ditties. Come, listen close, who stole the melody that wends through the shadow-flickering breeze?",
     "isGlobalReleased": "true"
@@ -7118,7 +7391,8 @@
     "rarity": "TIER_5",
     "colorList": "#584565,#674951,#4b4e93,#7372c0,#1e2327,,",
     "appearances": "",
-    "getTime": "2023-10-08",
+    "getTimeCN": "2023-10-08",
+    "getTimeEN": "2024-04-16",
     "dynamicCompile": "",
     "dialog": "This player shall be the sister in black, who has saved countless adventurers' lives. The people never ask who forgets the traumas of their mundane lives for them.",
     "isGlobalReleased": "true"
@@ -7144,7 +7418,8 @@
     "rarity": "TIER_6",
     "colorList": "#3d839b,#363171,#bfc7d7,#686d86,#363171,,",
     "appearances": "Il Siracusano Rerun",
-    "getTime": "2023-10-22",
+    "getTimeCN": "2023-10-22",
+    "getTimeEN": "2024-05-23",
     "dynamicCompile": "",
     "dialog": "Does he not occasionally wear a plain jacket and hoodie instead of a tailored suit, and sit-down at a not-quite traditional Siracusan restaurant?",
     "isGlobalReleased": "true"
@@ -7170,7 +7445,8 @@
     "rarity": "TIER_4",
     "colorList": "#817d85,#72503e,#4c4651,#474c60,#72503e,,",
     "appearances": "",
-    "getTime": "2023-11-01",
+    "getTimeCN": "2023-11-01",
+    "getTimeEN": "2024-05-07",
     "dynamicCompile": "",
     "dialog": "Meteor's winter clothes from back in Kazimierz. Balancing lightness and warmth, they also allow one to easily hide in dense forests. A reproduction.",
     "isGlobalReleased": "true"
@@ -7196,7 +7472,8 @@
     "rarity": "TIER_6",
     "colorList": "#3f526f,#ffdea8,#3c4e92,#31343f,#3c4e92,,",
     "appearances": "",
-    "getTime": "2023-11-01",
+    "getTimeCN": "2023-11-01",
+    "getTimeEN": "2024-04-30",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202310850.html",
     "dialog": "Młynar's attire as a knight-errant, wandering Kazimierz's plains and endless forests, the words engraved on the hilt of his sword not yet covered by useless trinkets.",
     "isGlobalReleased": "true"
@@ -7222,7 +7499,8 @@
     "rarity": "TIER_6",
     "colorList": "#4a5263,#c45b59,#152832,#4c5c68,#21313c,,",
     "appearances": "",
-    "getTime": "2023-11-01",
+    "getTimeCN": "2023-11-01",
+    "getTimeEN": "2024-04-30",
     "dynamicCompile": "",
     "dialog": "Bagpipe's uniform as a new cadet at the military academy, doubling as formal wear. Training in formal wear was yet another duty of a royal guardsman cadet.",
     "isGlobalReleased": "true"
@@ -7248,7 +7526,8 @@
     "rarity": "TIER_5",
     "colorList": "#1d2224,#be516f,#645e57,#645e57,#1d2224,,",
     "appearances": "",
-    "getTime": "2023-11-01",
+    "getTimeCN": "2023-11-01",
+    "getTimeEN": "2024-04-30",
     "dynamicCompile": "",
     "dialog": "Absinthe's former school uniform. In Ursus, students wear their uniforms while exercising, resembling a field of neatly spaced seedlings behind a plow.",
     "isGlobalReleased": "true"
@@ -7274,7 +7553,8 @@
     "rarity": "TIER_5",
     "colorList": "#afabac,#272a76,#694d41,#272a76,#6c6c6c,,",
     "appearances": "",
-    "getTime": "2023-11-01",
+    "getTimeCN": "2023-11-01",
+    "getTimeEN": "2024-04-30",
     "dynamicCompile": "",
     "dialog": "Ashlock's formalwear, worn when her family banished her. Traditional dress worthy of a Kazimierz knight, not entirely inappropriate on her.",
     "isGlobalReleased": "true"
@@ -7300,7 +7580,8 @@
     "rarity": "TIER_6",
     "colorList": "#655042,#781a19,#262428,#655155,#6d211e,,",
     "appearances": "",
-    "getTime": "2023-11-01",
+    "getTimeCN": "2023-11-01",
+    "getTimeEN": "2024-04-30",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202310899.html",
     "dialog": "Texas the Omertosa's iteration from decision point F/3019226. The hunter shot down the great demon Vermithrax, but was betrayed by the Lone Wolf Emperor and banished to the barrens.",
     "isGlobalReleased": "true"
@@ -7326,7 +7607,8 @@
     "rarity": "TIER_5",
     "colorList": "#655042,#781a19,#262428,#655155,#6d211e,,",
     "appearances": "Contingency Contract #1 Battleplan Pyrolisis",
-    "getTime": "2023-11-21",
+    "getTimeCN": "2023-11-21",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "为巡行街头的有需之人设计的贴身运动装，凉爽透气。若穿着者施展起拳脚，鲜红大袖便扬作烈火一片。搭配的刀并非道具。",
     "isGlobalReleased": "false"
@@ -7352,7 +7634,8 @@
     "rarity": "TIER_5",
     "colorList": "#d2ced4,#f4f3e8,#5064d4,#686684,#332f4f,,",
     "appearances": "IS#4 Expeditioner's Jqklumarkar (Monthly Reward)",
-    "getTime": "2023-11-30",
+    "getTimeCN": "2023-11-30",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "舒适放松，透气轻盈。让您可以在闲适的环境中享受最完美的沙滩体验。",
     "isGlobalReleased": "false"
@@ -7378,7 +7661,8 @@
     "rarity": "TIER_6",
     "colorList": "#261c18,#fefefe,#a99a81,#a99a81,#261c18,,",
     "appearances": "The Rides to Lake Silberneherze",
-    "getTime": "2023-12-05",
+    "getTimeCN": "2023-12-05",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "偶尔，在纯黑的长裙与纯白的外衣之间，拉维妮娅也愿意容许一抹明亮的水绿存在。",
     "isGlobalReleased": "false"
@@ -7404,7 +7688,8 @@
     "rarity": "TIER_5",
     "colorList": "#1f271e,#fefefe,#6e7d74,#6e7d74,#1f271e,,",
     "appearances": "The Rides to Lake Silberneherze",
-    "getTime": "2023-12-05",
+    "getTimeCN": "2023-12-05",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "轻盈的红裙子与厚实的白披肩，像是流动的火与燃烧的雪。要来共舞一曲吗？",
     "isGlobalReleased": "false"
@@ -7430,7 +7715,8 @@
     "rarity": "TIER_5",
     "colorList": "#7b1c2b,#fefefe,#7b1c2b,#7b1c2b,#7b1c2b,,",
     "appearances": "The Rides to Lake Silberneherze",
-    "getTime": "2023-12-05",
+    "getTimeCN": "2023-12-05",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "总在热情地分发萨米特产的雪绒收到了回礼。听说自己的尾巴与这件维多利亚风格的礼服相得益彰时，雪绒开心地笑了。",
     "isGlobalReleased": "false"
@@ -7456,7 +7742,8 @@
     "rarity": "TIER_5",
     "colorList": "#1c2126,#fefefe,#717a8a,#717a8a,#192534,,",
     "appearances": "What The Firelight Casts Rerun",
-    "getTime": "2023-12-22",
+    "getTimeCN": "2023-12-22",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "谜图知道面对不同的人应该选择怎样的着装，才能最高效地博取信任、换来情报。但独处时，他并不在乎自己形象如何。",
     "isGlobalReleased": "false"
@@ -7482,7 +7769,8 @@
     "rarity": "TIER_3",
     "colorList": "#324f65,#fefefe,#88a5b9,#88a5b9,#324f65,,",
     "appearances": "New Year Commemorative Limited-time Event",
-    "getTime": "2023-12-23",
+    "getTimeCN": "2023-12-23",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "做事永远井井有条的安赛尔，经营食堂咖啡店时的穿着也一丝不苟。不过，安赛尔坚决拒绝在晚上向任何干员出售咖啡。",
     "isGlobalReleased": "false"
@@ -7508,7 +7796,8 @@
     "rarity": "TIER_6",
     "colorList": "#29221f,#fefefe,#d05533,#d05533,#29221f,,",
     "appearances": "To The Grinning Valley",
-    "getTime": "2024-01-09",
+    "getTimeCN": "2024-01-09",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202401871.html",
     "dialog": "极具童话感的学者服饰，把魔力、知识和好奇心，都塞进风衣口袋和兜帽里。苇草流连在博物馆，记录每一件藏品的故事。",
     "isGlobalReleased": "false"
@@ -7534,7 +7823,8 @@
     "rarity": "TIER_5",
     "colorList": "#222e2b,#fefefe,#60715a,#60715a,#222e2b,,",
     "appearances": "To The Grinning Valley",
-    "getTime": "2024-01-09",
+    "getTimeCN": "2024-01-09",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "薄绿在维多利亚高等学府的正式着装，腰间的绿色束带收束腰线，尽显个人风格。",
     "isGlobalReleased": "false"
@@ -7560,7 +7850,8 @@
     "rarity": "TIER_4",
     "colorList": "#a28c7c,#fefefe,#68352c,#68352c,#68352c,,",
     "appearances": "To The Grinning Valley",
-    "getTime": "2024-01-09",
+    "getTimeCN": "2024-01-09",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "地质学研究者地灵兼顾得体与实用的着装，保暖防风便于田野调查，披上外套就可以登台报告讲演。",
     "isGlobalReleased": "false"
@@ -7586,7 +7877,8 @@
     "rarity": "TIER_5",
     "colorList": "#1c2421,#fefefe,#99b464,#99b464,#1c2421,,",
     "appearances": "Where Vernal Winds Will Never Blow Rerun",
-    "getTime": "2024-01-18",
+    "getTimeCN": "2024-01-18",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "炎国巧匠设计了窄袖宽袍，采用时尚的拼接和剪裁，更注重舒适与清凉。截云穿着它游历到了炎国的水乡。",
     "isGlobalReleased": "false"
@@ -7612,7 +7904,8 @@
     "rarity": "TIER_6",
     "colorList": "#303030,#254b80,#343434,#181818,#33588c,,",
     "appearances": "Here A People Sows",
-    "getTime": "2024-02-01",
+    "getTimeCN": "2024-02-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202401812.html",
     "dialog": "玉门匠人的得意之作，送给了一位将要远行的旅人。希望百兵武具不再是重担，希望他能游遍万里河山。",
     "isGlobalReleased": "false"
@@ -7638,7 +7931,8 @@
     "rarity": "TIER_6",
     "colorList": "#535869,#716284,#36364e,#716284,#36364e,,",
     "appearances": "Here A People Sows",
-    "getTime": "2024-02-01",
+    "getTimeCN": "2024-02-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202401034.html",
     "dialog": "复现了龙门一位大客户幼时的绮梦。少女步于瑶台之间，得仙人披戴，着裙似黛，见玉如冰，意趣超然。",
     "isGlobalReleased": "false"
@@ -7664,7 +7958,8 @@
     "rarity": "TIER_5",
     "colorList": "#54537f,#54537f,#d3b36b,#c6aa6a,#54537f,,",
     "appearances": "Here A People Sows",
-    "getTime": "2024-02-01",
+    "getTimeCN": "2024-02-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "龙门手工匠制，以炎国的长卷山水画为灵感，所用织染工艺如今已不常见，霓裳之间山海浮现，真幻难辨。",
     "isGlobalReleased": "false"
@@ -7690,7 +7985,8 @@
     "rarity": "TIER_5",
     "colorList": "#cf9037,#3bd3d1,#d49b4b,#cf9037,#a4a4a4,,",
     "appearances": "Here A People Sows",
-    "getTime": "2024-02-01",
+    "getTimeCN": "2024-02-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "龙门手工匠制，以衬古籍所载的好时美景。记得捎上一把纸伞，书中点墨已化作灵雨洇开。",
     "isGlobalReleased": "false"
@@ -7716,7 +8012,8 @@
     "rarity": "TIER_5",
     "colorList": "#eb8c97,#f9b3b2,#f5f2e3,#eb8c97,#e2ba97,,",
     "appearances": "Unveiling of Devotion 2024 Series",
-    "getTime": "2024-02-13",
+    "getTimeCN": "2024-02-13",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "少见和弦干员穿着的可爱礼服，松紧灵活可调，更贴合身体曲线，所戴配饰也都是她至爱的私藏。",
     "isGlobalReleased": "false"
@@ -7742,7 +8039,8 @@
     "rarity": "TIER_4",
     "colorList": "#696b88,#797b93,#b2ecf8,#545874,#869eb4,,",
     "appearances": "Unveiling of Devotion 2024 Series",
-    "getTime": "2024-02-13",
+    "getTimeCN": "2024-02-13",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "芳汀私人定制的优雅礼服，面料挺括，裁剪细致，贴合少年身形。所搭配的香水同样由芳汀亲自挑选。",
     "isGlobalReleased": "false"
@@ -7768,7 +8066,8 @@
     "rarity": "TIER_4",
     "colorList": "#cc6d52,#e98569,#f6ce9a,#e98569,#d0b592,,",
     "appearances": "Trials For Navigator #04",
-    "getTime": "2024-02-22",
+    "getTimeCN": "2024-02-22",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "清流着新装携礼物拜访，时下流行的层层叠穿难掩鲜明的炎国风格——裙摆的红色内衬、腰间杖头的挂件，尽显搭配巧思。",
     "isGlobalReleased": "false"
@@ -7794,7 +8093,8 @@
     "rarity": "TIER_6",
     "colorList": "#2c3aa5,#c8cf69,#2c3aa5,#69747d,#2c3aa5,,",
     "appearances": "",
-    "getTime": "2024-02-28",
+    "getTimeCN": "2024-02-28",
+    "getTimeEN": "2024-02-28",
     "dynamicCompile": "",
     "dialog": "Frost inevitably gives way to a clear day. Ch'en Hui-chieh patrols the city in her first L.G.D. uniform, re-inspecting the metropolis both familiar and foreign to her.",
     "isGlobalReleased": "true"
@@ -7820,7 +8120,8 @@
     "rarity": "TIER_6",
     "colorList": "#29224f,#49bd1b,#29224f,#26252e,#29224f,,",
     "appearances": "Operation Lucent Arrow",
-    "getTime": "2024-03-07",
+    "getTimeCN": "2024-03-07",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "艾拉在某地市场上购买的私服，她在安全屋中休息时已习惯了这套服装。轻便舒适，随心所欲。她尤其喜欢当地帽子在自己头上的样子。",
     "isGlobalReleased": "false"
@@ -7846,7 +8147,8 @@
     "rarity": "TIER_5",
     "colorList": "#c9e9ff,#ebf6fe,#39434c,#a7a8a8,#878a8c,,",
     "appearances": "Operation Lucent Arrow",
-    "getTime": "2024-03-07",
+    "getTimeCN": "2024-03-07",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "医生根据实际需要挑选的服装。防风，防尘，保暖。他整理好行装，便去往下一个需要他的地方。这种地方实在太多，他很少能停下来。",
     "isGlobalReleased": "false"
@@ -7872,7 +8174,8 @@
     "rarity": "TIER_5",
     "colorList": "#0032dc,#edf1f3,#2ce4c5,#1c3b6e,#78adaf,,",
     "appearances": "Operation Lucent Arrow",
-    "getTime": "2024-03-07",
+    "getTimeCN": "2024-03-07",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "双月在闲暇时为自己准备的便装。她特意换了一条短裤，想要体验这世界那也许不同的阳光。若真能如她所愿，兜帽也可以不必戴上。",
     "isGlobalReleased": "false"
@@ -7898,7 +8201,8 @@
     "rarity": "TIER_3",
     "colorList": "#ac3a32,#ac3a32,#262428,#5b5b5b,#6d211e,,",
     "appearances": "Contingency Contract #2 Battleplan Underdawn",
-    "getTime": "2024-03-28",
+    "getTimeCN": "2024-03-28",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "针对健身爱好者设计的大众款式，无缝针织工艺搭配高性能弹性面料，触感顺滑，确保运动时的舒适度和灵活性。",
     "isGlobalReleased": "false"
@@ -7924,7 +8228,8 @@
     "rarity": "TIER_6",
     "colorList": "#164840,#164840,#baa265,#8da68f,#25242b,,",
     "appearances": "Babel",
-    "getTime": "2024-04-11",
+    "getTimeCN": "2024-04-11",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "龙门最新风潮服饰，完美融合了现代时尚与炎国古韵。仇白知晓仗剑与待茶的相通之处——既要全神贯注，又要懂得适可而止。",
     "isGlobalReleased": "false"
@@ -7950,7 +8255,8 @@
     "rarity": "TIER_5",
     "colorList": "#6396d0,#6396d0,#7ee2ec,#7ee2ec,#4c719c,,",
     "appearances": "Babel",
-    "getTime": "2024-04-11",
+    "getTimeCN": "2024-04-11",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "哥伦比亚当季的潮流休闲套装。可拆卸的多孔束带与各式便携小包足以彰显蚀清春日出行的多种趣味。",
     "isGlobalReleased": "false"
@@ -7976,7 +8282,8 @@
     "rarity": "TIER_5",
     "colorList": "#fcc36c,#725e48,#eeaf62,#e2ba88,#5a4326,,",
     "appearances": "Babel",
-    "getTime": "2024-04-11",
+    "getTimeCN": "2024-04-11",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "洋灰担任远行考察顾问时的着装。舒适耐穿，卫衣与外套的色彩对比彰显活力，她还专门配了副护目镜。",
     "isGlobalReleased": "false"
@@ -8002,7 +8309,8 @@
     "rarity": "TIER_4",
     "colorList": "#eee403,#ede40b,#98bc44,#98bc44,#223d3d,,",
     "appearances": "Babel",
-    "getTime": "2024-04-11",
+    "getTimeCN": "2024-04-11",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "松果回哥伦比亚探亲时的着装。翠色的边饰将本来很简单的服装勾勒出生机，她没有特意搭配，却很符合春日的氛围。",
     "isGlobalReleased": "false"
@@ -8028,7 +8336,8 @@
     "rarity": "TIER_6",
     "colorList": "#182e78,#182e78,#f4f3f3,#c5c1c2,#182454,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2024-04-25",
+    "getTimeCN": "2024-04-25",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202404066.html",
     "dialog": "银灰的礼服，为出席重要场合量身定制。名为希瓦艾什的力量在泰拉撕开裂口，磅礴的冰川与奔腾的云也将为他让路。",
     "isGlobalReleased": "false"
@@ -8054,7 +8363,8 @@
     "rarity": "TIER_6",
     "colorList": "#1b595c,#1b595c,#37d4bd,#8bbbbf,#1a444b,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2024-04-25",
+    "getTimeCN": "2024-04-25",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "霍尔海雅的演出服，为带来古典又浪漫的翩舞而设计。她精心挑选了布料与纹样，为重要的演出掇弄褶皱，为不灭的岁月鎏金。",
     "isGlobalReleased": "false"
@@ -8080,7 +8390,8 @@
     "rarity": "TIER_6",
     "colorList": "#6e9793,#6e9793,#eeb4c6,#eeb4c6,#60434c,,",
     "appearances": "Ambience Synesthesia 2024",
-    "getTime": "2024-04-25",
+    "getTimeCN": "2024-04-25",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "诗怀雅的演出服，潇洒灵动，尽显活泼可爱。她主导着跃动的节拍，将那些代表了陶醉与赞美的红心欣然收下。",
     "isGlobalReleased": "false"
@@ -8106,7 +8417,8 @@
     "rarity": "TIER_6",
     "colorList": "#28bd9c,#28bd9c,#ff8d3b,#28bd9c,#1d1d1d,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2024-05-01",
+    "getTimeCN": "2024-05-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202404090.html",
     "dialog": "归壤的水融开冰川，飘游的叶重访林地。可血脉之源已陷入永恒的沉睡，答案早已远去，当下又在何方？",
     "isGlobalReleased": "false"
@@ -8132,7 +8444,8 @@
     "rarity": "TIER_6",
     "colorList": "#b81919,#b81919,#ececec,#333333,#b81919,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2024-05-01",
+    "getTimeCN": "2024-05-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202404087.html",
     "dialog": "炮火弋空，崩天裂地，一切好似旧日重现。伊内丝来到城下，她将改写看似注定的结局，使卡兹戴尔免于被毁灭的命运。",
     "isGlobalReleased": "false"
@@ -8158,7 +8471,8 @@
     "rarity": "TIER_6",
     "colorList": "#773f2f,#1d1d1d,#ffffff,#1d1d1d,#773f2f,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2024-05-01",
+    "getTimeCN": "2024-05-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "棘刺亮出剑锋，沉寂近百年的伊比利亚舰队再度起航。黄金璀璨的秘密显于律外之地，无垠沙海与汪洋再难掩盖夺目辉光。",
     "isGlobalReleased": "false"
@@ -8184,7 +8498,8 @@
     "rarity": "TIER_6",
     "colorList": "#b5163c,#b5163c,#28468a,#b5163c,#1d1d1d,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2024-05-01",
+    "getTimeCN": "2024-05-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "https://ak.hypergryph.com/archive/dynamicCompile/202404008.html",
     "dialog": "浊心斯卡蒂在决策F/3019226中的迭代。混沌与冲动带来了赤红原野独一的主人。借着这样的情感，她创造出了心爱的造物。",
     "isGlobalReleased": "false"
@@ -8210,7 +8525,8 @@
     "rarity": "TIER_5",
     "colorList": "#2432a9,#2432a9,#1d1d1d,#2432a9,#1d1d1d,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2024-05-01",
+    "getTimeCN": "2024-05-01",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "蓝毒在决策F/3019226中的迭代。在哀律西昂，她是唯一愿为那些剧毒的花木献上歌声的仙子。",
     "isGlobalReleased": "false"
@@ -8236,7 +8552,8 @@
     "rarity": "TIER_5",
     "colorList": "#ff6a16,#ff6a16,#ececec,#ff6a16,#1d1d1d,,",
     "appearances": "Ch14: Absolved Will Be The Seekers",
-    "getTime": "2024-05-08",
+    "getTimeCN": "2024-05-08",
+    "getTimeEN": "Not released in global",
     "dynamicCompile": "",
     "dialog": "暴行举起提灯，防护服被深渊的气浪翻动。在更远处的黑暗中，引力子加速器缀连成环，整齐地闪烁着。他们已注意到她的来访。",
     "isGlobalReleased": "false"
