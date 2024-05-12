@@ -598,11 +598,11 @@
     "operator": "阿米娅",
     "appellation": "Amiya",
     "plannerId": "amiya0",
-    "colorList": ",,#0098dc,,",
+    "colorList": ",,#d73757,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
     "charId": "char_002_amiya",
-    "drawerList": "唯@W"
+    "drawerList": "Mag42"
   },
   {
     "number": "56",
@@ -1863,11 +1863,11 @@
     "operator": "阿米娅(近卫)",
     "appellation": "Amiya",
     "plannerId": "amiyaguard0",
-    "colorList": ",,#0098dc,,",
+    "colorList": ",,#d73757,,",
     "rarity": "TIER_5",
     "nation": "rhodes",
     "charId": "char_1001_amiya2",
-    "drawerList": "唯@W"
+    "drawerList": "Mag42"
   },
   {
     "number": "171",
@@ -3053,7 +3053,7 @@
     "plannerId": "ines0",
     "colorList": ",,#e03641,,",
     "rarity": "TIER_6",
-    "nation": "rhodes",
+    "nation": "null",
     "charId": "char_4087_ines",
     "drawerList": "板板"
   },
@@ -3295,7 +3295,7 @@
     "plannerId": "hoederer0",
     "colorList": ",,#b82c1e,,",
     "rarity": "TIER_6",
-    "nation": "rhodes",
+    "nation": "null",
     "charId": "char_4088_hodrer",
     "drawerList": "树豚"
   },
@@ -3562,5 +3562,71 @@
     "nation": "rhodes",
     "charId": "char_4132_ascln",
     "drawerList": "Cenm0"
+  },
+  {
+    "number": "325",
+    "operator": "PhonoR-0",
+    "appellation": "PhonoR-0",
+    "plannerId": "phonor0",
+    "colorList": ",,#303030,,",
+    "rarity": "TIER_1",
+    "nation": "rhodes",
+    "charId": "char_4136_phonor",
+    "drawerList": "M1917史密斯维森"
+  },
+  {
+    "number": "326",
+    "operator": "历阵锐枪芬",
+    "appellation": "Fang the Fire-sharpened",
+    "plannerId": "fangalter0",
+    "colorList": ",,#486496,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes",
+    "charId": "char_1036_fang2",
+    "drawerList": "下野宏铭"
+  },
+  {
+    "number": "327",
+    "operator": "魔王",
+    "appellation": "Civilight Eterna",
+    "plannerId": "civilighteterna0",
+    "colorList": ",,#bf6185,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes",
+    "charId": "char_4134_cetsyr",
+    "drawerList": "Chuzenji"
+  },
+  {
+    "number": "328",
+    "operator": "逻各斯",
+    "appellation": "Logos",
+    "plannerId": "logos0",
+    "colorList": ",,#3473d7,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes",
+    "charId": "char_4133_logos",
+    "drawerList": "Skade"
+  },
+  {
+    "number": "329",
+    "operator": "维什戴尔",
+    "appellation": "Wiš'adel",
+    "plannerId": "wisadel0",
+    "colorList": ",,#bf0000,,",
+    "rarity": "TIER_6",
+    "nation": "null",
+    "charId": "char_1035_wisdel",
+    "drawerList": "Liduke"
+  },
+  {
+    "number": "330",
+    "operator": "阿米娅(医疗)",
+    "appellation": "Amiya",
+    "plannerId": "amiyamedic0",
+    "colorList": ",,#d73757,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes",
+    "charId": "char_1037_amiya3",
+    "drawerList": "Mag42"
   }
 ]
