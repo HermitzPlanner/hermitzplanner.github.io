@@ -8108,7 +8108,7 @@
     "plannerId": "ela1",
     "skinPrice": "18",
     "skinNameCN": "密室",
-    "skinNameEN": "Safe House",
+    "skinNameEN": "Safehouse",
     "brand": "Crossover",
     "drawerList": "Ubisoft",
     "obtainApproachCN": "采购中心",
@@ -8121,10 +8121,10 @@
     "colorList": "#29224f,#49bd1b,#29224f,#26252e,#29224f,,",
     "appearances": "Operation Lucent Arrow",
     "getTimeCN": "2024-03-07",
-    "getTimeEN": "Not released in global",
+    "getTimeEN": "2024-09-05",
     "dynamicCompile": "",
-    "dialog": "艾拉在某地市场上购买的私服，她在安全屋中休息时已习惯了这套服装。轻便舒适，随心所欲。她尤其喜欢当地帽子在自己头上的样子。",
-    "isGlobalReleased": "false"
+    "dialog": "A set of clothes that Ela bought at the market. Light and comfortable, it is her favorite outfit in the safehouse. She particularly likes how the local hat looks on her.",
+    "isGlobalReleased": "true"
   },
   {
     "fashionReview": "0",
@@ -8148,10 +8148,10 @@
     "colorList": "#c9e9ff,#ebf6fe,#39434c,#a7a8a8,#878a8c,,",
     "appearances": "Operation Lucent Arrow",
     "getTimeCN": "2024-03-07",
-    "getTimeEN": "Not released in global",
+    "getTimeEN": "2024-09-05",
     "dynamicCompile": "",
-    "dialog": "医生根据实际需要挑选的服装。防风，防尘，保暖。他整理好行装，便去往下一个需要他的地方。这种地方实在太多，他很少能停下来。",
-    "isGlobalReleased": "false"
+    "dialog": "Picked by Doc based on practical requirements, offering protection against wind, dust, and cold as he goes to the next place that needs him. Of that, there is never a shortage.",
+    "isGlobalReleased": "true"
   },
   {
     "fashionReview": "0",
@@ -8162,7 +8162,7 @@
     "plannerId": "iana1",
     "skinPrice": "18",
     "skinNameCN": "镜廊",
-    "skinNameEN": "Mirror Maze",
+    "skinNameEN": "Mirrormaze",
     "brand": "Crossover",
     "drawerList": "Ubisoft",
     "obtainApproachCN": "采购中心",
@@ -8175,10 +8175,10 @@
     "colorList": "#0032dc,#edf1f3,#2ce4c5,#1c3b6e,#78adaf,,",
     "appearances": "Operation Lucent Arrow",
     "getTimeCN": "2024-03-07",
-    "getTimeEN": "Not released in global",
+    "getTimeEN": "2024-09-05",
     "dynamicCompile": "",
-    "dialog": "双月在闲暇时为自己准备的便装。她特意换了一条短裤，想要体验这世界那也许不同的阳光。若真能如她所愿，兜帽也可以不必戴上。",
-    "isGlobalReleased": "false"
+    "dialog": "Iana's casual outfit for her free time. She has changed into a pair of shorts, hoping that the sun here is different. Perhaps she will not need her hood.",
+    "isGlobalReleased": "true"
   },
   {
     "fashionReview": "0",
@@ -8193,7 +8193,7 @@
     "brand": "Marthe",
     "drawerList": "deel",
     "obtainApproachCN": "活动获得",
-    "obtainApproachEN": "Activity acquisition",
+    "obtainApproachEN": "Event Reward",
     "profession": "PIONEER",
     "subProfessionId": "charger",
     "itemObtainApproachCN": "",
@@ -8202,10 +8202,10 @@
     "colorList": "#ac3a32,#ac3a32,#262428,#5b5b5b,#6d211e,,",
     "appearances": "Contingency Contract #2 Battleplan Underdawn",
     "getTimeCN": "2024-03-28",
-    "getTimeEN": "Not released in global",
+    "getTimeEN": "2024-09-26",
     "dynamicCompile": "",
-    "dialog": "针对健身爱好者设计的大众款式，无缝针织工艺搭配高性能弹性面料，触感顺滑，确保运动时的舒适度和灵活性。",
-    "isGlobalReleased": "false"
+    "dialog": "A popular design with fitness lovers in mind. Stitchless weaving techniques and high-performance elastic materials come together for a smooth feel, ensuring snugness and flexibility during exercise.",
+    "isGlobalReleased": "true"
   },
   {
     "fashionReview": "0",
