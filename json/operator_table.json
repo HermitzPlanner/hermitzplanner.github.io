@@ -3628,5 +3628,159 @@
     "nation": "rhodes",
     "charId": "char_1037_amiya3",
     "drawerList": "Mag42"
+  },
+  {
+    "number": "331",
+    "operator": "深巡",
+    "appellation": "Underflow",
+    "plannerId": "underflow0",
+    "colorList": ",,#be50ba,,",
+    "rarity": "TIER_5",
+    "nation": "egir",
+    "charId": "char_4137_udflow",
+    "drawerList": "〇亻"
+  },
+  {
+    "number": "332",
+    "operator": "海霓",
+    "appellation": "Lucilla",
+    "plannerId": "lucilla0",
+    "colorList": ",,#e19a9d,,",
+    "rarity": "TIER_5",
+    "nation": "egir",
+    "charId": "char_4079_haini",
+    "drawerList": "色塩"
+  },
+  {
+    "number": "333",
+    "operator": "乌尔比安",
+    "appellation": "Ulpianus",
+    "plannerId": "ulpianus0",
+    "colorList": ",,#9b1757,,",
+    "rarity": "TIER_6",
+    "nation": "egir",
+    "charId": "char_4145_ulpia",
+    "drawerList": "Skade"
+  },
+  {
+    "number": "334",
+    "operator": "渡桥",
+    "appellation": "Mitm",
+    "plannerId": "mitm0",
+    "colorList": ",,#e23863,,",
+    "rarity": "TIER_5",
+    "nation": "rhodes",
+    "charId": "char_4147_mitm",
+    "drawerList": "〇亻"
+  },
+  {
+    "number": "335",
+    "operator": "妮芙",
+    "appellation": "Nymph",
+    "plannerId": "nymph0",
+    "colorList": ",,#88293a,,",
+    "rarity": "TIER_6",
+    "nation": "rhodes",
+    "charId": "char_4146_nymph",
+    "drawerList": "YUJI"
+  },
+  {
+    "number": "336",
+    "operator": "锡人",
+    "appellation": "Tin Man",
+    "plannerId": "tinman0",
+    "colorList": ",,#6a9496,,",
+    "rarity": "TIER_5",
+    "nation": "columbia",
+    "charId": "char_4151_tinman",
+    "drawerList": "树豚"
+  },
+  {
+    "number": "337",
+    "operator": "莎草",
+    "appellation": "Papyrus",
+    "plannerId": "papyrus0",
+    "colorList": ",,#92e1c1,,",
+    "rarity": "TIER_5",
+    "nation": "sargon",
+    "charId": "char_4139_papyrs",
+    "drawerList": "温泉瓜"
+  },
+  {
+    "number": "338",
+    "operator": "衡沙",
+    "appellation": "Sand Reckoner",
+    "plannerId": "sandreckoner0",
+    "colorList": ",,#0d318c,,",
+    "rarity": "TIER_5",
+    "nation": "sargon",
+    "charId": "char_4140_lasher",
+    "drawerList": "一千"
+  },
+  {
+    "number": "339",
+    "operator": "娜仁图亚",
+    "appellation": "Narantuya",
+    "plannerId": "narantuya0",
+    "colorList": ",,#c71011,,",
+    "rarity": "TIER_6",
+    "nation": "sargon",
+    "charId": "char_4138_narant",
+    "drawerList": "板板"
+  },
+  {
+    "number": "340",
+    "operator": "佩佩",
+    "appellation": "Pepe",
+    "plannerId": "pepe0",
+    "colorList": ",,#e3e3ed,,",
+    "rarity": "TIER_6",
+    "nation": "sargon",
+    "charId": "char_4058_pepe",
+    "drawerList": "Namie"
+  },
+  {
+    "number": "341",
+    "operator": "森西",
+    "appellation": "Senshi",
+    "plannerId": "senshi0",
+    "colorList": ",,#f2d177,,",
+    "rarity": "TIER_5",
+    "nation": "null",
+    "charId": "char_4143_sensi",
+    "drawerList": "Studio Montagne"
+  },
+  {
+    "number": "342",
+    "operator": "齐尔查克",
+    "appellation": "Chilchuck",
+    "plannerId": "chilchuck0",
+    "colorList": ",,#a77a40,,",
+    "rarity": "TIER_5",
+    "nation": "null",
+    "charId": "char_4144_chilc",
+    "drawerList": "Studio Montagne"
+  },
+  {
+    "number": "343",
+    "operator": "莱欧斯",
+    "appellation": "Laios",
+    "plannerId": "laios0",
+    "colorList": ",,#4a6f9e,,",
+    "rarity": "TIER_5",
+    "nation": "null",
+    "charId": "char_4142_laios",
+    "drawerList": "Studio Montagne"
+  },
+  {
+    "number": "344",
+    "operator": "玛露西尔",
+    "appellation": "Marcille",
+    "plannerId": "marcille0",
+    "colorList": ",,#336c8c,,",
+    "rarity": "TIER_6",
+    "nation": "null",
+    "charId": "char_4141_marcil",
+    "drawerList": "Studio Montagne"
   }
 ]
