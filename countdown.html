@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown Timer</title>
+    <style>
+        body {
+            background: hsl(0, 1%, 9%);
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+            display: flex;
+            flex-direction: column;
+            img {
+               max-width: 80%;
+               margin: 0 auto;
+            }
+        }
+        #countdown {
+            font-size: 48px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Countdown to Originium Dust Rerun</h1>
+    <img src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/operationoriginiumdustrerun.jpg" alt="">
+    <div id="countdown">Loading...</div>
+
+    <script>
+        function startCountdown(timestamp) {
+            function updateCountdown() {
+                const now = Math.floor(Date.now() / 1000); 
+                const diff = timestamp - now;
+                
+                if (diff <= 0) {
+                    document.getElementById("countdown").innerHTML = "Time's up!";
+                    return;
+                }
+
+                const days = Math.floor(diff / (60 * 60 * 24));
+                const hours = Math.floor((diff % (60 * 60 * 24)) / (60 * 60));
+                const minutes = Math.floor((diff % (60 * 60)) / 60);
+                const seconds = diff % 60;
+
+                document.getElementById("countdown").innerHTML = 
+                    `${days}d ${hours}h ${minutes}m ${seconds}s`;
+            }
+
+            updateCountdown();
+            setInterval(updateCountdown, 1000);
+        }
+
+        const targetTimestamp = 1726765200; // Your precious timestamp
+        startCountdown(targetTimestamp);
+    </script>
+</body>
+</html>
