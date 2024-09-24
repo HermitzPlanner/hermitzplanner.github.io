@@ -1,9 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Countdown">
+    <meta property="og:description" content="Contingency Contract 2 Battleplan Underdawn">
+    <meta property="og:url" content="https://hermitzplanner.github.io/countdown">
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/HermitzPlanner/planner-images/refs/heads/main/events/resized/resized_contingencycontract2battleplanunderdawn.jpg">
     <title>Countdown Timer</title>
+
     <style>
         body {
             background: hsl(0, 1%, 9%);
@@ -13,16 +20,19 @@
             margin-top: 50px;
             display: flex;
             flex-direction: column;
+
             img {
-               max-width: 80%;
-               margin: 0 auto;
+                max-width: 80%;
+                margin: 0 auto;
             }
         }
+
         #countdown {
             font-size: 48px;
         }
     </style>
 </head>
+
 <body>
     <h1>Countdown to </h1>
     <img src="" alt="">
@@ -36,9 +46,9 @@
         document.querySelector("h1").textContent += eventTitle
         function startCountdown(timestamp) {
             function updateCountdown() {
-                const now = Math.floor(Date.now() / 1000); 
+                const now = Math.floor(Date.now() / 1000);
                 const diff = timestamp - now;
-                
+
                 if (diff <= 0) {
                     document.getElementById("countdown").innerHTML = "Time's up!";
                     return;
@@ -49,7 +59,7 @@
                 const minutes = Math.floor((diff % (60 * 60)) / 60);
                 const seconds = diff % 60;
 
-                document.getElementById("countdown").innerHTML = 
+                document.getElementById("countdown").innerHTML =
                     `${days}d ${hours}h ${minutes}m ${seconds}s`;
             }
 
@@ -57,8 +67,9 @@
             setInterval(updateCountdown, 1000);
         }
 
-        
+
         startCountdown(targetTimestamp);
     </script>
 </body>
+
 </html>
