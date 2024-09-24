@@ -24,11 +24,16 @@
     </style>
 </head>
 <body>
-    <h1>Countdown to Originium Dust Rerun</h1>
-    <img src="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/events/operationoriginiumdustrerun.jpg" alt="">
+    <h1>Countdown to </h1>
+    <img src="" alt="">
     <div id="countdown">Loading...</div>
 
     <script>
+        const targetTimestamp = 1727370000
+        const imageLink = "https://raw.githubusercontent.com/HermitzPlanner/planner-images/refs/heads/main/events/contingencycontract2battleplanunderdawn.jpg"
+        const eventTitle = "Contingency Contract 2 Battleplan Underdawn"
+        document.querySelector("img").src = imageLink
+        document.querySelector("h1").textContent += eventTitle
         function startCountdown(timestamp) {
             function updateCountdown() {
                 const now = Math.floor(Date.now() / 1000); 
@@ -52,7 +57,7 @@
             setInterval(updateCountdown, 1000);
         }
 
-        const targetTimestamp = 1726765200; // Your precious timestamp
+        
         startCountdown(targetTimestamp);
     </script>
 </body>
