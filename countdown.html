@@ -7,7 +7,9 @@
     <meta property="og:title" content="Countdown to">
     <meta property="og:description" content="Contingency Contract 2 Battleplan Underdawn">
     <meta property="og:url" content="https://hermitzplanner.github.io/countdown">
-    <meta property="og:image" content="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/plume1.png">
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/plume1.png">
+    <link rel="icon" href="https://raw.githubusercontent.com/HermitzPlanner/planner-images/main/icon/plume1.png" type="image/jpeg">
     <title>Countdown Timer</title>
 
     <style>
@@ -58,8 +60,15 @@
                 const minutes = Math.floor((diff % (60 * 60)) / 60);
                 const seconds = diff % 60;
 
-                document.getElementById("countdown").innerHTML =
-                    `${days}d ${hours}h ${minutes}m ${seconds}s`;
+                // Only show days if they exist
+                let countdownText = '';
+                if (days > 0) {
+                    countdownText += `${days}d `;
+                }
+                countdownText += `${hours}h ${minutes}m ${seconds}s`;
+
+                document.getElementById("countdown").innerHTML = countdownText;
+                document.title = countdownText
             }
 
             updateCountdown();
